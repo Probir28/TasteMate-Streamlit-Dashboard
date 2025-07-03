@@ -36,3 +36,6 @@ elif tabs == "Association Rule Mining":
 elif tabs == "Regression":
     st.header("📈 Regression Analysis")
     st.write("Regression analysis will be shown here.")
+
+df = pd.read_csv("foodapp_survey_synthetic.csv")
+
