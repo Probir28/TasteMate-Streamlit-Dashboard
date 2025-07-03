@@ -1,0 +1,1001 @@
+Age,Gender,City,Occupation,Monthly_Income,Orders_Per_Week,Apps_Used,Delivery_Speed_Importance,Food_Quality_Importance,Willingness_Wait_Extra,Multi_Restaurant_Order,Diet_Preferences,Open_Personalized_Suggestions,Important_Features,Group_Order_Frequency,Spend_Per_Order,Max_Premium_Pay,Promotion_Motivation,Stopped_Using_App,Reason_Stopped,EcoFriendly_Packaging_Importance,Trust_AI_Recommendations,Comfortable_Sharing_Data,Emotional_Connection_App,Willingness_Try_App
+32,Male,Pune,Homemaker,<20000,1-2,Talabat,5,5,4,Yes,Vegetarian,Yes,"Combo offers, Sustainability, Fresh food",Sometimes,250-500,<400,Cashback,No,NA,5,Yes,No,2,3
+29,Male,Bangalore,Student,50001-80000,1-2,"Swiggy, Talabat",3,5,3,Yes,No preference,Yes,"Discounts, Sustainability, Ethical sourcing",Often,250-500,400-600,Loyalty points,No,NA,5,Maybe,Yes,4,5
+33,Female,Chennai,Homemaker,50001-80000,1-2,"Others, Zomato, Talabat",3,4,5,Yes,No preference,Yes,"Ethical sourcing, Fresh food, Combo offers",Sometimes,250-500,400-600,Free delivery,No,NA,5,Yes,No,3,3
+37,Female,Chennai,Self-employed,80001-120000,3-5,"Zomato, Talabat",4,5,1,No,Vegetarian,Yes,"Discounts, Fresh food, Sustainability",Rarely,>1200,400-600,Combo deals,No,NA,4,No,Yes,3,5
+28,Male,Delhi,Homemaker,20000-50000,1-2,"Deliveroo, Others, Zomato",5,5,1,Yes,Vegetarian,Yes,"Fast delivery, Combo offers, Ethical sourcing",Often,250-500,601-800,Free delivery,Yes,Limited Food Choices,4,Maybe,Yes,2,4
+28,Female,Mumbai,Employed - Part Time,20000-50000,1-2,Zomato,3,5,5,Yes,Keto,No,"Fast delivery, Discounts, Ethical sourcing",Rarely,250-500,400-600,Free delivery,Yes,Poor Customer Service,4,Yes,Yes,4,4
+37,Male,Kolkata,Employed - Part Time,50001-80000,>5,"Others, Swiggy",3,5,4,No,Vegetarian,No,"Combo offers, Discounts, Sustainability",Rarely,<250,601-800,Free delivery,Yes,High Cost,5,Yes,Yes,3,5
+33,Female,Hyderabad,Homemaker,50001-80000,3-5,"Swiggy, Others",5,4,3,Yes,No preference,Yes,"Fast delivery, Ethical sourcing, Fresh food",Rarely,250-500,<400,Loyalty points,No,NA,5,Maybe,No,2,4
+27,Female,Hyderabad,Employed - Part Time,20000-50000,1-2,"Others, Zomato",4,5,4,Yes,Vegan,Yes,"Combo offers, Sustainability, Fast delivery",Often,<250,400-600,Free delivery,No,NA,3,Maybe,Yes,2,3
+32,Female,Delhi,Self-employed,20000-50000,1-2,"Talabat, Zomato, Swiggy",2,3,5,Yes,Other,Yes,"Ethical sourcing, Fresh food, Sustainability",Sometimes,501-800,<400,Cashback,No,NA,2,Maybe,Yes,3,5
+27,Female,Pune,Employed - Full Time,20000-50000,3-5,Uber Eats,2,3,4,Yes,Vegan,Yes,"Fresh food, Fast delivery, Sustainability",Sometimes,<250,601-800,Combo deals,No,NA,1,Yes,Yes,4,3
+27,Female,Mumbai,Employed - Part Time,80001-120000,1-2,"Zomato, Deliveroo",4,5,4,Yes,No preference,Yes,"Sustainability, Combo offers, Fresh food",Sometimes,250-500,400-600,Loyalty points,No,NA,3,Maybe,Yes,5,4
+31,Male,Bangalore,Employed - Part Time,20000-50000,<1,"Talabat, Others",3,5,4,No,No preference,Yes,"Fast delivery, Combo offers, Discounts",Sometimes,501-800,601-800,Free delivery,No,NA,3,Yes,No,4,5
+20,Female,Pune,Homemaker,80001-120000,<1,"Uber Eats, Swiggy",3,4,2,Yes,Vegetarian,No,"Fast delivery, Sustainability, Fresh food",Sometimes,<250,400-600,Cashback,No,NA,4,Maybe,Yes,3,4
+21,Male,Pune,Self-employed,50001-80000,3-5,"Deliveroo, Zomato, Swiggy",5,4,4,Yes,Vegetarian,Yes,"Sustainability, Ethical sourcing, Combo offers",Rarely,250-500,601-800,Combo deals,No,NA,3,Yes,Yes,2,3
+27,Female,Delhi,Retired,80001-120000,1-2,"Talabat, Uber Eats",2,5,2,Yes,No preference,Yes,"Combo offers, Ethical sourcing, Fast delivery",Often,250-500,400-600,Free delivery,No,NA,4,Maybe,Yes,4,3
+24,Female,Delhi,Retired,80001-120000,3-5,"Zomato, Uber Eats, Deliveroo",4,3,5,No,No preference,Yes,"Discounts, Combo offers, Sustainability",Rarely,501-800,<400,Combo deals,Yes,Other,3,Yes,Yes,5,3
+31,Female,Hyderabad,Retired,20000-50000,1-2,"Talabat, Zomato, Deliveroo",3,3,3,Yes,Vegetarian,Yes,"Sustainability, Discounts, Ethical sourcing",Rarely,250-500,400-600,Loyalty points,No,NA,3,Maybe,Yes,3,4
+25,Male,Delhi,Retired,80001-120000,1-2,"Uber Eats, Swiggy",4,2,4,No,Keto,No,"Ethical sourcing, Discounts, Combo offers",Sometimes,250-500,400-600,Loyalty points,No,NA,4,No,Yes,2,3
+22,Female,Delhi,Employed - Full Time,<20000,<1,"Others, Deliveroo",4,4,3,No,Vegetarian,Yes,"Discounts, Combo offers, Fresh food",Sometimes,501-800,400-600,Cashback,No,NA,5,No,Yes,2,5
+37,Female,Delhi,Homemaker,80001-120000,<1,"Swiggy, Others",1,5,1,No,Vegan,Yes,"Sustainability, Fast delivery, Discounts",Sometimes,250-500,<400,Loyalty points,No,NA,4,Yes,No,2,4
+28,Female,Hyderabad,Homemaker,50001-80000,>5,"Others, Swiggy",4,3,3,No,No preference,Yes,"Fast delivery, Fresh food, Sustainability",Rarely,250-500,601-800,Cashback,Yes,Other,4,Maybe,Yes,3,5
+30,Male,Bangalore,Currently Unemployed,<20000,3-5,Talabat,2,5,5,Yes,No preference,Yes,"Fresh food, Fast delivery, Ethical sourcing",Rarely,<250,400-600,Free delivery,Yes,Other,4,Yes,Yes,5,5
+22,Male,Bangalore,Self-employed,50001-80000,1-2,"Uber Eats, Deliveroo",5,4,5,No,Vegetarian,Yes,"Fresh food, Combo offers, Ethical sourcing",Sometimes,501-800,400-600,Combo deals,No,NA,3,Yes,Yes,2,5
+27,Male,Kolkata,Retired,>120000,1-2,"Uber Eats, Zomato, Others",5,5,3,Yes,Other,Yes,"Fast delivery, Combo offers, Ethical sourcing",Sometimes,801-1200,400-600,Loyalty points,No,NA,4,No,Yes,3,3
+30,Male,Kolkata,Employed - Full Time,<20000,1-2,"Deliveroo, Uber Eats",3,5,5,No,Vegan,Yes,"Fast delivery, Fresh food, Sustainability",Rarely,>1200,400-600,Combo deals,Yes,Limited Food Choices,3,Maybe,No,3,4
+24,Female,Delhi,Self-employed,50001-80000,1-2,"Others, Deliveroo",3,5,4,Yes,No preference,Yes,"Fresh food, Sustainability, Combo offers",Sometimes,801-1200,<400,Combo deals,No,NA,4,Yes,Yes,5,3
+31,Male,Kolkata,Retired,50001-80000,1-2,Uber Eats,3,5,4,No,Keto,Yes,"Fast delivery, Sustainability, Combo offers",Rarely,501-800,<400,Free delivery,No,NA,5,Yes,No,3,3
+26,Other,Hyderabad,Employed - Full Time,80001-120000,<1,"Deliveroo, Talabat",4,5,1,Yes,Keto,Yes,"Fast delivery, Sustainability, Discounts",Rarely,501-800,601-800,Free delivery,No,NA,5,No,Yes,2,4
+28,Male,Bangalore,Self-employed,20000-50000,1-2,"Talabat, Others, Uber Eats",3,4,5,Yes,Keto,Yes,"Fast delivery, Fresh food, Ethical sourcing",Rarely,501-800,400-600,Loyalty points,No,NA,3,Maybe,Yes,2,5
+26,Male,Pune,Homemaker,20000-50000,3-5,Others,3,5,4,No,Vegetarian,Yes,"Ethical sourcing, Fresh food, Sustainability",Often,250-500,400-600,Free delivery,Yes,Limited Food Choices,5,Yes,Yes,3,2
+39,Female,Bangalore,Homemaker,<20000,>5,"Talabat, Deliveroo, Uber Eats",3,5,5,Yes,No preference,No,"Ethical sourcing, Discounts, Fast delivery",Sometimes,250-500,<400,Combo deals,No,NA,3,Maybe,Yes,4,3
+29,Female,Bangalore,Student,50001-80000,<1,Deliveroo,2,4,4,Yes,No preference,Yes,"Fresh food, Sustainability, Fast delivery",Rarely,250-500,400-600,Cashback,No,NA,3,Maybe,Yes,2,3
+24,Female,Hyderabad,Employed - Part Time,20000-50000,3-5,"Others, Talabat",4,4,4,Yes,Vegetarian,Yes,"Ethical sourcing, Discounts, Fast delivery",Sometimes,250-500,<400,Cashback,No,NA,3,Yes,Yes,3,5
+34,Female,Kolkata,Retired,80001-120000,1-2,"Uber Eats, Others",1,5,4,No,No preference,Yes,"Combo offers, Fast delivery, Sustainability",Often,501-800,400-600,Cashback,No,NA,4,Yes,Yes,3,5
+23,Female,Pune,Currently Unemployed,<20000,1-2,"Uber Eats, Talabat",4,5,3,Yes,Vegetarian,Yes,"Combo offers, Discounts, Ethical sourcing",Sometimes,250-500,400-600,Loyalty points,Yes,Delayed Delivery,2,Maybe,No,3,2
+31,Male,Hyderabad,Self-employed,50001-80000,<1,"Talabat, Zomato",3,4,3,Yes,No preference,Yes,"Combo offers, Fresh food, Discounts",Often,250-500,400-600,Free delivery,No,NA,4,Maybe,No,2,4
+20,Prefer not to say,Delhi,Currently Unemployed,<20000,1-2,"Zomato, Others, Uber Eats",3,4,3,Yes,Vegetarian,No,"Fresh food, Sustainability, Fast delivery",Rarely,250-500,>1000,Free delivery,No,NA,5,Maybe,Yes,5,5
+23,Other,Chennai,Student,20000-50000,1-2,Zomato,4,5,1,Yes,Vegetarian,Yes,"Sustainability, Fresh food, Discounts",Often,801-1200,400-600,Free delivery,No,NA,3,Yes,Yes,3,3
+30,Female,Bangalore,Employed - Part Time,20000-50000,1-2,Talabat,5,5,4,No,Vegetarian,Yes,"Fast delivery, Sustainability, Ethical sourcing",Sometimes,501-800,400-600,Free delivery,Yes,Poor Food Quality,4,Yes,Yes,4,4
+33,Male,Chennai,Self-employed,20000-50000,3-5,Others,4,5,4,No,No preference,Yes,"Discounts, Ethical sourcing, Sustainability",Rarely,250-500,400-600,Combo deals,No,NA,3,Yes,No,3,2
+30,Female,Hyderabad,Employed - Full Time,50001-80000,3-5,Talabat,3,5,5,Yes,No preference,No,"Fast delivery, Fresh food, Discounts",Sometimes,250-500,<400,Cashback,No,NA,4,No,Yes,5,4
+29,Male,Hyderabad,Retired,80001-120000,1-2,"Zomato, Swiggy, Uber Eats",3,5,2,Yes,Vegetarian,Yes,"Combo offers, Discounts, Fresh food",Often,250-500,801-1000,Combo deals,No,NA,1,Yes,Yes,3,4
+28,Male,Hyderabad,Employed - Part Time,50001-80000,3-5,"Zomato, Talabat, Swiggy",5,5,3,No,Vegan,Yes,"Fresh food, Ethical sourcing, Discounts",Sometimes,<250,400-600,Loyalty points,Yes,Poor Customer Service,5,No,Yes,3,5
+22,Male,Chennai,Homemaker,>120000,1-2,"Others, Swiggy",3,5,1,Yes,Vegetarian,No,"Ethical sourcing, Combo offers, Fast delivery",Sometimes,250-500,<400,Cashback,Yes,High Cost,4,Yes,Yes,3,3
+26,Male,Hyderabad,Student,80001-120000,<1,"Others, Uber Eats",2,5,1,Yes,No preference,Yes,"Sustainability, Fast delivery, Fresh food",Rarely,501-800,601-800,Cashback,Yes,Poor Food Quality,5,Yes,No,3,3
+27,Female,Delhi,Employed - Part Time,50001-80000,1-2,"Swiggy, Others, Uber Eats",5,5,1,Yes,No preference,Yes,"Fast delivery, Discounts, Fresh food",Sometimes,250-500,<400,Combo deals,No,NA,2,Yes,No,2,3
+35,Female,Hyderabad,Retired,80001-120000,<1,"Swiggy, Uber Eats",5,4,4,Yes,Vegetarian,Yes,"Fast delivery, Fresh food, Sustainability",Rarely,250-500,>1000,Loyalty points,No,NA,5,Yes,Yes,5,4
+31,Female,Mumbai,Employed - Part Time,50001-80000,1-2,Zomato,5,4,1,Yes,Vegan,Yes,"Fresh food, Sustainability, Fast delivery",Rarely,<250,801-1000,Loyalty points,No,NA,5,Maybe,Yes,4,5
+21,Male,Kolkata,Retired,<20000,<1,Others,5,5,4,Yes,No preference,Yes,"Fresh food, Ethical sourcing, Discounts",Sometimes,250-500,400-600,Cashback,No,NA,5,Yes,Yes,3,5
+31,Male,Chennai,Homemaker,50001-80000,<1,"Talabat, Deliveroo",5,3,2,Yes,Vegetarian,Yes,"Combo offers, Fresh food, Sustainability",Often,<250,<400,Free delivery,No,NA,5,No,Yes,3,2
+28,Male,Mumbai,Self-employed,<20000,3-5,"Swiggy, Deliveroo, Others",2,4,5,Yes,Vegan,Yes,"Combo offers, Fast delivery, Discounts",Sometimes,250-500,<400,Loyalty points,Yes,Limited Food Choices,3,Yes,Yes,2,5
+26,Prefer not to say,Hyderabad,Employed - Full Time,50001-80000,1-2,Zomato,2,4,4,No,Vegan,No,"Fresh food, Combo offers, Discounts",Rarely,250-500,400-600,Combo deals,Yes,Limited Food Choices,4,Yes,Yes,4,2
+33,Male,Delhi,Homemaker,50001-80000,1-2,Others,4,5,5,Yes,Keto,No,"Fast delivery, Sustainability, Ethical sourcing",Sometimes,501-800,<400,Loyalty points,No,NA,4,Yes,No,3,4
+35,Female,Bangalore,Employed - Full Time,<20000,<1,"Deliveroo, Others",4,3,5,No,Gluten-free,Yes,"Sustainability, Ethical sourcing, Fresh food",Often,250-500,400-600,Cashback,No,NA,4,Yes,No,3,5
+34,Female,Pune,Self-employed,20000-50000,1-2,Others,4,4,5,Yes,No preference,Yes,"Fast delivery, Ethical sourcing, Sustainability",Sometimes,250-500,801-1000,Free delivery,No,NA,5,Yes,Yes,5,2
+25,Male,Kolkata,Employed - Part Time,80001-120000,1-2,"Swiggy, Uber Eats",3,3,5,No,Vegetarian,Yes,"Combo offers, Sustainability, Fast delivery",Sometimes,250-500,400-600,Loyalty points,No,NA,3,Maybe,Yes,3,1
+28,Female,Pune,Employed - Full Time,50001-80000,3-5,Deliveroo,3,5,4,No,No preference,No,"Fast delivery, Sustainability, Discounts",Often,501-800,601-800,Cashback,No,NA,3,Yes,Yes,4,3
+31,Female,Hyderabad,Student,20000-50000,1-2,Deliveroo,4,4,2,No,Vegetarian,Yes,"Fresh food, Sustainability, Ethical sourcing",Sometimes,<250,601-800,Loyalty points,Yes,Poor Food Quality,3,Yes,No,3,4
+34,Female,Kolkata,Student,50001-80000,<1,"Zomato, Talabat, Uber Eats",1,4,3,No,No preference,Yes,"Ethical sourcing, Sustainability, Combo offers",Rarely,501-800,801-1000,Free delivery,No,NA,5,Maybe,No,4,4
+27,Female,Kolkata,Retired,50001-80000,1-2,"Uber Eats, Deliveroo",3,4,2,Yes,No preference,Yes,"Combo offers, Fresh food, Ethical sourcing",Rarely,801-1200,<400,Combo deals,No,NA,5,Yes,Yes,3,4
+29,Male,Delhi,Homemaker,50001-80000,<1,"Others, Talabat",4,5,4,Yes,No preference,Yes,"Fresh food, Ethical sourcing, Combo offers",Often,250-500,400-600,Cashback,No,NA,4,Maybe,No,3,5
+24,Male,Kolkata,Self-employed,>120000,1-2,Others,4,4,3,Yes,Vegetarian,Yes,"Sustainability, Fresh food, Ethical sourcing",Sometimes,501-800,601-800,Cashback,Yes,Poor Food Quality,4,Yes,No,5,5
+24,Female,Chennai,Retired,50001-80000,1-2,Uber Eats,3,3,5,Yes,Vegan,Yes,"Sustainability, Ethical sourcing, Discounts",Rarely,501-800,601-800,Free delivery,No,NA,4,Yes,Yes,3,5
+34,Female,Mumbai,Homemaker,20000-50000,3-5,Zomato,4,5,5,Yes,Keto,Yes,"Combo offers, Fast delivery, Discounts",Sometimes,250-500,801-1000,Cashback,Yes,Poor Food Quality,4,No,Yes,3,4
+36,Male,Mumbai,Homemaker,80001-120000,<1,"Talabat, Zomato",4,5,3,No,No preference,No,"Ethical sourcing, Combo offers, Sustainability",Sometimes,501-800,601-800,Free delivery,Yes,Other,3,Maybe,Yes,2,1
+29,Female,Mumbai,Retired,80001-120000,1-2,"Others, Uber Eats, Talabat",3,5,3,Yes,Vegan,Yes,"Discounts, Fresh food, Fast delivery",Often,250-500,<400,Cashback,No,NA,5,Yes,Yes,1,3
+35,Female,Chennai,Currently Unemployed,<20000,<1,"Deliveroo, Others",1,5,5,Yes,Other,Yes,"Discounts, Combo offers, Sustainability",Rarely,250-500,400-600,Free delivery,Yes,Poor Customer Service,4,Yes,Yes,4,4
+31,Female,Pune,Homemaker,20000-50000,1-2,"Uber Eats, Talabat, Others",3,5,3,No,Other,Yes,"Sustainability, Combo offers, Fresh food",Sometimes,501-800,<400,Loyalty points,No,NA,4,Yes,Yes,3,5
+26,Male,Delhi,Currently Unemployed,20000-50000,1-2,"Others, Talabat",3,2,4,Yes,Gluten-free,Yes,"Fast delivery, Fresh food, Sustainability",Often,501-800,400-600,Loyalty points,No,NA,1,Yes,Yes,4,5
+31,Female,Kolkata,Student,50001-80000,3-5,"Uber Eats, Swiggy, Deliveroo",5,5,2,Yes,Other,No,"Fast delivery, Discounts, Fresh food",Rarely,801-1200,400-600,Loyalty points,No,NA,5,Maybe,No,3,3
+37,Female,Chennai,Student,50001-80000,<1,"Zomato, Deliveroo",2,4,4,No,Vegetarian,Yes,"Sustainability, Combo offers, Fresh food",Rarely,250-500,601-800,Cashback,No,NA,5,Yes,Yes,3,2
+29,Male,Mumbai,Homemaker,50001-80000,<1,"Swiggy, Talabat, Others",4,5,3,Yes,Vegan,No,"Fresh food, Combo offers, Fast delivery",Often,250-500,801-1000,Free delivery,Yes,Poor Customer Service,4,Maybe,Yes,4,2
+37,Male,Hyderabad,Student,80001-120000,1-2,"Swiggy, Uber Eats",2,4,5,Yes,Vegan,Yes,"Fast delivery, Fresh food, Sustainability",Sometimes,250-500,601-800,Free delivery,No,NA,5,Yes,Yes,3,3
+18,Other,Bangalore,Self-employed,50001-80000,<1,"Zomato, Others, Swiggy",3,4,4,No,No preference,Yes,"Combo offers, Sustainability, Fast delivery",Sometimes,<250,400-600,Combo deals,No,NA,4,Maybe,Yes,4,4
+34,Male,Kolkata,Currently Unemployed,<20000,<1,"Swiggy, Zomato, Others",4,5,2,No,Vegan,Yes,"Fresh food, Sustainability, Ethical sourcing",Sometimes,250-500,<400,Loyalty points,No,NA,4,No,Yes,3,5
+30,Female,Chennai,Currently Unemployed,20000-50000,1-2,"Others, Zomato, Swiggy",3,4,2,No,Other,No,"Combo offers, Fresh food, Ethical sourcing",Rarely,250-500,801-1000,Combo deals,No,NA,4,Maybe,Yes,2,4
+28,Female,Chennai,Homemaker,20000-50000,<1,"Zomato, Uber Eats",4,5,3,Yes,Vegetarian,Yes,"Combo offers, Discounts, Fresh food",Often,250-500,<400,Loyalty points,No,NA,5,Yes,Yes,3,4
+30,Male,Delhi,Student,20000-50000,<1,"Talabat, Zomato",3,2,5,No,Vegetarian,Yes,"Ethical sourcing, Sustainability, Fresh food",Rarely,250-500,<400,Combo deals,Yes,High Cost,4,Maybe,No,1,4
+20,Female,Delhi,Employed - Full Time,50001-80000,3-5,"Talabat, Zomato",3,3,4,Yes,No preference,No,"Sustainability, Discounts, Fast delivery",Rarely,250-500,<400,Loyalty points,Yes,Limited Food Choices,5,No,No,3,2
+28,Male,Chennai,Retired,80001-120000,1-2,"Uber Eats, Talabat, Swiggy",4,5,3,Yes,Vegetarian,Yes,"Discounts, Fresh food, Sustainability",Rarely,>1200,400-600,Free delivery,Yes,High Cost,4,No,No,2,5
+31,Female,Mumbai,Retired,20000-50000,<1,Others,3,5,3,Yes,Vegetarian,Yes,"Fast delivery, Combo offers, Ethical sourcing",Rarely,501-800,<400,Loyalty points,No,NA,5,Maybe,Yes,4,4
+37,Male,Bangalore,Currently Unemployed,50001-80000,1-2,"Talabat, Deliveroo",5,5,3,Yes,No preference,Yes,"Fast delivery, Combo offers, Discounts",Often,<250,801-1000,Cashback,No,NA,5,No,Yes,2,3
+27,Female,Kolkata,Homemaker,50001-80000,1-2,Zomato,4,4,4,Yes,Vegetarian,No,"Fast delivery, Fresh food, Sustainability",Sometimes,801-1200,>1000,Loyalty points,No,NA,4,Maybe,Yes,2,4
+25,Male,Delhi,Homemaker,20000-50000,1-2,"Uber Eats, Zomato, Deliveroo",3,5,4,Yes,Vegetarian,Yes,"Ethical sourcing, Sustainability, Discounts",Often,501-800,>1000,Loyalty points,No,NA,5,Yes,No,3,4
+27,Male,Kolkata,Self-employed,20000-50000,1-2,"Deliveroo, Zomato",1,5,3,Yes,Vegetarian,No,"Fresh food, Ethical sourcing, Discounts",Sometimes,801-1200,<400,Free delivery,No,NA,4,No,Yes,1,2
+34,Other,Mumbai,Employed - Part Time,20000-50000,<1,Others,4,5,4,Yes,Keto,Yes,"Sustainability, Fresh food, Fast delivery",Sometimes,250-500,801-1000,Cashback,Yes,Other,5,Maybe,No,1,3
+31,Male,Kolkata,Employed - Part Time,<20000,1-2,"Deliveroo, Uber Eats",4,4,4,No,Other,No,"Sustainability, Combo offers, Fresh food",Sometimes,250-500,>1000,Free delivery,Yes,Limited Food Choices,5,Yes,Yes,3,4
+27,Female,Hyderabad,Currently Unemployed,80001-120000,1-2,Talabat,3,5,5,Yes,No preference,Yes,"Ethical sourcing, Discounts, Fast delivery",Often,801-1200,801-1000,Combo deals,No,NA,3,Yes,No,2,3
+32,Male,Delhi,Retired,<20000,1-2,"Others, Zomato",5,5,5,Yes,Vegetarian,Yes,"Ethical sourcing, Discounts, Fast delivery",Sometimes,250-500,601-800,Combo deals,Yes,Limited Food Choices,5,Maybe,No,2,3
+30,Female,Mumbai,Self-employed,20000-50000,3-5,"Deliveroo, Others",3,5,4,Yes,Vegetarian,No,"Discounts, Fresh food, Combo offers",Rarely,801-1200,601-800,Cashback,No,NA,4,Yes,Yes,2,4
+34,Male,Mumbai,Self-employed,50001-80000,1-2,Deliveroo,5,5,4,Yes,Keto,No,"Combo offers, Fresh food, Fast delivery",Rarely,501-800,<400,Combo deals,Yes,Delayed Delivery,5,Yes,No,4,4
+26,Other,Bangalore,Self-employed,>120000,1-2,Uber Eats,2,5,3,Yes,Other,Yes,"Combo offers, Fast delivery, Discounts",Rarely,>1200,801-1000,Cashback,Yes,High Cost,5,Yes,Yes,4,4
+28,Male,Bangalore,Currently Unemployed,20000-50000,1-2,Others,5,3,4,Yes,Vegetarian,Yes,"Sustainability, Discounts, Combo offers",Sometimes,250-500,<400,Loyalty points,No,NA,2,Maybe,No,3,5
+28,Male,Hyderabad,Employed - Part Time,<20000,1-2,Talabat,4,4,3,Yes,Vegetarian,No,"Ethical sourcing, Combo offers, Sustainability",Often,250-500,400-600,Combo deals,Yes,Poor Food Quality,4,Maybe,No,5,4
+22,Male,Mumbai,Retired,<20000,<1,"Zomato, Talabat, Others",3,5,3,No,No preference,Yes,"Fresh food, Ethical sourcing, Discounts",Rarely,250-500,>1000,Loyalty points,No,NA,4,Maybe,No,1,4
+31,Male,Pune,Self-employed,20000-50000,<1,Others,3,4,3,Yes,Other,Yes,"Combo offers, Fresh food, Discounts",Rarely,>1200,400-600,Free delivery,No,NA,5,No,Yes,3,5
+31,Female,Mumbai,Retired,20000-50000,3-5,"Talabat, Swiggy",3,3,4,Yes,Vegetarian,No,"Sustainability, Ethical sourcing, Combo offers",Rarely,250-500,<400,Combo deals,No,NA,5,No,Yes,4,4
+30,Male,Bangalore,Student,50001-80000,1-2,"Swiggy, Uber Eats",5,4,2,Yes,Vegetarian,Yes,"Fast delivery, Discounts, Ethical sourcing",Sometimes,250-500,>1000,Free delivery,No,NA,4,Yes,No,3,3
+28,Female,Pune,Homemaker,20000-50000,1-2,Others,3,4,3,Yes,Vegetarian,Yes,"Combo offers, Fast delivery, Fresh food",Rarely,250-500,>1000,Free delivery,No,NA,5,Yes,No,5,3
+22,Male,Delhi,Homemaker,<20000,1-2,"Talabat, Uber Eats",2,5,3,Yes,Vegan,No,"Combo offers, Ethical sourcing, Discounts",Rarely,250-500,<400,Cashback,No,NA,4,Yes,Yes,5,4
+27,Male,Delhi,Retired,80001-120000,1-2,Uber Eats,4,5,1,Yes,No preference,Yes,"Sustainability, Fresh food, Combo offers",Rarely,<250,801-1000,Free delivery,Yes,High Cost,2,Yes,Yes,2,4
+28,Female,Kolkata,Employed - Full Time,20000-50000,<1,Swiggy,4,4,2,Yes,No preference,Yes,"Fast delivery, Discounts, Ethical sourcing",Sometimes,250-500,400-600,Cashback,Yes,Delayed Delivery,3,Maybe,Yes,5,5
+25,Female,Chennai,Employed - Full Time,20000-50000,3-5,"Deliveroo, Swiggy",4,3,4,No,No preference,No,"Discounts, Sustainability, Fast delivery",Sometimes,501-800,400-600,Cashback,Yes,High Cost,3,Maybe,No,5,4
+29,Male,Bangalore,Currently Unemployed,20000-50000,<1,"Uber Eats, Swiggy, Others",4,5,4,No,Vegan,Yes,"Ethical sourcing, Combo offers, Sustainability",Sometimes,<250,400-600,Cashback,No,NA,3,No,No,3,5
+32,Male,Chennai,Currently Unemployed,>120000,3-5,"Uber Eats, Talabat, Others",3,5,3,Yes,Vegan,No,"Fresh food, Fast delivery, Combo offers",Rarely,801-1200,<400,Cashback,No,NA,3,Maybe,Yes,5,2
+39,Male,Pune,Homemaker,20000-50000,3-5,"Uber Eats, Deliveroo",5,5,5,No,Vegetarian,No,"Sustainability, Discounts, Fresh food",Sometimes,501-800,400-600,Cashback,Yes,Poor Customer Service,2,Maybe,Yes,1,4
+30,Female,Bangalore,Student,80001-120000,3-5,"Zomato, Swiggy, Others",3,5,4,Yes,Vegetarian,Yes,"Combo offers, Fast delivery, Fresh food",Rarely,501-800,<400,Loyalty points,No,NA,5,No,Yes,4,5
+31,Female,Hyderabad,Employed - Part Time,50001-80000,1-2,Deliveroo,2,4,3,No,No preference,Yes,"Fresh food, Combo offers, Sustainability",Rarely,501-800,801-1000,Cashback,Yes,Delayed Delivery,3,Yes,Yes,2,3
+29,Male,Mumbai,Employed - Part Time,<20000,<1,"Deliveroo, Talabat, Uber Eats",4,5,4,Yes,Vegetarian,Yes,"Fresh food, Sustainability, Combo offers",Sometimes,250-500,601-800,Combo deals,Yes,Poor Customer Service,3,Yes,No,2,3
+20,Female,Hyderabad,Currently Unemployed,>120000,1-2,Zomato,4,5,5,Yes,Vegan,Yes,"Ethical sourcing, Fresh food, Combo offers",Rarely,250-500,801-1000,Cashback,No,NA,3,No,Yes,3,4
+29,Female,Pune,Student,20000-50000,1-2,Zomato,3,5,3,No,Vegetarian,Yes,"Combo offers, Fast delivery, Ethical sourcing",Sometimes,501-800,601-800,Loyalty points,Yes,Other,4,Yes,Yes,3,5
+30,Female,Bangalore,Currently Unemployed,<20000,1-2,"Zomato, Swiggy, Uber Eats",4,5,2,No,Keto,Yes,"Combo offers, Discounts, Sustainability",Rarely,250-500,<400,Combo deals,No,NA,4,Yes,No,4,2
+42,Female,Pune,Employed - Part Time,80001-120000,3-5,"Talabat, Swiggy",3,4,5,No,Keto,Yes,"Discounts, Ethical sourcing, Sustainability",Rarely,250-500,801-1000,Combo deals,No,NA,3,Maybe,Yes,3,4
+29,Male,Mumbai,Retired,50001-80000,1-2,"Talabat, Uber Eats, Others",3,5,4,Yes,No preference,Yes,"Discounts, Fast delivery, Ethical sourcing",Often,<250,801-1000,Loyalty points,No,NA,4,Yes,Yes,3,2
+31,Male,Delhi,Currently Unemployed,50001-80000,1-2,"Swiggy, Uber Eats",5,5,2,No,Vegan,Yes,"Fresh food, Combo offers, Sustainability",Sometimes,501-800,400-600,Combo deals,No,NA,5,Yes,No,2,4
+29,Male,Delhi,Self-employed,20000-50000,1-2,"Swiggy, Zomato, Talabat",2,4,4,No,No preference,Yes,"Fast delivery, Combo offers, Sustainability",Sometimes,250-500,<400,Loyalty points,No,NA,4,No,Yes,3,5
+24,Male,Pune,Retired,20000-50000,1-2,"Zomato, Swiggy, Others",3,4,3,Yes,Vegetarian,Yes,"Sustainability, Combo offers, Fresh food",Often,250-500,601-800,Free delivery,No,NA,4,No,No,4,3
+35,Female,Chennai,Currently Unemployed,50001-80000,1-2,"Swiggy, Uber Eats, Zomato",5,4,5,Yes,Vegetarian,Yes,"Sustainability, Discounts, Fresh food",Sometimes,<250,601-800,Free delivery,Yes,Poor Customer Service,4,Yes,Yes,3,1
+33,Female,Bangalore,Homemaker,20000-50000,3-5,"Talabat, Swiggy",5,4,3,Yes,No preference,Yes,"Fast delivery, Discounts, Sustainability",Sometimes,>1200,801-1000,Cashback,No,NA,3,Yes,No,3,4
+33,Male,Bangalore,Currently Unemployed,20000-50000,1-2,"Swiggy, Others",4,2,3,No,Vegetarian,Yes,"Combo offers, Sustainability, Fast delivery",Sometimes,250-500,<400,Cashback,Yes,High Cost,5,Maybe,Yes,3,4
+25,Male,Delhi,Homemaker,<20000,3-5,"Swiggy, Uber Eats",4,4,4,Yes,No preference,Yes,"Discounts, Combo offers, Ethical sourcing",Rarely,501-800,<400,Cashback,Yes,Delayed Delivery,5,Yes,Yes,3,3
+37,Male,Kolkata,Student,20000-50000,3-5,"Uber Eats, Deliveroo, Swiggy",4,5,3,Yes,Vegetarian,Yes,"Ethical sourcing, Discounts, Fast delivery",Rarely,250-500,400-600,Cashback,No,NA,4,Maybe,Yes,3,4
+22,Female,Hyderabad,Employed - Part Time,80001-120000,3-5,"Swiggy, Zomato",5,1,2,Yes,Gluten-free,Yes,"Combo offers, Discounts, Sustainability",Sometimes,501-800,400-600,Loyalty points,No,NA,3,Yes,No,5,5
+32,Male,Kolkata,Retired,20000-50000,<1,Others,5,4,4,Yes,No preference,Yes,"Discounts, Fresh food, Ethical sourcing",Rarely,250-500,<400,Free delivery,Yes,Poor Food Quality,5,Yes,No,4,3
+40,Female,Mumbai,Retired,>120000,3-5,Deliveroo,3,5,4,Yes,No preference,Yes,"Fresh food, Discounts, Combo offers",Rarely,501-800,400-600,Loyalty points,Yes,Limited Food Choices,4,Yes,Yes,3,3
+25,Male,Hyderabad,Employed - Full Time,20000-50000,<1,"Uber Eats, Zomato, Talabat",3,5,1,Yes,No preference,Yes,"Fast delivery, Fresh food, Ethical sourcing",Rarely,250-500,400-600,Combo deals,Yes,Other,3,Maybe,Yes,3,4
+27,Male,Hyderabad,Employed - Full Time,50001-80000,<1,"Uber Eats, Talabat",4,5,4,No,No preference,Yes,"Ethical sourcing, Discounts, Fast delivery",Rarely,250-500,601-800,Combo deals,Yes,Other,4,Maybe,Yes,3,4
+30,Prefer not to say,Pune,Employed - Part Time,20000-50000,1-2,"Deliveroo, Zomato",4,4,3,Yes,Vegetarian,No,"Sustainability, Fresh food, Combo offers",Rarely,501-800,400-600,Combo deals,No,NA,5,Yes,Yes,4,1
+27,Other,Delhi,Employed - Full Time,20000-50000,1-2,"Others, Talabat, Zomato",4,5,3,No,No preference,Yes,"Ethical sourcing, Fast delivery, Combo offers",Rarely,501-800,400-600,Combo deals,Yes,High Cost,5,Yes,No,3,4
+22,Male,Kolkata,Retired,20000-50000,<1,Swiggy,4,3,3,Yes,No preference,No,"Ethical sourcing, Fresh food, Fast delivery",Rarely,501-800,601-800,Combo deals,No,NA,4,Yes,Yes,4,5
+30,Female,Kolkata,Currently Unemployed,20000-50000,<1,"Uber Eats, Others",5,5,3,Yes,Vegan,Yes,"Combo offers, Fresh food, Discounts",Rarely,801-1200,>1000,Free delivery,No,NA,3,Maybe,No,3,3
+24,Female,Delhi,Student,50001-80000,<1,"Uber Eats, Others, Deliveroo",2,3,4,Yes,Keto,Yes,"Combo offers, Discounts, Sustainability",Sometimes,250-500,<400,Loyalty points,No,NA,4,Yes,No,3,4
+32,Female,Kolkata,Student,>120000,3-5,Uber Eats,3,5,3,Yes,No preference,Yes,"Sustainability, Discounts, Fast delivery",Rarely,801-1200,400-600,Combo deals,No,NA,5,Yes,Yes,4,1
+25,Male,Delhi,Employed - Part Time,50001-80000,<1,"Uber Eats, Others, Zomato",3,4,4,Yes,Keto,Yes,"Ethical sourcing, Fast delivery, Discounts",Often,<250,801-1000,Cashback,Yes,Limited Food Choices,3,Yes,No,3,4
+37,Female,Pune,Employed - Full Time,20000-50000,<1,"Swiggy, Others, Zomato",3,5,1,No,Vegetarian,Yes,"Ethical sourcing, Fast delivery, Discounts",Often,501-800,400-600,Free delivery,Yes,Limited Food Choices,5,No,Yes,5,4
+26,Female,Chennai,Currently Unemployed,<20000,1-2,"Others, Swiggy",1,5,5,Yes,No preference,Yes,"Fresh food, Ethical sourcing, Combo offers",Sometimes,250-500,601-800,Cashback,No,NA,4,Maybe,Yes,2,4
+28,Female,Hyderabad,Student,<20000,1-2,Talabat,2,4,4,Yes,Vegetarian,Yes,"Sustainability, Ethical sourcing, Fresh food",Sometimes,250-500,400-600,Free delivery,Yes,Poor Food Quality,5,No,No,2,4
+34,Male,Pune,Student,50001-80000,3-5,Uber Eats,4,3,4,Yes,Vegetarian,Yes,"Combo offers, Sustainability, Discounts",Rarely,250-500,400-600,Free delivery,No,NA,4,Yes,Yes,3,3
+23,Male,Bangalore,Self-employed,50001-80000,<1,Swiggy,5,5,3,Yes,No preference,Yes,"Combo offers, Fast delivery, Discounts",Rarely,250-500,601-800,Cashback,Yes,Other,4,Yes,Yes,4,5
+31,Male,Mumbai,Self-employed,80001-120000,1-2,"Swiggy, Zomato, Talabat",4,5,3,No,Vegetarian,Yes,"Sustainability, Discounts, Ethical sourcing",Often,<250,601-800,Cashback,Yes,High Cost,5,Yes,No,4,4
+36,Female,Chennai,Retired,<20000,1-2,Talabat,4,5,2,Yes,No preference,Yes,"Ethical sourcing, Sustainability, Discounts",Rarely,250-500,400-600,Combo deals,Yes,Delayed Delivery,5,Yes,Yes,2,3
+21,Male,Bangalore,Student,50001-80000,3-5,Others,3,3,5,Yes,Vegetarian,Yes,"Combo offers, Sustainability, Discounts",Often,<250,<400,Cashback,Yes,Poor Food Quality,3,Maybe,Yes,2,5
+30,Female,Hyderabad,Employed - Part Time,20000-50000,1-2,"Uber Eats, Deliveroo, Talabat",4,4,3,Yes,Vegetarian,No,"Fresh food, Ethical sourcing, Fast delivery",Sometimes,250-500,>1000,Loyalty points,No,NA,4,Yes,No,3,1
+31,Other,Kolkata,Homemaker,50001-80000,3-5,"Talabat, Uber Eats, Swiggy",4,5,4,Yes,Vegetarian,Yes,"Discounts, Fresh food, Fast delivery",Rarely,<250,400-600,Free delivery,Yes,Other,3,Yes,Yes,2,4
+33,Male,Delhi,Homemaker,50001-80000,<1,"Talabat, Uber Eats",4,5,4,Yes,Other,Yes,"Fresh food, Fast delivery, Discounts",Sometimes,<250,400-600,Free delivery,No,NA,3,No,No,3,4
+23,Female,Hyderabad,Currently Unemployed,50001-80000,1-2,"Talabat, Swiggy, Deliveroo",3,5,3,Yes,Keto,Yes,"Fast delivery, Discounts, Fresh food",Sometimes,<250,801-1000,Combo deals,No,NA,5,Maybe,Yes,3,4
+23,Male,Pune,Student,50001-80000,1-2,Swiggy,2,5,4,Yes,Vegetarian,No,"Combo offers, Fast delivery, Sustainability",Rarely,250-500,400-600,Free delivery,No,NA,3,No,Yes,3,3
+32,Female,Mumbai,Student,<20000,3-5,"Zomato, Deliveroo, Swiggy",2,5,4,Yes,Vegan,Yes,"Fast delivery, Fresh food, Discounts",Rarely,501-800,601-800,Cashback,No,NA,5,Maybe,No,2,3
+31,Male,Pune,Retired,50001-80000,<1,Uber Eats,4,5,4,Yes,Vegetarian,Yes,"Fast delivery, Discounts, Sustainability",Sometimes,801-1200,>1000,Free delivery,No,NA,4,No,Yes,2,1
+31,Female,Chennai,Student,<20000,<1,Others,5,4,3,No,Keto,Yes,"Ethical sourcing, Discounts, Fast delivery",Sometimes,<250,400-600,Free delivery,Yes,Poor Food Quality,5,Maybe,No,3,4
+31,Female,Chennai,Employed - Part Time,50001-80000,1-2,"Swiggy, Deliveroo, Uber Eats",5,4,3,Yes,Vegan,Yes,"Fast delivery, Sustainability, Discounts",Rarely,501-800,400-600,Cashback,No,NA,3,No,No,1,4
+26,Female,Mumbai,Self-employed,20000-50000,<1,"Uber Eats, Zomato, Deliveroo",4,5,2,No,Gluten-free,Yes,"Ethical sourcing, Discounts, Fresh food",Rarely,501-800,801-1000,Cashback,Yes,Poor Customer Service,2,Yes,No,3,4
+31,Female,Bangalore,Student,50001-80000,<1,Talabat,4,4,4,No,Keto,Yes,"Ethical sourcing, Fast delivery, Combo offers",Often,250-500,<400,Free delivery,No,NA,2,Yes,Yes,4,5
+31,Female,Bangalore,Student,80001-120000,>5,"Uber Eats, Talabat, Swiggy",5,4,4,Yes,No preference,No,"Fresh food, Ethical sourcing, Combo offers",Sometimes,501-800,<400,Loyalty points,No,NA,5,Maybe,Yes,2,5
+26,Female,Chennai,Retired,80001-120000,1-2,"Talabat, Swiggy",3,4,3,Yes,No preference,Yes,"Sustainability, Combo offers, Fast delivery",Sometimes,250-500,801-1000,Cashback,No,NA,4,Maybe,No,2,4
+39,Female,Chennai,Employed - Full Time,80001-120000,1-2,"Others, Swiggy",3,3,5,Yes,Keto,Yes,"Sustainability, Fresh food, Ethical sourcing",Often,250-500,601-800,Loyalty points,Yes,Poor Food Quality,1,Maybe,Yes,1,4
+32,Female,Kolkata,Retired,50001-80000,3-5,Zomato,5,5,1,No,Vegetarian,Yes,"Fast delivery, Fresh food, Sustainability",Rarely,250-500,>1000,Loyalty points,Yes,Other,5,Maybe,Yes,4,1
+24,Male,Delhi,Retired,50001-80000,1-2,"Uber Eats, Swiggy",3,5,5,Yes,No preference,Yes,"Discounts, Ethical sourcing, Combo offers",Sometimes,<250,<400,Combo deals,No,NA,5,Yes,Yes,1,5
+33,Female,Kolkata,Employed - Part Time,50001-80000,<1,"Swiggy, Zomato, Others",5,4,5,Yes,No preference,Yes,"Ethical sourcing, Combo offers, Fresh food",Often,501-800,<400,Loyalty points,No,NA,5,No,Yes,5,5
+25,Female,Kolkata,Currently Unemployed,80001-120000,<1,"Uber Eats, Swiggy, Deliveroo",5,4,5,Yes,Vegetarian,Yes,"Fresh food, Ethical sourcing, Sustainability",Sometimes,250-500,<400,Combo deals,Yes,Poor Food Quality,3,Maybe,Yes,3,1
+33,Female,Bangalore,Student,20000-50000,1-2,"Swiggy, Zomato",4,5,4,No,No preference,Yes,"Ethical sourcing, Fresh food, Combo offers",Rarely,250-500,601-800,Loyalty points,No,NA,4,Maybe,No,3,4
+35,Male,Mumbai,Retired,>120000,1-2,"Swiggy, Others, Zomato",5,2,3,Yes,Vegan,Yes,"Fresh food, Sustainability, Fast delivery",Rarely,250-500,400-600,Combo deals,No,NA,5,Yes,Yes,1,5
+25,Female,Bangalore,Retired,80001-120000,1-2,Uber Eats,4,5,2,Yes,Vegan,Yes,"Ethical sourcing, Sustainability, Discounts",Sometimes,501-800,400-600,Cashback,No,NA,4,Yes,Yes,3,3
+34,Male,Delhi,Employed - Full Time,50001-80000,<1,"Zomato, Uber Eats, Others",4,5,4,Yes,Vegetarian,Yes,"Discounts, Fresh food, Fast delivery",Rarely,501-800,<400,Free delivery,No,NA,3,Yes,No,3,4
+32,Female,Pune,Retired,20000-50000,1-2,"Swiggy, Deliveroo, Zomato",3,4,3,Yes,No preference,Yes,"Ethical sourcing, Fast delivery, Discounts",Often,501-800,400-600,Free delivery,Yes,Other,3,Yes,Yes,3,3
+34,Male,Chennai,Homemaker,<20000,3-5,"Uber Eats, Talabat, Deliveroo",2,5,2,Yes,Gluten-free,Yes,"Ethical sourcing, Sustainability, Fast delivery",Rarely,250-500,400-600,Combo deals,No,NA,5,Yes,No,3,4
+39,Female,Chennai,Currently Unemployed,80001-120000,3-5,"Others, Swiggy",3,5,4,No,No preference,No,"Ethical sourcing, Combo offers, Discounts",Rarely,250-500,<400,Cashback,No,NA,3,No,Yes,3,1
+28,Prefer not to say,Delhi,Student,20000-50000,3-5,Uber Eats,4,4,3,No,Vegetarian,Yes,"Sustainability, Fresh food, Ethical sourcing",Rarely,250-500,801-1000,Combo deals,Yes,Delayed Delivery,5,Yes,No,3,3
+26,Male,Kolkata,Student,80001-120000,3-5,"Others, Talabat",2,5,5,No,Keto,Yes,"Fresh food, Fast delivery, Combo offers",Sometimes,<250,<400,Combo deals,No,NA,4,Maybe,Yes,3,3
+25,Other,Mumbai,Employed - Full Time,20000-50000,1-2,Deliveroo,1,4,4,Yes,Vegetarian,No,"Combo offers, Discounts, Ethical sourcing",Often,250-500,601-800,Cashback,Yes,Delayed Delivery,5,Maybe,No,3,5
+25,Male,Chennai,Employed - Part Time,20000-50000,3-5,Talabat,2,4,4,Yes,No preference,Yes,"Sustainability, Fresh food, Ethical sourcing",Sometimes,250-500,801-1000,Loyalty points,No,NA,5,Maybe,Yes,4,4
+29,Female,Hyderabad,Student,80001-120000,<1,Swiggy,4,5,4,Yes,Vegan,No,"Fresh food, Fast delivery, Sustainability",Often,250-500,400-600,Loyalty points,Yes,Poor Customer Service,4,Maybe,Yes,2,4
+31,Female,Kolkata,Homemaker,50001-80000,1-2,"Talabat, Zomato",5,5,5,Yes,Vegetarian,Yes,"Fresh food, Ethical sourcing, Combo offers",Rarely,801-1200,<400,Cashback,No,NA,4,No,Yes,3,4
+31,Female,Chennai,Student,50001-80000,1-2,Swiggy,5,5,4,Yes,Vegetarian,Yes,"Fast delivery, Discounts, Sustainability",Rarely,501-800,400-600,Combo deals,No,NA,5,Maybe,No,3,2
+34,Female,Hyderabad,Homemaker,50001-80000,<1,"Uber Eats, Others",4,3,4,Yes,No preference,Yes,"Discounts, Combo offers, Fast delivery",Often,<250,801-1000,Free delivery,No,NA,3,Yes,Yes,1,5
+30,Female,Delhi,Currently Unemployed,20000-50000,3-5,"Zomato, Deliveroo, Swiggy",5,3,3,Yes,Keto,No,"Fresh food, Fast delivery, Combo offers",Often,<250,400-600,Combo deals,Yes,Poor Food Quality,5,Maybe,No,3,5
+37,Male,Delhi,Currently Unemployed,50001-80000,3-5,Deliveroo,4,5,5,Yes,Keto,Yes,"Combo offers, Fresh food, Ethical sourcing",Often,<250,601-800,Loyalty points,No,NA,5,Yes,Yes,2,4
+28,Male,Kolkata,Self-employed,20000-50000,1-2,"Swiggy, Deliveroo, Talabat",4,3,4,Yes,Keto,No,"Sustainability, Ethical sourcing, Combo offers",Sometimes,501-800,>1000,Cashback,No,NA,4,Maybe,Yes,1,4
+43,Female,Chennai,Self-employed,80001-120000,3-5,Swiggy,4,5,3,No,Other,Yes,"Ethical sourcing, Sustainability, Combo offers",Rarely,501-800,>1000,Cashback,Yes,Poor Food Quality,4,Yes,Yes,5,4
+33,Female,Bangalore,Homemaker,80001-120000,<1,"Others, Zomato, Deliveroo",2,5,1,Yes,No preference,No,"Fresh food, Fast delivery, Sustainability",Rarely,>1200,400-600,Cashback,No,NA,3,Yes,No,3,3
+25,Female,Hyderabad,Employed - Part Time,20000-50000,1-2,"Swiggy, Deliveroo",5,5,4,No,No preference,Yes,"Ethical sourcing, Combo offers, Sustainability",Often,250-500,601-800,Loyalty points,No,NA,5,Yes,No,3,2
+24,Female,Mumbai,Student,50001-80000,1-2,"Uber Eats, Swiggy",3,5,1,No,Vegetarian,Yes,"Sustainability, Ethical sourcing, Combo offers",Rarely,501-800,>1000,Combo deals,No,NA,2,No,No,4,4
+32,Male,Chennai,Retired,50001-80000,1-2,Zomato,3,4,5,Yes,Vegetarian,No,"Sustainability, Ethical sourcing, Combo offers",Rarely,250-500,400-600,Cashback,Yes,Delayed Delivery,5,Yes,No,2,5
+28,Female,Mumbai,Student,20000-50000,3-5,"Uber Eats, Deliveroo",4,4,5,Yes,No preference,No,"Combo offers, Sustainability, Ethical sourcing",Sometimes,801-1200,400-600,Free delivery,Yes,Limited Food Choices,5,No,Yes,4,3
+33,Male,Chennai,Self-employed,>120000,3-5,Swiggy,3,4,2,Yes,Keto,Yes,"Combo offers, Sustainability, Fast delivery",Rarely,501-800,<400,Cashback,Yes,Limited Food Choices,2,Maybe,No,2,4
+32,Female,Bangalore,Retired,<20000,3-5,"Zomato, Swiggy, Uber Eats",3,5,4,No,Vegetarian,Yes,"Fast delivery, Fresh food, Sustainability",Often,501-800,<400,Combo deals,No,NA,2,Yes,Yes,3,1
+29,Male,Bangalore,Homemaker,20000-50000,1-2,"Uber Eats, Zomato",4,5,1,Yes,Keto,Yes,"Sustainability, Ethical sourcing, Discounts",Rarely,250-500,801-1000,Loyalty points,Yes,High Cost,4,No,No,4,2
+25,Male,Kolkata,Retired,50001-80000,3-5,"Deliveroo, Talabat, Swiggy",1,5,4,No,No preference,Yes,"Combo offers, Fresh food, Sustainability",Sometimes,501-800,400-600,Free delivery,No,NA,5,Yes,Yes,5,4
+22,Male,Kolkata,Student,50001-80000,<1,"Swiggy, Uber Eats",4,5,3,Yes,Vegetarian,Yes,"Fresh food, Ethical sourcing, Discounts",Sometimes,250-500,801-1000,Free delivery,Yes,Poor Food Quality,4,No,No,3,3
+27,Male,Bangalore,Student,50001-80000,3-5,"Deliveroo, Zomato, Uber Eats",4,5,4,No,No preference,Yes,"Fresh food, Ethical sourcing, Fast delivery",Sometimes,<250,601-800,Cashback,Yes,Poor Food Quality,4,No,Yes,3,5
+34,Female,Pune,Employed - Part Time,50001-80000,1-2,Zomato,4,4,3,No,No preference,Yes,"Fresh food, Ethical sourcing, Fast delivery",Sometimes,<250,601-800,Combo deals,No,NA,5,Yes,Yes,3,4
+31,Male,Bangalore,Employed - Full Time,50001-80000,<1,Talabat,4,3,2,Yes,Keto,Yes,"Sustainability, Fast delivery, Ethical sourcing",Rarely,250-500,400-600,Cashback,No,NA,3,Maybe,Yes,2,3
+23,Male,Delhi,Retired,50001-80000,1-2,Talabat,4,4,3,Yes,Vegetarian,Yes,"Fresh food, Ethical sourcing, Discounts",Sometimes,250-500,<400,Free delivery,Yes,High Cost,4,No,Yes,4,4
+30,Male,Delhi,Self-employed,<20000,<1,"Deliveroo, Uber Eats, Others",4,5,2,Yes,Other,Yes,"Ethical sourcing, Combo offers, Sustainability",Sometimes,<250,801-1000,Cashback,No,NA,3,Maybe,Yes,2,5
+31,Male,Pune,Self-employed,20000-50000,<1,Uber Eats,4,4,4,Yes,Other,Yes,"Ethical sourcing, Combo offers, Discounts",Sometimes,250-500,400-600,Combo deals,No,NA,4,Maybe,No,3,1
+25,Male,Hyderabad,Employed - Full Time,20000-50000,1-2,"Talabat, Others",4,5,1,Yes,No preference,Yes,"Fresh food, Combo offers, Fast delivery",Rarely,250-500,400-600,Loyalty points,No,NA,3,Maybe,No,3,4
+30,Male,Mumbai,Student,20000-50000,<1,"Uber Eats, Talabat, Others",4,5,3,No,No preference,Yes,"Sustainability, Fast delivery, Combo offers",Rarely,250-500,<400,Free delivery,No,NA,4,Yes,Yes,4,5
+30,Female,Chennai,Employed - Part Time,50001-80000,<1,"Swiggy, Others, Talabat",5,5,5,Yes,Vegetarian,Yes,"Fresh food, Fast delivery, Discounts",Rarely,250-500,801-1000,Combo deals,No,NA,5,Yes,Yes,3,2
+24,Female,Chennai,Employed - Part Time,20000-50000,<1,Uber Eats,3,5,4,No,No preference,Yes,"Fast delivery, Sustainability, Fresh food",Sometimes,<250,801-1000,Cashback,Yes,Limited Food Choices,4,Yes,Yes,4,5
+31,Female,Pune,Self-employed,20000-50000,1-2,"Swiggy, Talabat",3,3,5,No,Vegetarian,No,"Discounts, Sustainability, Ethical sourcing",Rarely,<250,400-600,Free delivery,No,NA,5,Maybe,No,2,3
+32,Male,Delhi,Employed - Part Time,20000-50000,<1,"Zomato, Talabat",5,4,5,Yes,No preference,Yes,"Combo offers, Discounts, Fast delivery",Often,<250,400-600,Cashback,No,NA,2,Yes,Yes,2,3
+35,Male,Kolkata,Currently Unemployed,80001-120000,1-2,"Deliveroo, Zomato",3,5,2,No,No preference,No,"Sustainability, Combo offers, Ethical sourcing",Sometimes,501-800,601-800,Cashback,No,NA,4,Maybe,Yes,3,4
+35,Female,Chennai,Employed - Full Time,80001-120000,<1,"Talabat, Others",2,4,2,Yes,No preference,Yes,"Sustainability, Combo offers, Discounts",Sometimes,250-500,400-600,Loyalty points,Yes,Delayed Delivery,2,Yes,Yes,3,3
+23,Female,Delhi,Student,50001-80000,3-5,"Zomato, Uber Eats",4,4,4,No,No preference,No,"Combo offers, Sustainability, Discounts",Often,501-800,<400,Cashback,No,NA,4,Yes,Yes,3,4
+25,Male,Hyderabad,Currently Unemployed,80001-120000,3-5,"Uber Eats, Zomato, Talabat",2,5,5,Yes,No preference,Yes,"Discounts, Combo offers, Sustainability",Rarely,250-500,601-800,Cashback,No,NA,3,Yes,Yes,4,4
+32,Male,Mumbai,Employed - Full Time,50001-80000,1-2,"Zomato, Uber Eats, Deliveroo",3,4,5,Yes,Vegetarian,Yes,"Sustainability, Ethical sourcing, Fast delivery",Often,>1200,<400,Combo deals,Yes,Poor Customer Service,3,No,Yes,2,2
+32,Male,Hyderabad,Homemaker,50001-80000,3-5,"Others, Uber Eats, Swiggy",5,5,1,Yes,No preference,Yes,"Combo offers, Fast delivery, Fresh food",Sometimes,250-500,400-600,Cashback,Yes,Other,2,Maybe,Yes,3,5
+32,Male,Pune,Retired,<20000,3-5,"Zomato, Others, Talabat",4,5,3,Yes,Vegan,Yes,"Ethical sourcing, Fresh food, Fast delivery",Often,<250,400-600,Loyalty points,No,NA,3,Yes,Yes,2,4
+49,Male,Bangalore,Self-employed,50001-80000,>5,Uber Eats,3,3,2,Yes,Gluten-free,Yes,"Fresh food, Ethical sourcing, Sustainability",Often,<250,400-600,Cashback,Yes,Poor Customer Service,4,No,Yes,2,4
+32,Female,Bangalore,Employed - Part Time,50001-80000,1-2,"Deliveroo, Uber Eats",5,4,4,Yes,Vegetarian,Yes,"Ethical sourcing, Fast delivery, Discounts",Rarely,250-500,<400,Cashback,No,NA,4,Yes,Yes,1,4
+35,Female,Bangalore,Homemaker,50001-80000,<1,"Zomato, Swiggy, Others",5,4,4,Yes,Keto,Yes,"Fresh food, Fast delivery, Discounts",Rarely,501-800,400-600,Cashback,Yes,Poor Customer Service,2,No,Yes,4,2
+34,Female,Hyderabad,Employed - Part Time,50001-80000,1-2,Others,3,5,2,No,No preference,Yes,"Fast delivery, Combo offers, Ethical sourcing",Sometimes,<250,400-600,Free delivery,Yes,Poor Food Quality,5,Yes,Yes,3,4
+33,Female,Chennai,Currently Unemployed,50001-80000,1-2,Zomato,3,3,3,Yes,Other,Yes,"Fresh food, Sustainability, Discounts",Sometimes,250-500,400-600,Loyalty points,Yes,Poor Food Quality,4,Yes,Yes,2,5
+28,Female,Mumbai,Student,50001-80000,1-2,"Swiggy, Uber Eats, Zomato",5,5,4,Yes,Vegetarian,No,"Fresh food, Discounts, Combo offers",Rarely,801-1200,601-800,Free delivery,Yes,Delayed Delivery,4,No,No,3,2
+33,Female,Bangalore,Student,80001-120000,1-2,"Others, Zomato, Swiggy",4,4,4,Yes,Gluten-free,Yes,"Combo offers, Ethical sourcing, Sustainability",Rarely,250-500,>1000,Loyalty points,Yes,Poor Customer Service,5,No,Yes,3,4
+26,Female,Pune,Student,20000-50000,3-5,Zomato,4,3,1,No,Gluten-free,Yes,"Fresh food, Discounts, Fast delivery",Rarely,<250,<400,Loyalty points,No,NA,3,Yes,No,4,4
+28,Male,Pune,Employed - Part Time,50001-80000,>5,"Zomato, Deliveroo",5,4,5,No,Other,Yes,"Combo offers, Ethical sourcing, Sustainability",Sometimes,<250,801-1000,Combo deals,No,NA,3,Yes,Yes,3,3
+27,Male,Bangalore,Homemaker,20000-50000,<1,"Swiggy, Zomato",4,4,4,Yes,Keto,No,"Fast delivery, Ethical sourcing, Discounts",Often,<250,400-600,Free delivery,Yes,Delayed Delivery,4,No,Yes,1,5
+30,Male,Bangalore,Student,50001-80000,<1,"Swiggy, Uber Eats, Talabat",3,4,4,Yes,No preference,Yes,"Discounts, Fast delivery, Combo offers",Sometimes,801-1200,400-600,Loyalty points,No,NA,5,Maybe,Yes,5,2
+41,Female,Mumbai,Homemaker,50001-80000,<1,"Deliveroo, Uber Eats, Talabat",4,5,4,Yes,No preference,Yes,"Discounts, Combo offers, Fresh food",Sometimes,501-800,400-600,Loyalty points,No,NA,4,Maybe,Yes,1,3
+20,Female,Bangalore,Employed - Part Time,<20000,3-5,Uber Eats,3,5,2,Yes,Vegetarian,Yes,"Fast delivery, Ethical sourcing, Sustainability",Rarely,501-800,400-600,Combo deals,No,NA,5,Maybe,Yes,4,1
+33,Male,Mumbai,Currently Unemployed,50001-80000,1-2,Talabat,4,3,2,No,No preference,Yes,"Discounts, Sustainability, Fresh food",Rarely,801-1200,601-800,Free delivery,No,NA,5,Maybe,No,3,4
+21,Female,Pune,Homemaker,20000-50000,1-2,Zomato,4,3,4,Yes,No preference,Yes,"Fast delivery, Ethical sourcing, Fresh food",Sometimes,250-500,400-600,Cashback,No,NA,4,Yes,No,2,3
+27,Male,Bangalore,Currently Unemployed,50001-80000,1-2,"Talabat, Zomato, Deliveroo",2,5,2,No,No preference,Yes,"Fast delivery, Fresh food, Combo offers",Often,250-500,400-600,Combo deals,No,NA,4,Yes,Yes,4,5
+35,Female,Hyderabad,Employed - Part Time,20000-50000,1-2,"Uber Eats, Deliveroo, Talabat",4,5,4,Yes,Vegetarian,No,"Fresh food, Combo offers, Ethical sourcing",Rarely,250-500,801-1000,Loyalty points,No,NA,4,Yes,Yes,2,4
+30,Male,Kolkata,Employed - Part Time,50001-80000,1-2,"Zomato, Uber Eats, Others",3,4,4,No,Keto,Yes,"Sustainability, Ethical sourcing, Fast delivery",Sometimes,501-800,<400,Free delivery,Yes,Poor Customer Service,4,Yes,Yes,4,2
+24,Male,Hyderabad,Self-employed,<20000,1-2,"Talabat, Deliveroo, Swiggy",3,5,4,Yes,No preference,Yes,"Ethical sourcing, Fresh food, Sustainability",Often,801-1200,<400,Loyalty points,No,NA,4,No,Yes,2,4
+26,Female,Pune,Employed - Part Time,50001-80000,3-5,"Others, Swiggy, Uber Eats",4,4,3,No,Vegetarian,Yes,"Discounts, Ethical sourcing, Fresh food",Often,250-500,<400,Combo deals,Yes,Delayed Delivery,5,Maybe,No,3,4
+33,Male,Mumbai,Employed - Part Time,20000-50000,>5,Others,3,5,3,No,No preference,Yes,"Discounts, Ethical sourcing, Combo offers",Rarely,250-500,<400,Combo deals,Yes,Other,4,Yes,Yes,3,3
+26,Male,Hyderabad,Employed - Full Time,80001-120000,3-5,"Swiggy, Uber Eats, Talabat",4,4,4,No,Vegetarian,Yes,"Fast delivery, Ethical sourcing, Discounts",Rarely,801-1200,400-600,Free delivery,No,NA,2,No,No,1,1
+31,Male,Mumbai,Student,80001-120000,3-5,"Swiggy, Uber Eats, Deliveroo",2,3,1,Yes,Vegan,Yes,"Fast delivery, Sustainability, Fresh food",Rarely,<250,400-600,Combo deals,No,NA,5,No,Yes,3,2
+30,Female,Hyderabad,Self-employed,>120000,1-2,Talabat,4,5,4,Yes,Keto,Yes,"Fast delivery, Ethical sourcing, Fresh food",Sometimes,801-1200,400-600,Combo deals,Yes,Limited Food Choices,5,No,Yes,4,3
+26,Female,Hyderabad,Retired,50001-80000,1-2,"Zomato, Uber Eats",5,4,4,Yes,No preference,Yes,"Fresh food, Fast delivery, Sustainability",Often,<250,<400,Cashback,No,NA,5,Yes,Yes,4,5
+40,Male,Mumbai,Self-employed,50001-80000,3-5,"Deliveroo, Uber Eats",4,5,3,Yes,Vegetarian,Yes,"Combo offers, Sustainability, Ethical sourcing",Rarely,250-500,601-800,Loyalty points,Yes,Limited Food Choices,4,Maybe,Yes,3,4
+33,Female,Chennai,Self-employed,20000-50000,3-5,"Deliveroo, Swiggy",4,4,4,Yes,No preference,Yes,"Discounts, Fresh food, Fast delivery",Rarely,250-500,601-800,Cashback,Yes,Limited Food Choices,2,Yes,Yes,4,5
+19,Female,Hyderabad,Retired,20000-50000,<1,"Talabat, Deliveroo",5,5,2,Yes,Gluten-free,Yes,"Discounts, Sustainability, Fast delivery",Often,501-800,>1000,Cashback,No,NA,2,Maybe,Yes,5,5
+30,Male,Bangalore,Employed - Full Time,20000-50000,1-2,"Others, Talabat",3,5,3,Yes,No preference,Yes,"Combo offers, Sustainability, Fresh food",Sometimes,250-500,801-1000,Free delivery,No,NA,5,Maybe,Yes,2,3
+26,Male,Kolkata,Currently Unemployed,50001-80000,<1,Others,1,3,5,Yes,No preference,Yes,"Fresh food, Ethical sourcing, Discounts",Often,250-500,801-1000,Combo deals,No,NA,2,Yes,Yes,3,5
+34,Male,Pune,Employed - Part Time,80001-120000,1-2,Talabat,3,5,5,Yes,Keto,Yes,"Ethical sourcing, Sustainability, Fast delivery",Rarely,801-1200,601-800,Loyalty points,No,NA,5,Yes,Yes,2,2
+26,Male,Chennai,Student,20000-50000,1-2,"Swiggy, Deliveroo",1,5,3,Yes,Keto,Yes,"Sustainability, Discounts, Ethical sourcing",Sometimes,501-800,400-600,Loyalty points,No,NA,3,Maybe,Yes,4,1
+29,Female,Mumbai,Homemaker,80001-120000,1-2,Swiggy,5,5,5,Yes,Vegetarian,Yes,"Discounts, Ethical sourcing, Fast delivery",Rarely,501-800,<400,Loyalty points,Yes,Poor Customer Service,5,Yes,No,4,4
+32,Male,Chennai,Retired,50001-80000,<1,"Deliveroo, Zomato",3,5,3,Yes,Gluten-free,Yes,"Fast delivery, Ethical sourcing, Combo offers",Rarely,<250,400-600,Combo deals,Yes,Poor Food Quality,5,Yes,No,4,3
+34,Female,Delhi,Currently Unemployed,50001-80000,1-2,"Swiggy, Uber Eats, Others",4,5,3,Yes,No preference,Yes,"Sustainability, Fast delivery, Discounts",Sometimes,801-1200,<400,Loyalty points,No,NA,5,Maybe,Yes,5,3
+23,Female,Delhi,Retired,20000-50000,3-5,Talabat,4,3,3,Yes,Keto,No,"Discounts, Fast delivery, Combo offers",Rarely,<250,801-1000,Loyalty points,No,NA,3,Yes,Yes,2,4
+28,Male,Hyderabad,Employed - Part Time,<20000,<1,Swiggy,3,4,5,No,Vegetarian,Yes,"Fresh food, Discounts, Combo offers",Rarely,250-500,400-600,Combo deals,No,NA,4,Yes,Yes,1,5
+27,Female,Hyderabad,Employed - Full Time,50001-80000,1-2,Deliveroo,4,5,2,No,No preference,Yes,"Ethical sourcing, Combo offers, Fast delivery",Often,<250,601-800,Free delivery,Yes,Poor Food Quality,2,No,No,2,3
+26,Male,Bangalore,Retired,50001-80000,1-2,"Deliveroo, Others",1,5,4,No,Vegan,Yes,"Sustainability, Fresh food, Ethical sourcing",Rarely,250-500,<400,Loyalty points,Yes,Poor Customer Service,3,Yes,Yes,3,3
+38,Other,Kolkata,Employed - Part Time,20000-50000,3-5,Swiggy,4,2,4,No,No preference,Yes,"Ethical sourcing, Fresh food, Discounts",Sometimes,801-1200,400-600,Combo deals,No,NA,3,Yes,Yes,3,4
+32,Female,Pune,Employed - Part Time,50001-80000,<1,Deliveroo,1,5,4,Yes,Vegan,No,"Fast delivery, Combo offers, Sustainability",Rarely,250-500,400-600,Cashback,Yes,Delayed Delivery,5,No,Yes,4,4
+23,Female,Chennai,Employed - Full Time,80001-120000,>5,"Deliveroo, Talabat",5,5,3,Yes,Other,Yes,"Sustainability, Ethical sourcing, Fresh food",Often,250-500,400-600,Combo deals,Yes,High Cost,1,Yes,No,3,3
+34,Female,Delhi,Self-employed,80001-120000,1-2,"Deliveroo, Uber Eats",5,4,3,Yes,Keto,Yes,"Combo offers, Sustainability, Fast delivery",Rarely,501-800,400-600,Cashback,Yes,Limited Food Choices,5,No,Yes,3,5
+40,Male,Hyderabad,Self-employed,80001-120000,>5,"Talabat, Swiggy",3,4,2,Yes,Keto,Yes,"Fast delivery, Discounts, Fresh food",Sometimes,501-800,<400,Combo deals,Yes,Delayed Delivery,2,Maybe,Yes,4,4
+35,Female,Pune,Student,20000-50000,3-5,Swiggy,3,5,4,Yes,Vegetarian,No,"Fresh food, Sustainability, Discounts",Rarely,501-800,400-600,Loyalty points,No,NA,4,Maybe,Yes,2,4
+22,Female,Chennai,Student,20000-50000,<1,"Deliveroo, Zomato, Others",4,4,4,Yes,Vegan,Yes,"Sustainability, Combo offers, Discounts",Sometimes,250-500,400-600,Free delivery,No,NA,2,Yes,Yes,2,5
+27,Female,Hyderabad,Self-employed,50001-80000,<1,Zomato,3,5,4,Yes,Vegetarian,No,"Combo offers, Sustainability, Ethical sourcing",Sometimes,501-800,801-1000,Free delivery,Yes,Poor Customer Service,5,Yes,No,3,5
+36,Female,Hyderabad,Currently Unemployed,20000-50000,1-2,Swiggy,5,5,4,Yes,Vegetarian,Yes,"Combo offers, Ethical sourcing, Discounts",Rarely,250-500,400-600,Loyalty points,Yes,Delayed Delivery,2,No,Yes,3,2
+26,Female,Delhi,Homemaker,<20000,1-2,Zomato,4,4,2,No,No preference,Yes,"Sustainability, Fast delivery, Fresh food",Rarely,>1200,400-600,Cashback,No,NA,5,No,No,5,2
+32,Male,Delhi,Employed - Part Time,20000-50000,<1,"Uber Eats, Zomato, Swiggy",3,4,5,Yes,Vegetarian,Yes,"Combo offers, Ethical sourcing, Fresh food",Often,250-500,>1000,Combo deals,Yes,Limited Food Choices,4,Maybe,Yes,3,5
+33,Male,Hyderabad,Homemaker,20000-50000,<1,"Deliveroo, Others",5,4,4,Yes,No preference,No,"Combo offers, Fresh food, Discounts",Often,501-800,400-600,Loyalty points,No,NA,5,No,Yes,4,5
+25,Female,Mumbai,Employed - Part Time,20000-50000,1-2,Zomato,4,4,2,Yes,Vegetarian,No,"Fast delivery, Discounts, Ethical sourcing",Rarely,<250,400-600,Combo deals,No,NA,3,Yes,No,3,4
+29,Male,Hyderabad,Self-employed,20000-50000,<1,Uber Eats,5,5,3,Yes,No preference,Yes,"Combo offers, Discounts, Sustainability",Rarely,250-500,400-600,Loyalty points,No,NA,4,Yes,Yes,1,4
+18,Female,Pune,Student,20000-50000,<1,"Zomato, Uber Eats",5,4,4,Yes,Gluten-free,Yes,"Discounts, Fresh food, Fast delivery",Rarely,<250,601-800,Loyalty points,No,NA,5,Maybe,Yes,1,4
+24,Female,Hyderabad,Currently Unemployed,<20000,1-2,Swiggy,3,5,5,No,Vegetarian,Yes,"Ethical sourcing, Fast delivery, Discounts",Rarely,250-500,400-600,Combo deals,Yes,Limited Food Choices,5,Maybe,Yes,2,3
+28,Male,Bangalore,Student,50001-80000,<1,"Others, Swiggy, Zomato",1,4,3,Yes,Keto,Yes,"Fresh food, Fast delivery, Sustainability",Often,250-500,400-600,Free delivery,No,NA,4,Yes,No,2,5
+23,Male,Kolkata,Homemaker,50001-80000,1-2,"Talabat, Zomato",5,4,4,Yes,Vegetarian,Yes,"Ethical sourcing, Sustainability, Discounts",Sometimes,501-800,601-800,Free delivery,Yes,Other,5,No,Yes,3,4
+38,Female,Bangalore,Student,50001-80000,1-2,"Zomato, Swiggy, Deliveroo",5,2,1,Yes,Vegetarian,Yes,"Discounts, Ethical sourcing, Fresh food",Sometimes,<250,<400,Cashback,Yes,Poor Food Quality,2,Yes,No,3,5
+22,Male,Bangalore,Self-employed,20000-50000,1-2,Uber Eats,2,1,1,Yes,Gluten-free,Yes,"Sustainability, Fast delivery, Discounts",Often,501-800,801-1000,Combo deals,Yes,Delayed Delivery,5,Yes,Yes,3,4
+27,Female,Mumbai,Currently Unemployed,20000-50000,3-5,"Talabat, Zomato, Others",5,4,4,No,No preference,Yes,"Fresh food, Ethical sourcing, Fast delivery",Sometimes,<250,400-600,Cashback,No,NA,3,Yes,No,3,5
+30,Male,Mumbai,Homemaker,50001-80000,1-2,"Others, Deliveroo, Talabat",4,4,4,Yes,No preference,Yes,"Fresh food, Combo offers, Sustainability",Sometimes,250-500,400-600,Loyalty points,Yes,Delayed Delivery,2,Maybe,Yes,2,3
+37,Female,Hyderabad,Currently Unemployed,50001-80000,1-2,Others,3,5,4,No,Gluten-free,Yes,"Fresh food, Ethical sourcing, Fast delivery",Rarely,501-800,601-800,Cashback,Yes,Poor Customer Service,4,No,Yes,3,5
+22,Male,Bangalore,Employed - Part Time,50001-80000,1-2,Others,5,5,3,No,Other,No,"Sustainability, Combo offers, Fresh food",Rarely,501-800,400-600,Loyalty points,No,NA,5,Maybe,Yes,3,5
+35,Female,Mumbai,Student,20000-50000,3-5,"Swiggy, Talabat",3,4,1,No,No preference,Yes,"Discounts, Fast delivery, Sustainability",Sometimes,250-500,801-1000,Combo deals,No,NA,5,Maybe,No,5,4
+30,Male,Delhi,Currently Unemployed,80001-120000,3-5,"Uber Eats, Deliveroo",5,4,3,Yes,No preference,Yes,"Combo offers, Fresh food, Sustainability",Rarely,<250,>1000,Combo deals,Yes,Poor Customer Service,4,Yes,No,5,4
+25,Female,Hyderabad,Employed - Full Time,20000-50000,3-5,"Uber Eats, Talabat",3,4,1,Yes,Keto,Yes,"Fast delivery, Combo offers, Ethical sourcing",Rarely,501-800,400-600,Combo deals,No,NA,5,No,Yes,4,2
+32,Male,Pune,Student,20000-50000,1-2,Uber Eats,4,4,1,Yes,Vegetarian,Yes,"Ethical sourcing, Fast delivery, Sustainability",Rarely,250-500,801-1000,Combo deals,Yes,High Cost,4,Maybe,Yes,4,4
+30,Female,Kolkata,Employed - Part Time,50001-80000,<1,Uber Eats,3,4,3,Yes,Vegetarian,Yes,"Ethical sourcing, Combo offers, Fresh food",Rarely,250-500,<400,Cashback,No,NA,5,No,Yes,2,5
+26,Female,Chennai,Currently Unemployed,50001-80000,1-2,"Swiggy, Others",4,4,3,No,No preference,Yes,"Fast delivery, Ethical sourcing, Sustainability",Sometimes,501-800,801-1000,Loyalty points,Yes,Limited Food Choices,1,No,Yes,1,3
+30,Male,Hyderabad,Homemaker,20000-50000,<1,Deliveroo,4,4,3,No,Keto,Yes,"Combo offers, Sustainability, Ethical sourcing",Sometimes,250-500,400-600,Free delivery,No,NA,4,Yes,Yes,4,5
+28,Male,Chennai,Employed - Part Time,20000-50000,3-5,"Talabat, Others",3,3,4,No,Vegetarian,No,"Sustainability, Ethical sourcing, Fast delivery",Rarely,<250,400-600,Combo deals,Yes,Poor Customer Service,2,No,Yes,3,4
+30,Male,Bangalore,Employed - Full Time,50001-80000,1-2,"Deliveroo, Talabat",4,2,1,No,Keto,Yes,"Combo offers, Ethical sourcing, Fresh food",Rarely,801-1200,<400,Combo deals,No,NA,3,Yes,Yes,3,3
+33,Female,Kolkata,Currently Unemployed,20000-50000,3-5,"Deliveroo, Uber Eats, Talabat",4,3,2,Yes,Vegan,Yes,"Sustainability, Fresh food, Combo offers",Sometimes,501-800,400-600,Loyalty points,Yes,Limited Food Choices,4,Yes,Yes,4,3
+37,Female,Chennai,Retired,<20000,1-2,"Talabat, Uber Eats",2,5,4,Yes,No preference,No,"Ethical sourcing, Fast delivery, Combo offers",Rarely,<250,<400,Free delivery,Yes,High Cost,5,Yes,No,3,4
+23,Female,Bangalore,Retired,20000-50000,3-5,"Talabat, Uber Eats, Swiggy",5,4,2,Yes,Vegan,Yes,"Fast delivery, Combo offers, Sustainability",Sometimes,250-500,801-1000,Combo deals,Yes,High Cost,4,Yes,Yes,2,2
+40,Male,Delhi,Self-employed,80001-120000,1-2,"Others, Uber Eats, Zomato",3,4,4,No,No preference,Yes,"Discounts, Fast delivery, Combo offers",Sometimes,<250,801-1000,Free delivery,Yes,Poor Customer Service,5,Yes,Yes,2,5
+20,Male,Chennai,Student,<20000,<1,"Zomato, Talabat, Swiggy",4,5,1,No,No preference,No,"Sustainability, Fast delivery, Fresh food",Rarely,501-800,<400,Combo deals,No,NA,5,Yes,Yes,1,4
+29,Female,Kolkata,Homemaker,>120000,1-2,Swiggy,4,5,3,Yes,Vegetarian,Yes,"Discounts, Combo offers, Ethical sourcing",Sometimes,501-800,<400,Cashback,No,NA,3,Yes,Yes,4,4
+32,Female,Hyderabad,Self-employed,50001-80000,1-2,Others,4,5,2,No,Gluten-free,Yes,"Ethical sourcing, Sustainability, Fast delivery",Sometimes,<250,801-1000,Cashback,No,NA,4,Yes,Yes,3,3
+31,Prefer not to say,Bangalore,Currently Unemployed,>120000,1-2,"Deliveroo, Talabat",2,5,2,No,No preference,No,"Fast delivery, Fresh food, Discounts",Rarely,<250,400-600,Free delivery,No,NA,5,Yes,Yes,5,4
+26,Male,Hyderabad,Retired,80001-120000,3-5,Zomato,3,2,4,No,Vegetarian,Yes,"Sustainability, Fresh food, Ethical sourcing",Rarely,<250,<400,Loyalty points,No,NA,5,Maybe,Yes,4,4
+28,Female,Kolkata,Retired,20000-50000,<1,"Others, Talabat",4,5,5,No,Vegetarian,No,"Combo offers, Ethical sourcing, Fresh food",Often,250-500,400-600,Loyalty points,No,NA,5,Maybe,Yes,2,3
+27,Male,Mumbai,Retired,20000-50000,1-2,"Uber Eats, Talabat, Deliveroo",4,5,1,Yes,Vegetarian,Yes,"Combo offers, Ethical sourcing, Fast delivery",Rarely,501-800,400-600,Cashback,Yes,Poor Customer Service,5,Maybe,No,2,4
+27,Male,Bangalore,Currently Unemployed,20000-50000,1-2,"Talabat, Uber Eats",5,2,3,Yes,No preference,Yes,"Fast delivery, Ethical sourcing, Fresh food",Often,<250,<400,Loyalty points,No,NA,4,Maybe,Yes,3,5
+34,Female,Chennai,Retired,20000-50000,1-2,"Others, Deliveroo, Swiggy",4,5,4,Yes,No preference,Yes,"Ethical sourcing, Discounts, Combo offers",Sometimes,250-500,601-800,Loyalty points,Yes,Other,5,Yes,Yes,5,2
+31,Female,Bangalore,Employed - Part Time,50001-80000,3-5,"Others, Uber Eats, Zomato",2,5,3,Yes,Vegetarian,No,"Combo offers, Ethical sourcing, Sustainability",Rarely,250-500,400-600,Loyalty points,No,NA,3,Yes,No,2,4
+26,Prefer not to say,Hyderabad,Currently Unemployed,20000-50000,3-5,"Zomato, Talabat, Uber Eats",3,4,4,Yes,Keto,Yes,"Fresh food, Fast delivery, Ethical sourcing",Rarely,250-500,<400,Free delivery,No,NA,3,Yes,Yes,4,5
+34,Male,Delhi,Homemaker,20000-50000,3-5,"Talabat, Swiggy, Uber Eats",3,1,2,Yes,Vegetarian,Yes,"Fast delivery, Discounts, Combo offers",Sometimes,250-500,801-1000,Free delivery,No,NA,5,Maybe,Yes,3,1
+31,Male,Bangalore,Self-employed,20000-50000,3-5,"Uber Eats, Others",2,2,5,No,No preference,Yes,"Discounts, Fast delivery, Fresh food",Sometimes,250-500,400-600,Loyalty points,No,NA,5,Maybe,Yes,2,5
+34,Female,Chennai,Homemaker,80001-120000,3-5,"Talabat, Deliveroo, Uber Eats",3,4,3,Yes,Vegetarian,Yes,"Ethical sourcing, Combo offers, Fresh food",Sometimes,501-800,400-600,Cashback,Yes,Poor Food Quality,5,Yes,Yes,5,4
+33,Female,Mumbai,Employed - Full Time,20000-50000,<1,"Uber Eats, Deliveroo, Zomato",3,3,3,No,No preference,No,"Sustainability, Fresh food, Combo offers",Often,>1200,<400,Loyalty points,No,NA,3,Yes,Yes,1,3
+25,Male,Pune,Retired,<20000,3-5,"Uber Eats, Swiggy, Deliveroo",3,5,5,Yes,Keto,No,"Combo offers, Sustainability, Ethical sourcing",Often,801-1200,<400,Combo deals,No,NA,5,No,Yes,4,1
+27,Male,Delhi,Employed - Full Time,<20000,1-2,"Zomato, Uber Eats",2,5,4,Yes,No preference,Yes,"Combo offers, Discounts, Sustainability",Rarely,250-500,400-600,Cashback,No,NA,5,Yes,No,1,2
+33,Male,Mumbai,Student,80001-120000,<1,Swiggy,1,3,3,Yes,Gluten-free,No,"Fresh food, Fast delivery, Combo offers",Often,501-800,<400,Free delivery,No,NA,4,No,Yes,4,3
+33,Female,Bangalore,Student,50001-80000,<1,"Uber Eats, Talabat",2,5,4,Yes,No preference,Yes,"Discounts, Fresh food, Sustainability",Often,>1200,400-600,Combo deals,No,NA,3,Maybe,Yes,4,1
+29,Male,Hyderabad,Employed - Full Time,20000-50000,3-5,Uber Eats,3,4,4,Yes,Vegetarian,Yes,"Discounts, Ethical sourcing, Combo offers",Often,<250,<400,Loyalty points,No,NA,4,No,Yes,4,3
+30,Male,Kolkata,Currently Unemployed,20000-50000,3-5,"Zomato, Uber Eats, Swiggy",3,3,2,Yes,No preference,Yes,"Combo offers, Fast delivery, Ethical sourcing",Sometimes,<250,601-800,Loyalty points,No,NA,4,Maybe,Yes,2,1
+36,Male,Hyderabad,Homemaker,20000-50000,<1,"Talabat, Swiggy, Uber Eats",4,5,4,Yes,Keto,Yes,"Sustainability, Fast delivery, Fresh food",Sometimes,<250,601-800,Cashback,No,NA,4,Yes,Yes,2,4
+27,Male,Chennai,Employed - Full Time,<20000,3-5,Zomato,2,5,2,Yes,Keto,Yes,"Discounts, Ethical sourcing, Sustainability",Sometimes,250-500,400-600,Cashback,No,NA,4,No,No,3,5
+32,Male,Hyderabad,Student,80001-120000,3-5,"Zomato, Swiggy",3,5,4,Yes,Gluten-free,No,"Fast delivery, Combo offers, Ethical sourcing",Rarely,501-800,601-800,Loyalty points,No,NA,5,Maybe,No,2,5
+28,Female,Delhi,Employed - Full Time,50001-80000,<1,Talabat,3,5,5,No,No preference,Yes,"Ethical sourcing, Sustainability, Discounts",Often,250-500,801-1000,Loyalty points,No,NA,3,No,Yes,3,4
+28,Male,Hyderabad,Currently Unemployed,20000-50000,<1,"Talabat, Uber Eats",3,5,3,Yes,No preference,Yes,"Ethical sourcing, Combo offers, Fresh food",Rarely,250-500,400-600,Cashback,No,NA,4,No,Yes,3,5
+35,Female,Chennai,Employed - Full Time,80001-120000,3-5,Others,1,5,3,Yes,Vegetarian,Yes,"Combo offers, Fresh food, Sustainability",Rarely,250-500,400-600,Combo deals,Yes,Delayed Delivery,4,Maybe,No,2,1
+34,Male,Pune,Homemaker,20000-50000,1-2,"Zomato, Talabat, Deliveroo",4,4,1,No,No preference,No,"Sustainability, Combo offers, Fresh food",Often,<250,400-600,Free delivery,No,NA,3,Maybe,Yes,4,2
+34,Female,Bangalore,Self-employed,50001-80000,1-2,Deliveroo,4,5,1,Yes,No preference,Yes,"Ethical sourcing, Combo offers, Fresh food",Rarely,250-500,801-1000,Cashback,No,NA,5,Yes,Yes,4,3
+36,Female,Kolkata,Currently Unemployed,80001-120000,<1,Swiggy,3,5,5,No,No preference,Yes,"Fast delivery, Fresh food, Combo offers",Often,<250,<400,Combo deals,Yes,High Cost,3,Yes,Yes,5,5
+30,Female,Bangalore,Student,20000-50000,1-2,"Deliveroo, Swiggy, Others",2,5,2,No,No preference,Yes,"Discounts, Fresh food, Sustainability",Sometimes,<250,400-600,Loyalty points,Yes,Limited Food Choices,4,Yes,No,3,5
+33,Female,Hyderabad,Homemaker,50001-80000,3-5,"Uber Eats, Others, Zomato",5,3,3,No,No preference,Yes,"Ethical sourcing, Fresh food, Combo offers",Rarely,501-800,400-600,Free delivery,Yes,Delayed Delivery,5,Maybe,Yes,3,4
+28,Male,Mumbai,Employed - Full Time,20000-50000,1-2,"Swiggy, Zomato",3,5,4,Yes,Vegetarian,Yes,"Discounts, Combo offers, Fast delivery",Sometimes,501-800,601-800,Combo deals,No,NA,2,Maybe,No,2,4
+31,Male,Bangalore,Employed - Full Time,20000-50000,3-5,"Deliveroo, Others",3,5,5,No,No preference,Yes,"Ethical sourcing, Discounts, Fresh food",Sometimes,501-800,601-800,Free delivery,Yes,Other,5,Yes,Yes,2,4
+29,Female,Pune,Self-employed,<20000,3-5,Others,5,3,3,No,No preference,Yes,"Fresh food, Combo offers, Discounts",Sometimes,501-800,400-600,Free delivery,No,NA,4,Yes,Yes,3,3
+30,Prefer not to say,Hyderabad,Student,20000-50000,3-5,"Zomato, Uber Eats, Deliveroo",5,5,4,Yes,Other,No,"Fast delivery, Fresh food, Combo offers",Often,501-800,<400,Free delivery,No,NA,1,Maybe,Yes,5,4
+32,Female,Kolkata,Student,50001-80000,1-2,"Zomato, Uber Eats, Others",3,3,4,Yes,Vegetarian,Yes,"Ethical sourcing, Fast delivery, Combo offers",Often,501-800,>1000,Combo deals,No,NA,5,Yes,Yes,1,4
+25,Female,Chennai,Employed - Part Time,80001-120000,<1,Uber Eats,4,3,5,Yes,Vegan,Yes,"Discounts, Fast delivery, Fresh food",Rarely,501-800,<400,Combo deals,Yes,High Cost,1,Yes,No,2,2
+40,Female,Pune,Student,50001-80000,1-2,Others,3,5,4,No,Vegan,Yes,"Fresh food, Discounts, Sustainability",Rarely,501-800,<400,Loyalty points,No,NA,4,Yes,Yes,1,1
+24,Male,Hyderabad,Self-employed,80001-120000,<1,"Talabat, Uber Eats, Deliveroo",2,4,4,Yes,No preference,Yes,"Fast delivery, Sustainability, Ethical sourcing",Often,250-500,400-600,Free delivery,No,NA,1,Yes,Yes,2,5
+23,Male,Pune,Retired,80001-120000,3-5,Zomato,4,3,1,No,No preference,Yes,"Combo offers, Fresh food, Sustainability",Sometimes,250-500,601-800,Cashback,Yes,Poor Food Quality,2,No,Yes,1,4
+35,Female,Bangalore,Employed - Part Time,20000-50000,1-2,"Zomato, Uber Eats, Deliveroo",2,5,1,Yes,Vegan,No,"Sustainability, Combo offers, Fast delivery",Rarely,501-800,601-800,Cashback,No,NA,5,Yes,Yes,3,3
+33,Female,Kolkata,Employed - Part Time,20000-50000,1-2,Zomato,3,5,4,No,No preference,No,"Sustainability, Fast delivery, Fresh food",Often,250-500,801-1000,Cashback,No,NA,5,No,Yes,3,4
+33,Male,Chennai,Employed - Full Time,<20000,1-2,Deliveroo,5,3,5,Yes,No preference,Yes,"Ethical sourcing, Combo offers, Discounts",Often,250-500,<400,Combo deals,No,NA,3,Maybe,Yes,2,5
+33,Female,Hyderabad,Employed - Full Time,50001-80000,3-5,"Uber Eats, Swiggy",5,5,5,Yes,No preference,Yes,"Combo offers, Discounts, Fast delivery",Sometimes,250-500,400-600,Loyalty points,No,NA,4,Yes,Yes,2,4
+29,Male,Delhi,Student,80001-120000,3-5,"Others, Deliveroo",3,5,5,Yes,Vegetarian,Yes,"Fresh food, Discounts, Sustainability",Sometimes,250-500,400-600,Combo deals,Yes,Poor Food Quality,5,Yes,No,3,2
+25,Female,Chennai,Employed - Part Time,<20000,1-2,"Uber Eats, Deliveroo, Talabat",4,5,3,Yes,No preference,Yes,"Fast delivery, Ethical sourcing, Sustainability",Sometimes,>1200,801-1000,Free delivery,Yes,Limited Food Choices,5,Maybe,Yes,3,4
+30,Male,Delhi,Employed - Full Time,50001-80000,3-5,"Deliveroo, Others, Zomato",4,5,4,Yes,Vegan,Yes,"Combo offers, Sustainability, Fast delivery",Sometimes,250-500,400-600,Cashback,Yes,Poor Food Quality,4,Maybe,No,1,4
+26,Male,Pune,Self-employed,50001-80000,1-2,"Swiggy, Uber Eats, Zomato",5,5,4,Yes,No preference,No,"Fast delivery, Combo offers, Ethical sourcing",Often,250-500,<400,Combo deals,No,NA,5,Yes,Yes,5,1
+34,Female,Mumbai,Employed - Full Time,50001-80000,1-2,"Deliveroo, Zomato, Swiggy",3,4,4,Yes,Vegetarian,Yes,"Sustainability, Fast delivery, Fresh food",Often,<250,601-800,Cashback,No,NA,4,Yes,Yes,3,3
+29,Male,Chennai,Currently Unemployed,20000-50000,3-5,"Talabat, Swiggy",1,4,3,No,Keto,No,"Discounts, Fast delivery, Sustainability",Sometimes,501-800,400-600,Combo deals,No,NA,5,Yes,Yes,3,4
+25,Female,Pune,Currently Unemployed,20000-50000,1-2,"Talabat, Uber Eats, Zomato",3,5,3,No,No preference,Yes,"Fast delivery, Discounts, Sustainability",Sometimes,250-500,400-600,Cashback,Yes,Delayed Delivery,5,No,No,4,4
+28,Female,Delhi,Employed - Full Time,<20000,>5,"Zomato, Others, Talabat",3,5,5,Yes,Vegetarian,No,"Sustainability, Fresh food, Combo offers",Often,501-800,801-1000,Free delivery,No,NA,3,Yes,Yes,3,3
+32,Female,Bangalore,Employed - Part Time,20000-50000,<1,"Zomato, Swiggy, Others",3,3,3,Yes,Vegetarian,Yes,"Fresh food, Discounts, Fast delivery",Rarely,501-800,400-600,Cashback,No,NA,3,Yes,No,4,4
+27,Male,Bangalore,Retired,<20000,<1,Swiggy,4,5,5,Yes,No preference,No,"Ethical sourcing, Fresh food, Combo offers",Rarely,250-500,<400,Free delivery,Yes,Other,3,Yes,Yes,5,5
+25,Male,Mumbai,Retired,50001-80000,3-5,Zomato,4,5,2,No,Gluten-free,Yes,"Ethical sourcing, Sustainability, Discounts",Often,<250,400-600,Free delivery,No,NA,3,Maybe,Yes,2,5
+31,Male,Chennai,Employed - Part Time,<20000,<1,Others,3,3,4,Yes,Gluten-free,Yes,"Sustainability, Ethical sourcing, Fresh food",Rarely,<250,400-600,Combo deals,No,NA,3,Yes,Yes,4,4
+31,Prefer not to say,Chennai,Homemaker,80001-120000,>5,"Deliveroo, Others, Zomato",4,2,4,Yes,Vegetarian,No,"Fast delivery, Discounts, Combo offers",Rarely,501-800,<400,Combo deals,Yes,High Cost,5,No,Yes,2,4
+27,Female,Chennai,Retired,50001-80000,>5,"Others, Deliveroo",2,4,4,Yes,Vegan,Yes,"Fresh food, Discounts, Sustainability",Rarely,501-800,601-800,Combo deals,Yes,Other,4,Yes,Yes,2,5
+27,Female,Pune,Currently Unemployed,50001-80000,<1,"Swiggy, Uber Eats, Others",5,5,3,No,Keto,Yes,"Combo offers, Fast delivery, Discounts",Rarely,250-500,<400,Free delivery,Yes,Poor Customer Service,4,Yes,No,4,5
+31,Female,Kolkata,Self-employed,20000-50000,1-2,"Talabat, Others, Zomato",5,3,5,Yes,Vegetarian,Yes,"Combo offers, Sustainability, Fast delivery",Rarely,<250,801-1000,Loyalty points,Yes,Poor Customer Service,4,No,No,5,5
+22,Female,Kolkata,Employed - Part Time,50001-80000,<1,"Uber Eats, Others",5,4,4,No,No preference,Yes,"Combo offers, Sustainability, Ethical sourcing",Rarely,<250,<400,Loyalty points,No,NA,3,Maybe,No,4,3
+22,Female,Mumbai,Student,80001-120000,1-2,Talabat,5,5,3,Yes,Vegan,Yes,"Discounts, Fresh food, Fast delivery",Often,501-800,400-600,Free delivery,Yes,Poor Food Quality,4,Maybe,No,2,1
+26,Male,Chennai,Currently Unemployed,<20000,<1,"Uber Eats, Deliveroo",3,5,4,Yes,Keto,Yes,"Combo offers, Fast delivery, Sustainability",Sometimes,<250,400-600,Free delivery,Yes,Poor Food Quality,4,Maybe,No,3,5
+28,Female,Pune,Self-employed,20000-50000,<1,"Zomato, Talabat, Others",1,4,3,Yes,Vegan,Yes,"Discounts, Ethical sourcing, Combo offers",Sometimes,<250,601-800,Combo deals,No,NA,2,Yes,No,3,5
+31,Male,Bangalore,Self-employed,50001-80000,1-2,Talabat,4,4,3,Yes,Vegan,Yes,"Fresh food, Combo offers, Ethical sourcing",Rarely,250-500,400-600,Combo deals,Yes,High Cost,5,No,Yes,2,4
+37,Female,Delhi,Employed - Part Time,<20000,1-2,Others,5,5,3,Yes,No preference,Yes,"Fresh food, Ethical sourcing, Combo offers",Sometimes,501-800,601-800,Combo deals,No,NA,4,Yes,Yes,5,5
+34,Female,Pune,Self-employed,<20000,>5,"Zomato, Others",3,5,5,Yes,No preference,Yes,"Fast delivery, Discounts, Sustainability",Sometimes,501-800,601-800,Loyalty points,No,NA,5,Yes,Yes,3,5
+29,Female,Kolkata,Employed - Part Time,20000-50000,3-5,"Deliveroo, Uber Eats",1,5,3,Yes,Vegan,No,"Fast delivery, Ethical sourcing, Discounts",Sometimes,250-500,801-1000,Loyalty points,No,NA,2,Maybe,Yes,2,4
+29,Male,Kolkata,Retired,<20000,3-5,Talabat,5,5,4,Yes,Vegan,No,"Sustainability, Discounts, Fast delivery",Rarely,501-800,601-800,Free delivery,No,NA,5,Maybe,No,2,4
+24,Male,Bangalore,Employed - Full Time,50001-80000,1-2,"Deliveroo, Swiggy, Zomato",2,4,3,Yes,Vegan,Yes,"Fresh food, Discounts, Fast delivery",Sometimes,250-500,<400,Loyalty points,Yes,Other,4,Maybe,Yes,3,4
+29,Male,Bangalore,Currently Unemployed,20000-50000,3-5,"Uber Eats, Zomato, Swiggy",3,4,3,No,No preference,Yes,"Sustainability, Combo offers, Ethical sourcing",Often,>1200,601-800,Combo deals,No,NA,5,Maybe,Yes,4,4
+28,Male,Delhi,Homemaker,80001-120000,1-2,Deliveroo,4,3,5,Yes,No preference,Yes,"Fast delivery, Combo offers, Sustainability",Sometimes,<250,801-1000,Combo deals,Yes,Poor Food Quality,4,Maybe,Yes,2,5
+31,Male,Bangalore,Employed - Full Time,50001-80000,3-5,"Uber Eats, Swiggy",3,3,4,Yes,Vegan,Yes,"Discounts, Ethical sourcing, Fresh food",Sometimes,501-800,>1000,Combo deals,No,NA,5,Yes,Yes,4,4
+25,Female,Mumbai,Currently Unemployed,50001-80000,>5,"Zomato, Swiggy, Others",2,5,5,Yes,Keto,Yes,"Ethical sourcing, Fresh food, Fast delivery",Sometimes,250-500,<400,Combo deals,No,NA,4,Maybe,Yes,2,5
+32,Female,Delhi,Employed - Part Time,50001-80000,1-2,"Zomato, Others",4,4,2,Yes,No preference,Yes,"Fast delivery, Sustainability, Discounts",Sometimes,<250,400-600,Combo deals,Yes,Limited Food Choices,5,No,Yes,3,5
+37,Male,Bangalore,Currently Unemployed,80001-120000,1-2,"Swiggy, Deliveroo, Talabat",4,4,2,Yes,No preference,Yes,"Fast delivery, Discounts, Combo offers",Sometimes,501-800,<400,Cashback,No,NA,5,Maybe,Yes,4,2
+29,Male,Hyderabad,Retired,20000-50000,3-5,Swiggy,5,5,5,Yes,No preference,Yes,"Discounts, Fast delivery, Combo offers",Rarely,250-500,400-600,Free delivery,Yes,Other,5,No,Yes,2,2
+32,Male,Pune,Employed - Part Time,80001-120000,3-5,"Talabat, Swiggy",3,3,4,Yes,Vegetarian,Yes,"Fast delivery, Fresh food, Ethical sourcing",Sometimes,250-500,601-800,Free delivery,No,NA,4,No,Yes,3,4
+33,Female,Bangalore,Employed - Full Time,50001-80000,3-5,Zomato,2,3,2,Yes,Vegetarian,Yes,"Ethical sourcing, Combo offers, Fresh food",Often,250-500,>1000,Loyalty points,Yes,Limited Food Choices,3,Maybe,Yes,4,3
+27,Female,Mumbai,Student,50001-80000,1-2,"Deliveroo, Talabat",4,3,3,No,Vegetarian,Yes,"Sustainability, Ethical sourcing, Fresh food",Sometimes,250-500,400-600,Combo deals,No,NA,5,Yes,Yes,3,4
+31,Female,Chennai,Student,50001-80000,1-2,"Deliveroo, Swiggy",4,5,4,Yes,No preference,Yes,"Ethical sourcing, Discounts, Fast delivery",Rarely,250-500,801-1000,Cashback,Yes,Poor Customer Service,4,Maybe,Yes,3,2
+30,Female,Bangalore,Currently Unemployed,20000-50000,<1,Uber Eats,3,5,3,Yes,Other,Yes,"Ethical sourcing, Discounts, Sustainability",Rarely,250-500,<400,Combo deals,No,NA,4,Yes,Yes,4,4
+30,Prefer not to say,Kolkata,Student,20000-50000,3-5,Uber Eats,4,4,4,Yes,Keto,No,"Discounts, Ethical sourcing, Fast delivery",Sometimes,501-800,<400,Combo deals,No,NA,2,Yes,No,5,2
+26,Female,Kolkata,Employed - Part Time,50001-80000,<1,"Zomato, Others",3,5,3,Yes,Vegetarian,Yes,"Fresh food, Ethical sourcing, Sustainability",Often,501-800,400-600,Loyalty points,No,NA,4,Yes,Yes,2,3
+30,Male,Kolkata,Self-employed,<20000,3-5,"Others, Swiggy, Uber Eats",3,5,3,No,Keto,Yes,"Combo offers, Ethical sourcing, Discounts",Sometimes,<250,400-600,Cashback,Yes,Poor Food Quality,5,Yes,No,4,2
+32,Female,Chennai,Employed - Part Time,50001-80000,<1,Others,2,5,5,Yes,Vegetarian,Yes,"Fast delivery, Discounts, Ethical sourcing",Sometimes,250-500,801-1000,Cashback,No,NA,4,Yes,No,1,5
+37,Male,Kolkata,Self-employed,20000-50000,<1,"Talabat, Swiggy, Uber Eats",3,5,2,Yes,Vegetarian,Yes,"Combo offers, Ethical sourcing, Discounts",Rarely,801-1200,400-600,Free delivery,Yes,High Cost,4,Yes,No,1,4
+34,Female,Hyderabad,Employed - Full Time,<20000,1-2,"Uber Eats, Others",3,5,3,Yes,No preference,Yes,"Fresh food, Sustainability, Ethical sourcing",Sometimes,<250,400-600,Combo deals,No,NA,3,Yes,Yes,2,5
+40,Male,Bangalore,Homemaker,<20000,3-5,"Talabat, Uber Eats",4,5,4,Yes,Vegan,Yes,"Combo offers, Discounts, Fresh food",Sometimes,250-500,400-600,Cashback,Yes,Other,3,Yes,Yes,5,5
+26,Female,Kolkata,Self-employed,<20000,<1,"Swiggy, Uber Eats, Zomato",4,3,2,Yes,Vegetarian,No,"Sustainability, Fresh food, Combo offers",Often,501-800,400-600,Free delivery,Yes,Delayed Delivery,5,Yes,Yes,3,5
+34,Female,Delhi,Student,50001-80000,1-2,"Deliveroo, Others",5,3,3,Yes,No preference,Yes,"Fast delivery, Ethical sourcing, Discounts",Rarely,501-800,801-1000,Cashback,No,NA,3,Yes,Yes,2,4
+30,Female,Chennai,Employed - Part Time,20000-50000,1-2,"Swiggy, Zomato",2,3,4,Yes,Vegan,Yes,"Fresh food, Ethical sourcing, Sustainability",Sometimes,<250,400-600,Combo deals,Yes,Poor Food Quality,4,Maybe,No,2,5
+40,Female,Hyderabad,Employed - Full Time,>120000,<1,"Talabat, Deliveroo, Swiggy",2,5,3,Yes,Vegan,Yes,"Discounts, Sustainability, Combo offers",Sometimes,250-500,400-600,Free delivery,No,NA,4,Yes,Yes,5,3
+25,Male,Delhi,Student,50001-80000,<1,Deliveroo,1,5,3,Yes,Vegetarian,Yes,"Combo offers, Discounts, Sustainability",Sometimes,250-500,601-800,Cashback,Yes,Other,5,Yes,No,3,2
+25,Male,Delhi,Employed - Full Time,<20000,3-5,"Talabat, Uber Eats, Swiggy",2,5,3,Yes,No preference,No,"Sustainability, Fast delivery, Ethical sourcing",Often,>1200,400-600,Loyalty points,Yes,Other,2,Yes,No,3,5
+27,Male,Delhi,Homemaker,50001-80000,1-2,"Deliveroo, Zomato, Talabat",4,3,4,Yes,No preference,Yes,"Combo offers, Fast delivery, Ethical sourcing",Rarely,<250,601-800,Cashback,No,NA,2,Yes,Yes,4,1
+19,Male,Delhi,Retired,80001-120000,<1,"Others, Uber Eats, Zomato",4,5,4,No,Vegan,Yes,"Fresh food, Sustainability, Discounts",Rarely,>1200,<400,Combo deals,Yes,High Cost,4,No,Yes,3,5
+27,Female,Bangalore,Employed - Part Time,50001-80000,3-5,Talabat,4,5,4,Yes,Gluten-free,Yes,"Fresh food, Discounts, Combo offers",Sometimes,250-500,<400,Loyalty points,Yes,Poor Customer Service,4,Yes,Yes,2,4
+26,Male,Kolkata,Currently Unemployed,<20000,>5,Uber Eats,3,5,1,Yes,Vegetarian,Yes,"Ethical sourcing, Combo offers, Sustainability",Sometimes,250-500,>1000,Cashback,No,NA,1,Yes,Yes,3,4
+30,Other,Pune,Employed - Part Time,80001-120000,1-2,"Others, Zomato",3,5,4,Yes,No preference,Yes,"Discounts, Combo offers, Fast delivery",Rarely,250-500,601-800,Cashback,No,NA,5,Yes,Yes,5,2
+31,Female,Bangalore,Homemaker,50001-80000,1-2,"Deliveroo, Zomato",4,5,5,Yes,No preference,Yes,"Discounts, Fast delivery, Fresh food",Sometimes,501-800,400-600,Free delivery,No,NA,4,No,No,5,4
+39,Female,Bangalore,Employed - Part Time,20000-50000,3-5,"Deliveroo, Uber Eats, Others",2,5,3,Yes,No preference,Yes,"Discounts, Fast delivery, Combo offers",Sometimes,250-500,400-600,Combo deals,Yes,Poor Food Quality,3,Maybe,Yes,1,4
+34,Male,Hyderabad,Currently Unemployed,<20000,>5,"Uber Eats, Zomato, Swiggy",4,5,4,No,Keto,Yes,"Combo offers, Fresh food, Discounts",Often,250-500,801-1000,Cashback,Yes,Poor Food Quality,3,Yes,Yes,2,4
+27,Female,Hyderabad,Self-employed,50001-80000,3-5,"Others, Deliveroo",5,5,4,No,Other,No,"Sustainability, Ethical sourcing, Discounts",Rarely,801-1200,<400,Cashback,No,NA,5,Yes,Yes,2,4
+25,Female,Kolkata,Employed - Full Time,20000-50000,1-2,Talabat,3,4,5,Yes,Other,Yes,"Sustainability, Fast delivery, Discounts",Often,>1200,<400,Cashback,No,NA,3,Yes,Yes,3,2
+32,Female,Pune,Currently Unemployed,80001-120000,1-2,"Deliveroo, Zomato, Uber Eats",4,3,5,Yes,No preference,Yes,"Sustainability, Ethical sourcing, Combo offers",Rarely,250-500,400-600,Combo deals,Yes,Delayed Delivery,3,No,Yes,4,3
+23,Female,Hyderabad,Student,20000-50000,3-5,"Deliveroo, Swiggy",4,5,2,Yes,No preference,Yes,"Discounts, Combo offers, Fresh food",Rarely,<250,<400,Loyalty points,No,NA,3,Yes,Yes,2,3
+39,Female,Kolkata,Homemaker,80001-120000,<1,Swiggy,2,3,3,Yes,Vegetarian,Yes,"Fresh food, Sustainability, Ethical sourcing",Rarely,501-800,<400,Combo deals,Yes,High Cost,4,Yes,Yes,4,1
+35,Male,Kolkata,Self-employed,50001-80000,1-2,Uber Eats,4,5,3,No,Vegetarian,Yes,"Combo offers, Discounts, Ethical sourcing",Often,501-800,801-1000,Free delivery,Yes,Other,5,Yes,Yes,4,1
+27,Female,Mumbai,Student,20000-50000,3-5,Talabat,3,4,3,Yes,Vegan,No,"Combo offers, Fresh food, Fast delivery",Rarely,<250,<400,Free delivery,Yes,Limited Food Choices,3,Yes,Yes,4,3
+21,Male,Pune,Student,<20000,1-2,"Talabat, Others",1,5,2,Yes,Vegetarian,Yes,"Sustainability, Fresh food, Combo offers",Sometimes,801-1200,601-800,Combo deals,No,NA,3,Yes,Yes,5,4
+36,Male,Hyderabad,Homemaker,50001-80000,1-2,"Others, Uber Eats",4,4,4,Yes,No preference,Yes,"Discounts, Fast delivery, Fresh food",Sometimes,<250,400-600,Cashback,Yes,High Cost,3,Yes,No,3,4
+29,Male,Pune,Self-employed,50001-80000,1-2,"Others, Swiggy",5,4,1,Yes,No preference,No,"Ethical sourcing, Sustainability, Combo offers",Often,501-800,400-600,Cashback,No,NA,4,Yes,Yes,3,3
+36,Male,Bangalore,Retired,50001-80000,<1,Zomato,3,5,3,No,No preference,Yes,"Sustainability, Ethical sourcing, Combo offers",Often,250-500,601-800,Loyalty points,No,NA,3,Yes,Yes,4,4
+22,Male,Bangalore,Student,20000-50000,1-2,Talabat,3,4,4,Yes,Vegan,No,"Ethical sourcing, Discounts, Combo offers",Sometimes,250-500,400-600,Combo deals,Yes,Delayed Delivery,5,No,Yes,4,4
+27,Male,Pune,Student,20000-50000,3-5,"Others, Talabat, Deliveroo",5,4,2,Yes,Vegetarian,Yes,"Fresh food, Fast delivery, Discounts",Often,250-500,<400,Combo deals,No,NA,2,Yes,Yes,2,4
+30,Other,Mumbai,Self-employed,<20000,<1,Zomato,5,3,5,Yes,No preference,Yes,"Fast delivery, Discounts, Combo offers",Sometimes,501-800,<400,Cashback,Yes,Limited Food Choices,1,Maybe,No,4,4
+30,Female,Mumbai,Employed - Part Time,50001-80000,<1,Talabat,4,5,4,No,Vegetarian,Yes,"Discounts, Combo offers, Fresh food",Often,>1200,601-800,Free delivery,No,NA,2,Maybe,No,1,4
+27,Other,Pune,Student,<20000,>5,"Swiggy, Uber Eats",3,4,3,No,Vegetarian,No,"Discounts, Ethical sourcing, Fast delivery",Rarely,250-500,<400,Free delivery,Yes,Poor Customer Service,5,No,Yes,1,2
+33,Male,Hyderabad,Employed - Full Time,20000-50000,<1,"Talabat, Swiggy, Uber Eats",5,5,3,Yes,Other,Yes,"Discounts, Fast delivery, Fresh food",Rarely,250-500,<400,Loyalty points,Yes,Delayed Delivery,5,Maybe,No,2,4
+24,Male,Chennai,Self-employed,50001-80000,1-2,"Uber Eats, Others, Zomato",3,5,2,Yes,No preference,Yes,"Discounts, Combo offers, Ethical sourcing",Sometimes,250-500,>1000,Loyalty points,Yes,High Cost,5,Yes,No,5,3
+29,Female,Mumbai,Student,80001-120000,>5,"Others, Swiggy, Talabat",4,5,4,Yes,Keto,No,"Sustainability, Ethical sourcing, Fast delivery",Sometimes,801-1200,>1000,Free delivery,Yes,Other,3,Yes,Yes,3,4
+30,Male,Delhi,Homemaker,20000-50000,3-5,Deliveroo,1,5,2,Yes,No preference,Yes,"Combo offers, Discounts, Sustainability",Sometimes,>1200,400-600,Combo deals,Yes,Delayed Delivery,3,No,No,1,5
+32,Male,Bangalore,Currently Unemployed,20000-50000,1-2,"Deliveroo, Swiggy",4,5,4,Yes,No preference,Yes,"Fast delivery, Fresh food, Ethical sourcing",Sometimes,501-800,<400,Loyalty points,Yes,Delayed Delivery,4,No,Yes,5,4
+33,Female,Pune,Employed - Full Time,50001-80000,3-5,Uber Eats,3,4,4,Yes,No preference,Yes,"Fresh food, Fast delivery, Discounts",Rarely,250-500,601-800,Cashback,No,NA,4,No,Yes,4,4
+24,Male,Delhi,Currently Unemployed,50001-80000,<1,Deliveroo,3,5,2,Yes,No preference,Yes,"Fast delivery, Discounts, Ethical sourcing",Sometimes,>1200,601-800,Combo deals,Yes,Poor Food Quality,4,Yes,No,4,5
+22,Female,Pune,Currently Unemployed,20000-50000,3-5,"Others, Zomato, Deliveroo",3,4,5,Yes,Vegan,Yes,"Combo offers, Fast delivery, Ethical sourcing",Rarely,<250,<400,Cashback,Yes,Other,3,No,Yes,2,3
+36,Female,Kolkata,Student,80001-120000,1-2,"Talabat, Deliveroo, Uber Eats",3,5,1,No,No preference,Yes,"Sustainability, Combo offers, Fresh food",Often,250-500,<400,Loyalty points,No,NA,1,Maybe,No,2,5
+31,Male,Bangalore,Employed - Full Time,80001-120000,3-5,"Swiggy, Talabat, Deliveroo",4,4,5,Yes,Vegan,No,"Fresh food, Fast delivery, Ethical sourcing",Often,250-500,601-800,Free delivery,No,NA,1,Yes,Yes,3,2
+26,Male,Bangalore,Employed - Full Time,20000-50000,1-2,"Talabat, Others, Uber Eats",5,5,2,Yes,Vegan,Yes,"Fresh food, Sustainability, Discounts",Often,250-500,801-1000,Loyalty points,No,NA,5,Maybe,No,4,5
+37,Female,Mumbai,Employed - Part Time,20000-50000,1-2,"Others, Deliveroo, Zomato",5,4,4,Yes,No preference,Yes,"Combo offers, Ethical sourcing, Discounts",Rarely,501-800,601-800,Free delivery,Yes,Limited Food Choices,4,Yes,Yes,3,3
+30,Male,Mumbai,Currently Unemployed,50001-80000,1-2,"Others, Talabat, Deliveroo",3,4,3,Yes,Gluten-free,No,"Fast delivery, Combo offers, Fresh food",Sometimes,501-800,<400,Combo deals,No,NA,5,Yes,Yes,3,3
+35,Male,Delhi,Employed - Full Time,50001-80000,1-2,Uber Eats,4,5,4,Yes,No preference,Yes,"Fast delivery, Sustainability, Fresh food",Often,<250,400-600,Loyalty points,Yes,Delayed Delivery,3,Yes,Yes,4,4
+30,Prefer not to say,Kolkata,Employed - Part Time,<20000,3-5,"Deliveroo, Others",4,5,3,No,No preference,Yes,"Fresh food, Combo offers, Discounts",Often,250-500,400-600,Loyalty points,No,NA,5,Yes,No,2,5
+40,Male,Pune,Self-employed,50001-80000,1-2,Deliveroo,3,3,2,Yes,No preference,Yes,"Sustainability, Combo offers, Discounts",Sometimes,250-500,<400,Loyalty points,No,NA,4,No,Yes,4,3
+38,Female,Kolkata,Employed - Part Time,50001-80000,1-2,Deliveroo,1,5,4,No,No preference,Yes,"Fresh food, Sustainability, Discounts",Sometimes,250-500,<400,Combo deals,No,NA,2,No,Yes,3,5
+28,Prefer not to say,Bangalore,Homemaker,20000-50000,1-2,"Uber Eats, Deliveroo",4,5,3,Yes,Keto,No,"Combo offers, Discounts, Ethical sourcing",Sometimes,250-500,400-600,Cashback,Yes,High Cost,5,No,Yes,1,4
+34,Male,Delhi,Retired,50001-80000,1-2,Others,5,5,4,Yes,Vegetarian,Yes,"Discounts, Fresh food, Ethical sourcing",Sometimes,<250,400-600,Cashback,No,NA,4,Yes,Yes,2,3
+33,Male,Chennai,Student,80001-120000,3-5,Swiggy,4,5,5,Yes,Vegetarian,Yes,"Discounts, Sustainability, Combo offers",Rarely,501-800,400-600,Free delivery,No,NA,4,Yes,No,4,4
+36,Male,Delhi,Self-employed,<20000,3-5,Others,3,4,3,Yes,Keto,Yes,"Ethical sourcing, Discounts, Fresh food",Sometimes,801-1200,601-800,Loyalty points,No,NA,5,Yes,Yes,4,4
+25,Male,Hyderabad,Retired,20000-50000,1-2,"Talabat, Uber Eats",4,4,3,Yes,Vegetarian,Yes,"Fast delivery, Combo offers, Fresh food",Often,801-1200,601-800,Cashback,No,NA,4,Maybe,Yes,2,3
+33,Male,Delhi,Retired,20000-50000,3-5,"Others, Talabat, Uber Eats",3,5,1,No,No preference,Yes,"Fast delivery, Sustainability, Discounts",Sometimes,>1200,801-1000,Combo deals,No,NA,5,Yes,Yes,2,5
+35,Female,Kolkata,Self-employed,80001-120000,3-5,"Others, Uber Eats",4,5,4,No,No preference,Yes,"Sustainability, Ethical sourcing, Combo offers",Sometimes,501-800,601-800,Loyalty points,No,NA,5,Maybe,Yes,1,5
+21,Male,Hyderabad,Homemaker,>120000,1-2,"Swiggy, Zomato, Others",4,4,3,No,Other,Yes,"Fast delivery, Sustainability, Fresh food",Sometimes,<250,400-600,Free delivery,No,NA,4,Yes,Yes,5,4
+24,Female,Hyderabad,Employed - Part Time,20000-50000,1-2,Zomato,2,4,3,No,No preference,No,"Discounts, Ethical sourcing, Sustainability",Often,801-1200,400-600,Cashback,No,NA,5,Yes,No,4,5
+19,Prefer not to say,Hyderabad,Student,50001-80000,3-5,"Uber Eats, Swiggy",5,5,2,No,No preference,Yes,"Fresh food, Combo offers, Sustainability",Sometimes,250-500,400-600,Combo deals,Yes,Poor Customer Service,5,Yes,No,5,2
+28,Female,Chennai,Employed - Part Time,50001-80000,1-2,Uber Eats,3,4,3,Yes,Vegetarian,Yes,"Sustainability, Fast delivery, Ethical sourcing",Sometimes,501-800,<400,Combo deals,No,NA,3,Yes,Yes,4,1
+33,Female,Delhi,Employed - Full Time,50001-80000,3-5,"Zomato, Swiggy",5,4,5,Yes,Vegan,Yes,"Discounts, Sustainability, Fast delivery",Sometimes,250-500,801-1000,Free delivery,Yes,Other,3,Maybe,Yes,3,5
+37,Male,Kolkata,Employed - Part Time,20000-50000,1-2,"Deliveroo, Others, Uber Eats",3,3,3,Yes,Vegetarian,No,"Sustainability, Fast delivery, Discounts",Sometimes,501-800,<400,Cashback,No,NA,2,No,No,2,5
+30,Female,Delhi,Self-employed,20000-50000,1-2,Talabat,3,4,4,Yes,No preference,Yes,"Discounts, Combo offers, Ethical sourcing",Sometimes,250-500,400-600,Loyalty points,Yes,High Cost,4,Maybe,Yes,3,2
+38,Female,Chennai,Student,20000-50000,<1,"Uber Eats, Talabat",3,4,4,No,Vegetarian,Yes,"Ethical sourcing, Discounts, Sustainability",Sometimes,<250,400-600,Combo deals,No,NA,5,Maybe,Yes,1,4
+23,Male,Bangalore,Employed - Part Time,50001-80000,1-2,Deliveroo,3,5,4,Yes,No preference,No,"Discounts, Combo offers, Ethical sourcing",Sometimes,250-500,400-600,Free delivery,No,NA,4,No,Yes,2,5
+21,Male,Mumbai,Student,<20000,>5,"Swiggy, Others",2,4,3,Yes,No preference,No,"Ethical sourcing, Combo offers, Sustainability",Sometimes,<250,601-800,Combo deals,Yes,Other,3,No,Yes,2,2
+29,Female,Kolkata,Student,80001-120000,1-2,"Talabat, Deliveroo",4,4,4,No,Vegetarian,Yes,"Fresh food, Discounts, Ethical sourcing",Rarely,>1200,400-600,Combo deals,No,NA,4,No,Yes,4,3
+31,Male,Kolkata,Employed - Full Time,20000-50000,1-2,"Others, Talabat, Zomato",4,4,5,Yes,Vegetarian,Yes,"Sustainability, Fresh food, Ethical sourcing",Rarely,250-500,<400,Cashback,No,NA,5,No,No,3,4
+29,Male,Delhi,Employed - Full Time,20000-50000,3-5,"Zomato, Uber Eats, Deliveroo",4,4,1,Yes,Keto,Yes,"Discounts, Fast delivery, Combo offers",Rarely,250-500,<400,Cashback,Yes,High Cost,3,Yes,Yes,3,5
+19,Male,Mumbai,Self-employed,50001-80000,1-2,Swiggy,1,3,3,No,Keto,No,"Combo offers, Fast delivery, Sustainability",Often,801-1200,801-1000,Loyalty points,No,NA,5,Yes,No,3,5
+29,Male,Pune,Homemaker,50001-80000,1-2,Zomato,4,4,2,No,No preference,Yes,"Ethical sourcing, Fast delivery, Fresh food",Rarely,501-800,400-600,Combo deals,No,NA,5,No,Yes,2,5
+23,Female,Pune,Retired,<20000,3-5,"Deliveroo, Talabat",2,5,3,Yes,No preference,No,"Combo offers, Fresh food, Sustainability",Rarely,250-500,400-600,Free delivery,Yes,High Cost,1,Yes,Yes,4,3
+33,Female,Chennai,Student,20000-50000,3-5,Swiggy,4,2,3,No,No preference,Yes,"Fresh food, Combo offers, Ethical sourcing",Rarely,250-500,400-600,Combo deals,No,NA,3,Yes,Yes,4,4
+31,Female,Pune,Homemaker,>120000,<1,"Others, Talabat, Zomato",2,1,4,No,No preference,Yes,"Combo offers, Discounts, Fresh food",Sometimes,250-500,<400,Free delivery,No,NA,4,Maybe,No,2,2
+25,Male,Kolkata,Retired,20000-50000,1-2,"Zomato, Others, Uber Eats",5,3,1,No,No preference,Yes,"Sustainability, Combo offers, Ethical sourcing",Rarely,801-1200,400-600,Combo deals,No,NA,5,Yes,Yes,3,5
+27,Male,Pune,Retired,20000-50000,1-2,"Zomato, Uber Eats",4,5,3,No,Other,Yes,"Combo offers, Sustainability, Ethical sourcing",Sometimes,501-800,601-800,Free delivery,No,NA,5,No,Yes,3,4
+24,Female,Bangalore,Self-employed,80001-120000,1-2,"Deliveroo, Swiggy, Talabat",4,5,4,Yes,Vegetarian,Yes,"Sustainability, Ethical sourcing, Combo offers",Rarely,>1200,601-800,Combo deals,No,NA,4,Yes,No,1,4
+29,Male,Bangalore,Retired,<20000,1-2,"Swiggy, Others, Talabat",3,1,3,Yes,No preference,Yes,"Sustainability, Discounts, Fast delivery",Often,<250,601-800,Combo deals,No,NA,4,Maybe,No,2,5
+34,Male,Bangalore,Retired,20000-50000,1-2,"Deliveroo, Talabat",2,5,4,Yes,Vegetarian,No,"Discounts, Ethical sourcing, Combo offers",Often,250-500,<400,Loyalty points,No,NA,3,Yes,No,5,1
+25,Female,Pune,Student,20000-50000,<1,Deliveroo,3,3,3,Yes,Vegetarian,Yes,"Sustainability, Fast delivery, Discounts",Often,<250,400-600,Cashback,No,NA,5,Maybe,Yes,1,5
+32,Male,Chennai,Student,20000-50000,1-2,Others,5,5,5,Yes,Vegetarian,Yes,"Discounts, Combo offers, Fresh food",Sometimes,501-800,<400,Cashback,Yes,Poor Customer Service,3,Maybe,No,3,4
+27,Female,Hyderabad,Currently Unemployed,20000-50000,<1,"Talabat, Others, Deliveroo",5,4,3,Yes,No preference,Yes,"Fast delivery, Fresh food, Sustainability",Sometimes,<250,<400,Free delivery,Yes,Poor Food Quality,5,Maybe,Yes,4,3
+26,Male,Hyderabad,Homemaker,<20000,1-2,"Zomato, Others, Talabat",1,5,4,Yes,Vegetarian,Yes,"Discounts, Ethical sourcing, Fresh food",Sometimes,<250,400-600,Combo deals,No,NA,3,Yes,No,3,2
+29,Male,Mumbai,Employed - Part Time,20000-50000,3-5,"Swiggy, Zomato",4,5,4,Yes,Vegetarian,Yes,"Fresh food, Fast delivery, Combo offers",Rarely,250-500,400-600,Combo deals,No,NA,2,Yes,No,2,5
+24,Male,Hyderabad,Employed - Full Time,<20000,3-5,"Talabat, Zomato, Uber Eats",4,4,3,Yes,Other,Yes,"Sustainability, Combo offers, Fresh food",Sometimes,250-500,601-800,Cashback,Yes,High Cost,3,Maybe,No,4,5
+27,Other,Hyderabad,Employed - Part Time,50001-80000,1-2,Swiggy,4,5,1,No,No preference,No,"Fresh food, Combo offers, Discounts",Rarely,501-800,601-800,Free delivery,Yes,Other,3,Maybe,No,3,1
+24,Female,Bangalore,Homemaker,20000-50000,<1,"Zomato, Deliveroo, Others",2,5,4,Yes,No preference,Yes,"Discounts, Ethical sourcing, Combo offers",Sometimes,250-500,801-1000,Loyalty points,No,NA,4,Maybe,Yes,4,2
+39,Female,Bangalore,Employed - Full Time,20000-50000,<1,"Talabat, Others, Swiggy",3,4,3,Yes,No preference,Yes,"Ethical sourcing, Combo offers, Sustainability",Rarely,250-500,601-800,Loyalty points,Yes,Other,3,No,No,4,5
+30,Female,Pune,Employed - Part Time,80001-120000,1-2,"Others, Deliveroo, Talabat",3,3,5,Yes,Other,Yes,"Fast delivery, Discounts, Sustainability",Sometimes,250-500,<400,Loyalty points,Yes,High Cost,5,Yes,Yes,4,2
+26,Male,Mumbai,Currently Unemployed,50001-80000,<1,Deliveroo,5,3,5,Yes,No preference,Yes,"Fast delivery, Combo offers, Ethical sourcing",Sometimes,801-1200,400-600,Combo deals,Yes,Poor Customer Service,4,Yes,No,5,4
+31,Female,Delhi,Employed - Full Time,<20000,1-2,"Others, Talabat",4,5,3,No,Vegetarian,Yes,"Sustainability, Combo offers, Fresh food",Sometimes,250-500,400-600,Free delivery,No,NA,4,Maybe,No,4,4
+29,Male,Kolkata,Student,80001-120000,<1,"Deliveroo, Zomato",4,5,3,Yes,No preference,No,"Sustainability, Discounts, Combo offers",Often,250-500,400-600,Cashback,No,NA,4,Maybe,Yes,4,5
+28,Female,Mumbai,Employed - Part Time,20000-50000,3-5,"Talabat, Deliveroo, Uber Eats",5,4,3,Yes,No preference,No,"Combo offers, Fast delivery, Ethical sourcing",Sometimes,250-500,<400,Combo deals,Yes,Poor Food Quality,4,Yes,Yes,4,4
+33,Male,Mumbai,Employed - Full Time,<20000,1-2,"Deliveroo, Others",4,5,3,Yes,Keto,Yes,"Combo offers, Discounts, Fast delivery",Sometimes,<250,<400,Combo deals,Yes,Poor Customer Service,1,Yes,No,5,4
+33,Female,Chennai,Currently Unemployed,50001-80000,<1,"Uber Eats, Deliveroo",5,5,4,Yes,Keto,Yes,"Discounts, Combo offers, Ethical sourcing",Sometimes,801-1200,400-600,Loyalty points,No,NA,5,No,Yes,5,5
+27,Male,Pune,Retired,50001-80000,3-5,"Deliveroo, Others",4,5,4,Yes,Keto,No,"Sustainability, Combo offers, Fresh food",Rarely,<250,601-800,Free delivery,No,NA,4,No,Yes,4,3
+27,Male,Chennai,Employed - Full Time,20000-50000,1-2,"Swiggy, Others",2,5,3,Yes,No preference,Yes,"Ethical sourcing, Discounts, Fresh food",Sometimes,801-1200,601-800,Free delivery,No,NA,1,Yes,Yes,2,3
+28,Female,Mumbai,Employed - Full Time,20000-50000,<1,Swiggy,5,5,1,Yes,Vegetarian,Yes,"Fresh food, Sustainability, Ethical sourcing",Often,250-500,400-600,Loyalty points,Yes,Delayed Delivery,4,Yes,Yes,4,2
+18,Male,Mumbai,Currently Unemployed,50001-80000,1-2,"Zomato, Deliveroo, Talabat",4,4,3,No,Other,Yes,"Combo offers, Fresh food, Fast delivery",Often,801-1200,400-600,Loyalty points,No,NA,4,Yes,Yes,1,5
+22,Male,Mumbai,Retired,20000-50000,1-2,"Talabat, Swiggy, Zomato",3,4,3,Yes,No preference,Yes,"Discounts, Combo offers, Ethical sourcing",Sometimes,501-800,400-600,Loyalty points,No,NA,1,Yes,Yes,3,4
+36,Male,Hyderabad,Employed - Part Time,80001-120000,3-5,"Talabat, Zomato, Swiggy",3,5,4,Yes,No preference,No,"Fresh food, Sustainability, Ethical sourcing",Rarely,250-500,601-800,Combo deals,Yes,High Cost,5,Maybe,Yes,2,1
+38,Male,Kolkata,Self-employed,20000-50000,<1,Swiggy,2,4,1,Yes,No preference,Yes,"Fast delivery, Combo offers, Discounts",Rarely,501-800,<400,Combo deals,No,NA,1,Maybe,No,5,4
+28,Female,Kolkata,Employed - Part Time,80001-120000,1-2,Deliveroo,4,5,4,Yes,Vegetarian,Yes,"Sustainability, Fast delivery, Discounts",Sometimes,250-500,601-800,Combo deals,Yes,High Cost,4,Maybe,Yes,3,4
+32,Female,Chennai,Retired,50001-80000,1-2,"Uber Eats, Swiggy, Others",5,3,4,Yes,Vegan,Yes,"Sustainability, Ethical sourcing, Discounts",Often,250-500,400-600,Cashback,Yes,Limited Food Choices,5,Maybe,Yes,4,5
+31,Female,Mumbai,Homemaker,80001-120000,<1,"Deliveroo, Talabat, Swiggy",5,3,4,Yes,Vegetarian,No,"Sustainability, Ethical sourcing, Fresh food",Sometimes,250-500,<400,Cashback,Yes,Limited Food Choices,3,Yes,Yes,3,3
+45,Female,Kolkata,Currently Unemployed,50001-80000,3-5,Talabat,5,5,3,No,No preference,Yes,"Ethical sourcing, Fast delivery, Fresh food",Often,250-500,<400,Free delivery,No,NA,3,Maybe,Yes,2,4
+35,Male,Bangalore,Employed - Part Time,50001-80000,3-5,"Uber Eats, Deliveroo, Talabat",2,5,4,Yes,Keto,Yes,"Discounts, Ethical sourcing, Combo offers",Sometimes,501-800,<400,Loyalty points,Yes,Other,1,Maybe,Yes,3,4
+29,Female,Kolkata,Employed - Full Time,20000-50000,1-2,"Uber Eats, Deliveroo, Swiggy",3,4,4,No,Vegetarian,Yes,"Combo offers, Ethical sourcing, Discounts",Rarely,250-500,400-600,Loyalty points,Yes,Other,2,No,No,4,1
+25,Male,Pune,Currently Unemployed,20000-50000,1-2,"Deliveroo, Swiggy, Others",1,5,4,Yes,Vegetarian,Yes,"Discounts, Combo offers, Ethical sourcing",Rarely,501-800,601-800,Combo deals,Yes,Poor Customer Service,1,Yes,Yes,4,5
+21,Male,Pune,Student,20000-50000,<1,Others,5,5,3,No,No preference,Yes,"Fresh food, Fast delivery, Ethical sourcing",Rarely,250-500,400-600,Cashback,Yes,High Cost,5,Maybe,Yes,1,2
+31,Female,Kolkata,Retired,80001-120000,3-5,"Talabat, Swiggy",3,5,3,Yes,Vegetarian,Yes,"Discounts, Combo offers, Fast delivery",Sometimes,250-500,400-600,Loyalty points,No,NA,5,Maybe,No,2,4
+26,Male,Bangalore,Employed - Part Time,80001-120000,<1,"Deliveroo, Talabat, Uber Eats",4,3,4,No,No preference,Yes,"Discounts, Ethical sourcing, Fresh food",Rarely,801-1200,801-1000,Free delivery,Yes,Limited Food Choices,5,Yes,Yes,4,5
+22,Female,Pune,Currently Unemployed,20000-50000,<1,"Others, Uber Eats",4,5,2,Yes,Vegetarian,Yes,"Combo offers, Ethical sourcing, Fresh food",Sometimes,501-800,<400,Loyalty points,Yes,Limited Food Choices,4,Yes,Yes,1,4
+26,Male,Hyderabad,Employed - Part Time,<20000,1-2,"Talabat, Deliveroo",3,5,3,No,Gluten-free,No,"Combo offers, Discounts, Ethical sourcing",Sometimes,501-800,<400,Combo deals,No,NA,5,Maybe,No,2,2
+24,Female,Kolkata,Currently Unemployed,20000-50000,1-2,"Swiggy, Uber Eats, Others",3,3,5,No,Vegan,Yes,"Ethical sourcing, Discounts, Combo offers",Rarely,501-800,400-600,Combo deals,No,NA,4,Maybe,Yes,2,5
+38,Female,Hyderabad,Employed - Full Time,50001-80000,1-2,"Talabat, Deliveroo, Zomato",5,5,1,Yes,Gluten-free,Yes,"Fast delivery, Combo offers, Sustainability",Rarely,801-1200,601-800,Cashback,No,NA,3,Yes,No,4,3
+34,Female,Kolkata,Student,20000-50000,<1,"Zomato, Swiggy, Others",5,5,3,Yes,No preference,Yes,"Discounts, Sustainability, Ethical sourcing",Rarely,250-500,400-600,Free delivery,Yes,Other,4,Yes,Yes,2,4
+29,Female,Delhi,Student,50001-80000,1-2,Others,3,5,3,No,Vegetarian,Yes,"Combo offers, Fast delivery, Fresh food",Sometimes,501-800,400-600,Free delivery,No,NA,2,Yes,Yes,3,5
+37,Female,Delhi,Homemaker,>120000,1-2,"Swiggy, Deliveroo, Others",4,5,4,Yes,No preference,Yes,"Fast delivery, Fresh food, Combo offers",Sometimes,250-500,>1000,Loyalty points,Yes,Poor Food Quality,5,Yes,No,5,5
+30,Male,Delhi,Currently Unemployed,20000-50000,<1,"Uber Eats, Swiggy",5,4,2,Yes,No preference,No,"Fast delivery, Combo offers, Discounts",Rarely,<250,601-800,Free delivery,Yes,High Cost,4,Maybe,Yes,4,4
+25,Female,Pune,Employed - Part Time,20000-50000,3-5,Talabat,1,4,4,No,No preference,No,"Ethical sourcing, Combo offers, Fresh food",Often,<250,<400,Loyalty points,No,NA,5,Yes,Yes,3,3
+37,Male,Hyderabad,Student,20000-50000,<1,Deliveroo,3,5,1,Yes,No preference,Yes,"Fresh food, Sustainability, Fast delivery",Sometimes,250-500,601-800,Loyalty points,No,NA,5,Yes,No,3,5
+32,Female,Hyderabad,Retired,20000-50000,1-2,Uber Eats,2,5,1,Yes,Vegetarian,Yes,"Discounts, Combo offers, Fast delivery",Sometimes,250-500,<400,Cashback,No,NA,5,Maybe,Yes,2,3
+24,Female,Hyderabad,Student,20000-50000,1-2,"Uber Eats, Talabat, Zomato",4,5,4,Yes,No preference,Yes,"Fast delivery, Ethical sourcing, Discounts",Sometimes,801-1200,601-800,Free delivery,Yes,Poor Customer Service,1,Yes,No,1,1
+29,Female,Bangalore,Self-employed,<20000,1-2,"Zomato, Swiggy",1,5,3,No,Other,Yes,"Combo offers, Fast delivery, Discounts",Often,501-800,<400,Combo deals,No,NA,4,Maybe,No,2,5
+25,Male,Hyderabad,Self-employed,80001-120000,1-2,Talabat,3,3,5,Yes,No preference,Yes,"Fresh food, Ethical sourcing, Discounts",Sometimes,250-500,601-800,Loyalty points,Yes,High Cost,5,Yes,Yes,3,4
+23,Male,Bangalore,Student,20000-50000,3-5,"Zomato, Deliveroo",3,3,1,Yes,Other,Yes,"Fast delivery, Ethical sourcing, Combo offers",Sometimes,<250,400-600,Loyalty points,No,NA,1,Maybe,Yes,3,2
+34,Female,Delhi,Currently Unemployed,20000-50000,<1,"Swiggy, Others",4,4,3,Yes,Vegetarian,No,"Discounts, Fresh food, Fast delivery",Rarely,250-500,801-1000,Loyalty points,Yes,Delayed Delivery,5,Maybe,Yes,5,4
+39,Male,Delhi,Homemaker,80001-120000,3-5,Uber Eats,5,3,2,No,No preference,Yes,"Fresh food, Fast delivery, Combo offers",Sometimes,250-500,400-600,Free delivery,Yes,High Cost,4,Yes,No,5,2
+23,Male,Pune,Student,50001-80000,1-2,"Swiggy, Zomato, Talabat",5,5,3,Yes,No preference,Yes,"Discounts, Ethical sourcing, Combo offers",Sometimes,501-800,400-600,Free delivery,No,NA,3,Maybe,Yes,1,1
+32,Male,Kolkata,Employed - Full Time,<20000,1-2,Others,5,4,5,Yes,Vegan,No,"Ethical sourcing, Sustainability, Fast delivery",Sometimes,<250,400-600,Free delivery,No,NA,4,Maybe,Yes,3,2
+26,Female,Delhi,Employed - Part Time,50001-80000,1-2,Zomato,4,5,5,Yes,No preference,Yes,"Discounts, Sustainability, Fresh food",Often,250-500,801-1000,Loyalty points,No,NA,5,Maybe,Yes,1,5
+27,Female,Kolkata,Homemaker,20000-50000,1-2,Others,1,4,1,No,No preference,Yes,"Combo offers, Sustainability, Fast delivery",Often,801-1200,601-800,Combo deals,No,NA,4,Yes,Yes,3,5
+27,Male,Kolkata,Employed - Full Time,50001-80000,3-5,Zomato,3,5,4,No,Vegetarian,Yes,"Combo offers, Ethical sourcing, Discounts",Rarely,501-800,<400,Combo deals,No,NA,4,Yes,Yes,2,4
+25,Male,Pune,Homemaker,50001-80000,3-5,"Swiggy, Uber Eats, Talabat",5,5,4,Yes,Vegan,Yes,"Fresh food, Fast delivery, Discounts",Rarely,501-800,801-1000,Free delivery,No,NA,4,Yes,No,5,3
+30,Male,Mumbai,Employed - Full Time,50001-80000,3-5,"Talabat, Others, Deliveroo",3,1,2,Yes,No preference,No,"Fast delivery, Fresh food, Sustainability",Rarely,501-800,400-600,Combo deals,No,NA,4,Yes,Yes,4,4
+25,Female,Mumbai,Employed - Part Time,20000-50000,>5,"Deliveroo, Uber Eats",2,3,2,No,Vegan,No,"Combo offers, Sustainability, Ethical sourcing",Sometimes,250-500,601-800,Loyalty points,No,NA,2,Yes,Yes,1,4
+31,Female,Chennai,Employed - Part Time,80001-120000,3-5,Talabat,4,4,5,Yes,Vegan,No,"Ethical sourcing, Sustainability, Fast delivery",Rarely,<250,601-800,Free delivery,Yes,Other,1,Yes,No,4,4
+29,Male,Pune,Self-employed,<20000,1-2,"Deliveroo, Talabat",3,5,5,Yes,Keto,No,"Ethical sourcing, Fast delivery, Sustainability",Rarely,501-800,<400,Free delivery,Yes,Limited Food Choices,2,Maybe,Yes,3,5
+28,Male,Chennai,Currently Unemployed,20000-50000,1-2,"Uber Eats, Swiggy",3,3,5,No,Vegetarian,Yes,"Combo offers, Ethical sourcing, Sustainability",Rarely,501-800,>1000,Loyalty points,No,NA,3,No,No,3,4
+25,Male,Chennai,Employed - Full Time,20000-50000,1-2,"Uber Eats, Others",5,5,4,No,No preference,No,"Fresh food, Sustainability, Ethical sourcing",Rarely,250-500,400-600,Free delivery,No,NA,3,Maybe,Yes,3,4
+27,Female,Mumbai,Self-employed,<20000,<1,"Deliveroo, Swiggy",5,5,4,Yes,Keto,No,"Fresh food, Fast delivery, Combo offers",Rarely,<250,<400,Loyalty points,Yes,Poor Food Quality,4,Maybe,Yes,4,5
+33,Female,Pune,Employed - Full Time,20000-50000,3-5,"Deliveroo, Zomato, Uber Eats",3,5,3,Yes,No preference,Yes,"Discounts, Fresh food, Sustainability",Rarely,501-800,801-1000,Free delivery,Yes,Poor Food Quality,4,Yes,No,4,4
+32,Male,Mumbai,Self-employed,80001-120000,1-2,"Uber Eats, Zomato, Deliveroo",5,4,2,Yes,No preference,Yes,"Combo offers, Fresh food, Fast delivery",Sometimes,<250,601-800,Combo deals,No,NA,1,No,Yes,4,4
+25,Male,Chennai,Employed - Part Time,80001-120000,<1,"Swiggy, Deliveroo, Uber Eats",4,5,1,Yes,Gluten-free,Yes,"Sustainability, Combo offers, Fresh food",Rarely,<250,<400,Free delivery,No,NA,1,Maybe,Yes,3,4
+30,Male,Pune,Homemaker,20000-50000,<1,"Others, Swiggy",4,3,4,No,Vegetarian,Yes,"Fresh food, Sustainability, Fast delivery",Rarely,250-500,<400,Free delivery,No,NA,2,Yes,Yes,4,3
+33,Other,Chennai,Retired,20000-50000,1-2,"Zomato, Deliveroo",1,4,4,No,No preference,Yes,"Discounts, Ethical sourcing, Fast delivery",Often,250-500,601-800,Free delivery,Yes,Delayed Delivery,4,Yes,No,5,4
+21,Male,Hyderabad,Self-employed,20000-50000,1-2,"Swiggy, Deliveroo, Zomato",2,5,4,No,Keto,No,"Ethical sourcing, Sustainability, Fresh food",Often,<250,<400,Cashback,No,NA,1,Maybe,No,3,4
+32,Female,Kolkata,Employed - Full Time,20000-50000,1-2,"Swiggy, Talabat, Zomato",4,5,5,Yes,Vegetarian,No,"Discounts, Fast delivery, Ethical sourcing",Rarely,<250,801-1000,Combo deals,Yes,Other,4,Yes,Yes,2,3
+26,Female,Pune,Employed - Full Time,<20000,1-2,"Others, Uber Eats",5,4,5,Yes,No preference,Yes,"Fresh food, Combo offers, Sustainability",Rarely,501-800,601-800,Loyalty points,Yes,Other,4,Maybe,No,4,1
+32,Male,Pune,Retired,80001-120000,1-2,Deliveroo,4,4,5,Yes,No preference,Yes,"Fresh food, Ethical sourcing, Combo offers",Sometimes,250-500,400-600,Cashback,Yes,Poor Food Quality,4,Maybe,Yes,5,5
+26,Male,Kolkata,Currently Unemployed,20000-50000,1-2,"Talabat, Others",2,4,2,Yes,No preference,No,"Discounts, Combo offers, Ethical sourcing",Rarely,250-500,400-600,Combo deals,No,NA,5,Yes,Yes,2,4
+20,Male,Chennai,Employed - Part Time,20000-50000,<1,Swiggy,2,5,4,No,Other,Yes,"Discounts, Sustainability, Fresh food",Rarely,250-500,400-600,Free delivery,No,NA,3,Maybe,No,3,3
+21,Female,Hyderabad,Employed - Full Time,<20000,<1,"Talabat, Swiggy, Uber Eats",5,4,4,Yes,No preference,Yes,"Combo offers, Sustainability, Discounts",Rarely,>1200,400-600,Free delivery,No,NA,3,Yes,No,1,3
+30,Female,Bangalore,Student,80001-120000,1-2,Swiggy,2,5,3,Yes,No preference,Yes,"Combo offers, Discounts, Fast delivery",Rarely,<250,601-800,Loyalty points,Yes,Delayed Delivery,3,Maybe,Yes,4,4
+31,Female,Kolkata,Homemaker,50001-80000,1-2,"Talabat, Zomato, Others",4,5,5,Yes,No preference,No,"Fast delivery, Sustainability, Ethical sourcing",Sometimes,<250,>1000,Loyalty points,No,NA,1,Maybe,Yes,5,2
+25,Female,Mumbai,Self-employed,80001-120000,<1,"Talabat, Deliveroo",1,5,5,No,Vegan,No,"Discounts, Fast delivery, Ethical sourcing",Often,501-800,400-600,Combo deals,No,NA,2,Yes,Yes,3,1
+33,Male,Chennai,Currently Unemployed,50001-80000,1-2,Deliveroo,2,4,2,No,Vegetarian,Yes,"Sustainability, Discounts, Fresh food",Sometimes,<250,400-600,Combo deals,No,NA,5,No,No,3,5
+21,Other,Kolkata,Retired,20000-50000,<1,"Swiggy, Talabat",4,5,1,No,No preference,Yes,"Ethical sourcing, Combo offers, Discounts",Sometimes,250-500,<400,Loyalty points,No,NA,3,No,No,5,4
+29,Female,Kolkata,Homemaker,20000-50000,1-2,"Deliveroo, Swiggy, Others",4,5,4,Yes,No preference,No,"Ethical sourcing, Fresh food, Fast delivery",Sometimes,250-500,601-800,Combo deals,Yes,Delayed Delivery,5,Yes,Yes,2,3
+23,Male,Pune,Employed - Part Time,50001-80000,1-2,Others,3,5,4,Yes,Vegetarian,Yes,"Fresh food, Discounts, Combo offers",Sometimes,>1200,601-800,Loyalty points,No,NA,3,Maybe,No,4,2
+26,Other,Mumbai,Currently Unemployed,20000-50000,1-2,"Zomato, Uber Eats, Others",3,4,5,Yes,Vegetarian,Yes,"Fresh food, Ethical sourcing, Combo offers",Sometimes,801-1200,601-800,Free delivery,No,NA,5,Yes,No,3,4
+30,Female,Mumbai,Self-employed,50001-80000,3-5,"Talabat, Zomato",5,3,2,Yes,Vegetarian,Yes,"Combo offers, Ethical sourcing, Fast delivery",Rarely,801-1200,<400,Loyalty points,No,NA,5,No,No,3,3
+25,Female,Mumbai,Self-employed,<20000,1-2,Others,3,3,1,Yes,No preference,Yes,"Combo offers, Sustainability, Ethical sourcing",Sometimes,<250,801-1000,Cashback,No,NA,3,Yes,Yes,3,4
+28,Female,Kolkata,Retired,<20000,>5,"Uber Eats, Zomato, Talabat",4,5,3,Yes,No preference,Yes,"Ethical sourcing, Fresh food, Fast delivery",Often,801-1200,400-600,Loyalty points,Yes,Limited Food Choices,3,No,Yes,3,3
+35,Female,Bangalore,Student,50001-80000,1-2,"Deliveroo, Swiggy, Uber Eats",5,5,1,Yes,No preference,Yes,"Discounts, Ethical sourcing, Fresh food",Rarely,<250,601-800,Loyalty points,No,NA,4,Maybe,Yes,5,3
+27,Female,Delhi,Retired,50001-80000,1-2,"Others, Talabat",2,5,1,Yes,No preference,No,"Combo offers, Sustainability, Discounts",Often,501-800,601-800,Cashback,No,NA,5,No,Yes,5,4
+34,Male,Chennai,Employed - Part Time,50001-80000,1-2,Uber Eats,5,4,5,Yes,No preference,Yes,"Combo offers, Fresh food, Sustainability",Sometimes,501-800,601-800,Cashback,Yes,Poor Food Quality,4,Maybe,No,4,5
+24,Male,Delhi,Currently Unemployed,<20000,1-2,"Talabat, Deliveroo, Uber Eats",3,3,3,Yes,Keto,No,"Sustainability, Fresh food, Combo offers",Sometimes,<250,400-600,Cashback,No,NA,2,Maybe,No,2,3
+32,Female,Kolkata,Currently Unemployed,50001-80000,1-2,"Swiggy, Zomato, Uber Eats",4,4,3,Yes,Vegetarian,No,"Ethical sourcing, Discounts, Sustainability",Rarely,501-800,400-600,Cashback,Yes,Delayed Delivery,4,Yes,Yes,3,3
+37,Male,Delhi,Employed - Full Time,20000-50000,1-2,Deliveroo,3,4,1,Yes,Vegetarian,Yes,"Ethical sourcing, Fresh food, Discounts",Sometimes,<250,<400,Loyalty points,Yes,Poor Customer Service,3,Yes,No,3,3
+18,Male,Kolkata,Student,<20000,<1,"Others, Uber Eats",5,3,3,Yes,No preference,Yes,"Discounts, Fast delivery, Sustainability",Often,250-500,601-800,Combo deals,No,NA,5,Yes,Yes,5,4
+26,Male,Delhi,Student,20000-50000,<1,"Uber Eats, Deliveroo, Zomato",3,5,4,Yes,Vegetarian,Yes,"Fast delivery, Fresh food, Discounts",Sometimes,801-1200,<400,Cashback,No,NA,5,Yes,Yes,3,5
+32,Male,Mumbai,Currently Unemployed,20000-50000,1-2,"Uber Eats, Swiggy, Others",3,5,4,No,No preference,No,"Sustainability, Discounts, Combo offers",Rarely,<250,400-600,Free delivery,Yes,Other,2,Yes,Yes,5,4
+28,Female,Hyderabad,Currently Unemployed,20000-50000,1-2,"Uber Eats, Swiggy, Talabat",5,5,4,No,No preference,Yes,"Combo offers, Fast delivery, Fresh food",Rarely,<250,<400,Loyalty points,Yes,Poor Food Quality,3,Maybe,Yes,5,5
+31,Female,Mumbai,Homemaker,20000-50000,1-2,Others,4,4,3,Yes,Keto,Yes,"Ethical sourcing, Fresh food, Combo offers",Sometimes,250-500,601-800,Combo deals,Yes,Poor Food Quality,2,Maybe,Yes,3,2
+26,Male,Mumbai,Homemaker,20000-50000,<1,"Talabat, Others, Swiggy",4,4,3,Yes,Other,Yes,"Fast delivery, Discounts, Sustainability",Sometimes,801-1200,400-600,Free delivery,Yes,Limited Food Choices,5,Yes,Yes,4,5
+30,Male,Pune,Homemaker,<20000,3-5,Deliveroo,3,4,3,Yes,No preference,Yes,"Fast delivery, Combo offers, Discounts",Sometimes,<250,601-800,Loyalty points,Yes,Poor Customer Service,5,Yes,No,5,3
+29,Male,Pune,Student,<20000,3-5,Others,4,5,3,No,Vegetarian,No,"Ethical sourcing, Discounts, Fresh food",Often,250-500,601-800,Loyalty points,Yes,Poor Customer Service,2,Yes,Yes,4,1
+35,Female,Delhi,Employed - Full Time,20000-50000,3-5,Others,1,3,4,No,Keto,Yes,"Sustainability, Fresh food, Combo offers",Sometimes,801-1200,601-800,Free delivery,Yes,Limited Food Choices,4,Maybe,Yes,4,3
+31,Female,Kolkata,Self-employed,<20000,1-2,"Uber Eats, Talabat",1,5,3,Yes,No preference,Yes,"Ethical sourcing, Fresh food, Combo offers",Sometimes,<250,<400,Cashback,No,NA,5,Yes,Yes,4,3
+31,Male,Mumbai,Homemaker,50001-80000,3-5,"Deliveroo, Others",4,4,4,Yes,Vegetarian,Yes,"Fast delivery, Discounts, Sustainability",Rarely,250-500,601-800,Cashback,No,NA,2,No,No,1,4
+27,Female,Delhi,Employed - Full Time,20000-50000,3-5,Talabat,3,5,2,Yes,Vegan,No,"Fast delivery, Sustainability, Fresh food",Rarely,501-800,400-600,Free delivery,No,NA,3,No,Yes,3,4
+27,Female,Pune,Retired,20000-50000,1-2,"Zomato, Others",5,5,4,Yes,No preference,Yes,"Combo offers, Fresh food, Sustainability",Sometimes,250-500,<400,Combo deals,No,NA,3,Maybe,No,2,4
+27,Female,Hyderabad,Employed - Part Time,20000-50000,1-2,Others,5,4,5,Yes,No preference,Yes,"Fresh food, Ethical sourcing, Combo offers",Often,501-800,<400,Cashback,Yes,Delayed Delivery,1,Yes,Yes,2,2
+31,Female,Chennai,Homemaker,50001-80000,3-5,"Swiggy, Uber Eats",4,5,4,Yes,Keto,Yes,"Sustainability, Fresh food, Fast delivery",Sometimes,<250,400-600,Loyalty points,No,NA,1,Yes,Yes,4,4
+27,Male,Delhi,Retired,80001-120000,1-2,Talabat,5,3,4,Yes,No preference,Yes,"Sustainability, Discounts, Ethical sourcing",Sometimes,801-1200,<400,Loyalty points,No,NA,5,Yes,No,3,3
+31,Female,Hyderabad,Self-employed,50001-80000,1-2,Swiggy,4,5,5,Yes,No preference,No,"Fast delivery, Combo offers, Fresh food",Rarely,801-1200,400-600,Combo deals,No,NA,4,Yes,Yes,2,4
+40,Male,Chennai,Employed - Part Time,50001-80000,<1,"Zomato, Swiggy, Talabat",2,4,4,No,Vegetarian,No,"Fresh food, Ethical sourcing, Fast delivery",Often,<250,<400,Loyalty points,Yes,Delayed Delivery,3,Maybe,Yes,3,1
+34,Female,Bangalore,Employed - Part Time,20000-50000,<1,"Swiggy, Zomato",4,4,3,No,No preference,No,"Combo offers, Sustainability, Ethical sourcing",Often,<250,400-600,Cashback,Yes,Other,4,Yes,Yes,5,1
+28,Female,Delhi,Self-employed,50001-80000,3-5,"Others, Talabat, Deliveroo",3,5,3,Yes,Keto,Yes,"Combo offers, Fresh food, Ethical sourcing",Sometimes,>1200,<400,Combo deals,No,NA,5,Yes,Yes,4,4
+36,Female,Delhi,Homemaker,50001-80000,1-2,"Zomato, Uber Eats",3,5,4,Yes,Vegetarian,No,"Fast delivery, Discounts, Combo offers",Rarely,250-500,400-600,Cashback,No,NA,4,Maybe,No,1,5
+27,Female,Bangalore,Student,20000-50000,1-2,"Others, Zomato, Talabat",5,4,4,Yes,No preference,Yes,"Fast delivery, Ethical sourcing, Sustainability",Sometimes,250-500,801-1000,Combo deals,No,NA,3,Yes,Yes,5,4
+19,Male,Bangalore,Self-employed,20000-50000,<1,"Others, Uber Eats",4,5,3,Yes,No preference,No,"Fast delivery, Sustainability, Combo offers",Often,501-800,400-600,Free delivery,Yes,High Cost,2,Yes,Yes,3,1
+24,Female,Delhi,Self-employed,20000-50000,1-2,"Deliveroo, Uber Eats",5,4,3,Yes,Vegetarian,Yes,"Fresh food, Combo offers, Ethical sourcing",Sometimes,501-800,400-600,Loyalty points,Yes,Poor Customer Service,5,Maybe,Yes,4,3
+20,Prefer not to say,Bangalore,Self-employed,80001-120000,1-2,Deliveroo,3,4,5,Yes,No preference,Yes,"Ethical sourcing, Discounts, Fast delivery",Sometimes,501-800,400-600,Combo deals,No,NA,3,Maybe,Yes,4,3
+28,Female,Mumbai,Employed - Part Time,50001-80000,<1,"Uber Eats, Talabat",4,5,2,No,No preference,Yes,"Fresh food, Combo offers, Discounts",Rarely,<250,<400,Free delivery,No,NA,2,Yes,Yes,5,4
+30,Male,Chennai,Employed - Full Time,50001-80000,3-5,"Uber Eats, Deliveroo, Swiggy",2,4,3,Yes,No preference,Yes,"Fresh food, Discounts, Fast delivery",Rarely,250-500,<400,Cashback,Yes,Other,4,Maybe,Yes,4,4
+38,Male,Chennai,Retired,20000-50000,<1,Swiggy,4,4,1,Yes,Vegetarian,Yes,"Fresh food, Combo offers, Discounts",Rarely,801-1200,<400,Free delivery,No,NA,1,Maybe,Yes,2,3
+31,Male,Chennai,Student,20000-50000,1-2,"Others, Talabat",4,5,4,Yes,No preference,No,"Fresh food, Ethical sourcing, Sustainability",Often,501-800,>1000,Cashback,Yes,Poor Food Quality,5,Yes,Yes,3,4
+28,Female,Mumbai,Homemaker,<20000,1-2,Talabat,4,3,1,Yes,Vegetarian,Yes,"Fast delivery, Sustainability, Ethical sourcing",Sometimes,501-800,601-800,Combo deals,No,NA,4,No,Yes,3,4
+34,Female,Kolkata,Homemaker,20000-50000,1-2,"Swiggy, Zomato",3,5,4,Yes,Vegan,No,"Combo offers, Fresh food, Ethical sourcing",Sometimes,>1200,601-800,Combo deals,No,NA,3,No,Yes,3,4
+18,Male,Bangalore,Retired,80001-120000,3-5,"Talabat, Others",1,4,1,No,No preference,Yes,"Sustainability, Fresh food, Fast delivery",Rarely,501-800,>1000,Loyalty points,No,NA,3,Maybe,Yes,3,2
+31,Female,Hyderabad,Employed - Full Time,50001-80000,3-5,"Swiggy, Deliveroo, Others",2,2,4,No,No preference,Yes,"Fast delivery, Fresh food, Discounts",Often,250-500,801-1000,Loyalty points,Yes,Other,4,Maybe,No,3,4
+33,Female,Bangalore,Self-employed,20000-50000,3-5,"Swiggy, Uber Eats, Talabat",4,3,4,Yes,No preference,No,"Ethical sourcing, Fresh food, Discounts",Often,501-800,601-800,Combo deals,Yes,Delayed Delivery,4,Yes,Yes,3,3
+22,Female,Delhi,Student,80001-120000,<1,Talabat,5,5,3,Yes,Keto,Yes,"Combo offers, Fast delivery, Sustainability",Rarely,250-500,601-800,Cashback,No,NA,5,No,No,2,5
+35,Female,Pune,Homemaker,20000-50000,<1,Deliveroo,3,5,3,No,Vegan,Yes,"Fast delivery, Sustainability, Ethical sourcing",Often,<250,400-600,Cashback,Yes,Other,4,Yes,Yes,3,5
+31,Female,Chennai,Retired,>120000,1-2,"Zomato, Talabat",4,2,3,Yes,No preference,No,"Ethical sourcing, Discounts, Fresh food",Rarely,250-500,<400,Combo deals,No,NA,4,Yes,No,4,3
+27,Female,Bangalore,Currently Unemployed,20000-50000,1-2,Swiggy,5,2,3,No,Keto,Yes,"Combo offers, Discounts, Fast delivery",Rarely,501-800,400-600,Cashback,No,NA,5,Yes,Yes,3,3
+33,Male,Hyderabad,Retired,20000-50000,3-5,"Talabat, Deliveroo, Zomato",4,5,4,Yes,No preference,Yes,"Sustainability, Ethical sourcing, Combo offers",Rarely,>1200,400-600,Combo deals,Yes,Limited Food Choices,4,No,Yes,5,3
+41,Female,Delhi,Homemaker,20000-50000,3-5,Others,4,3,3,Yes,Keto,No,"Ethical sourcing, Sustainability, Combo offers",Often,250-500,>1000,Loyalty points,No,NA,4,No,No,1,4
+30,Female,Mumbai,Self-employed,<20000,3-5,"Uber Eats, Zomato",5,5,4,Yes,Other,Yes,"Ethical sourcing, Discounts, Fast delivery",Often,250-500,400-600,Cashback,Yes,Delayed Delivery,5,Yes,No,3,5
+31,Female,Kolkata,Currently Unemployed,<20000,3-5,"Swiggy, Uber Eats",3,4,2,Yes,No preference,No,"Discounts, Combo offers, Fresh food",Rarely,250-500,601-800,Loyalty points,No,NA,5,Maybe,Yes,3,3
+27,Female,Mumbai,Employed - Full Time,50001-80000,3-5,"Others, Uber Eats",3,5,2,No,No preference,Yes,"Fresh food, Combo offers, Discounts",Sometimes,501-800,400-600,Free delivery,No,NA,4,Maybe,Yes,1,5
+25,Female,Hyderabad,Student,80001-120000,1-2,"Talabat, Uber Eats",1,4,3,Yes,No preference,Yes,"Sustainability, Fresh food, Discounts",Sometimes,501-800,<400,Loyalty points,No,NA,5,Maybe,Yes,2,4
+34,Male,Delhi,Employed - Full Time,50001-80000,1-2,"Uber Eats, Talabat",5,5,4,Yes,No preference,Yes,"Fast delivery, Ethical sourcing, Discounts",Often,250-500,400-600,Free delivery,Yes,Poor Customer Service,4,Yes,Yes,5,5
+25,Male,Chennai,Employed - Full Time,<20000,1-2,"Swiggy, Zomato, Others",5,5,3,Yes,Vegan,Yes,"Fast delivery, Sustainability, Discounts",Rarely,501-800,400-600,Loyalty points,No,NA,4,Maybe,Yes,3,4
+30,Male,Bangalore,Retired,50001-80000,<1,"Deliveroo, Zomato, Swiggy",4,4,4,No,Vegan,Yes,"Fast delivery, Discounts, Combo offers",Sometimes,250-500,400-600,Loyalty points,No,NA,3,Maybe,No,3,4
+27,Male,Delhi,Student,<20000,<1,Uber Eats,2,3,2,Yes,No preference,No,"Combo offers, Ethical sourcing, Discounts",Sometimes,250-500,400-600,Cashback,Yes,High Cost,5,Yes,Yes,3,4
+32,Female,Kolkata,Student,<20000,1-2,Zomato,3,5,1,No,Vegetarian,Yes,"Fast delivery, Sustainability, Fresh food",Rarely,250-500,<400,Loyalty points,Yes,Delayed Delivery,3,Yes,Yes,4,5
+31,Prefer not to say,Mumbai,Homemaker,50001-80000,3-5,"Swiggy, Talabat",2,5,4,Yes,No preference,Yes,"Combo offers, Fast delivery, Sustainability",Rarely,801-1200,400-600,Combo deals,Yes,Poor Customer Service,1,Maybe,Yes,3,3
+35,Male,Kolkata,Homemaker,50001-80000,<1,"Zomato, Talabat",1,1,4,Yes,Vegetarian,Yes,"Fast delivery, Sustainability, Fresh food",Sometimes,<250,400-600,Cashback,No,NA,5,No,No,4,5
+27,Male,Kolkata,Student,<20000,3-5,Others,4,1,1,Yes,Vegetarian,Yes,"Ethical sourcing, Discounts, Fast delivery",Rarely,501-800,400-600,Cashback,No,NA,3,No,No,3,4
+28,Female,Hyderabad,Currently Unemployed,<20000,3-5,Uber Eats,5,5,4,Yes,Gluten-free,Yes,"Fresh food, Combo offers, Discounts",Often,250-500,400-600,Cashback,No,NA,3,Yes,Yes,3,4
+25,Male,Hyderabad,Employed - Part Time,>120000,1-2,"Uber Eats, Deliveroo, Talabat",5,4,3,Yes,Other,Yes,"Ethical sourcing, Combo offers, Sustainability",Rarely,250-500,<400,Loyalty points,No,NA,3,No,Yes,2,5
+27,Female,Bangalore,Homemaker,<20000,<1,"Swiggy, Uber Eats, Others",4,5,4,Yes,No preference,Yes,"Fresh food, Sustainability, Fast delivery",Often,250-500,<400,Cashback,No,NA,3,Yes,Yes,4,5
+31,Female,Hyderabad,Employed - Part Time,20000-50000,<1,Zomato,2,4,5,Yes,No preference,Yes,"Fresh food, Fast delivery, Discounts",Rarely,250-500,400-600,Free delivery,Yes,Delayed Delivery,4,Yes,Yes,4,5
+33,Female,Hyderabad,Retired,50001-80000,3-5,Talabat,3,5,5,Yes,Other,Yes,"Ethical sourcing, Fast delivery, Fresh food",Rarely,250-500,400-600,Free delivery,Yes,Poor Customer Service,2,Yes,Yes,3,3
+25,Male,Delhi,Currently Unemployed,<20000,3-5,"Swiggy, Deliveroo",3,5,4,Yes,Vegetarian,Yes,"Ethical sourcing, Combo offers, Fast delivery",Rarely,501-800,400-600,Loyalty points,Yes,Other,2,Yes,No,1,5
+34,Male,Chennai,Student,20000-50000,3-5,"Others, Zomato",4,5,3,Yes,Vegetarian,Yes,"Ethical sourcing, Combo offers, Fresh food",Sometimes,250-500,801-1000,Cashback,No,NA,3,Maybe,No,3,4
+36,Female,Bangalore,Currently Unemployed,20000-50000,1-2,"Others, Swiggy, Zomato",5,3,4,No,No preference,Yes,"Combo offers, Sustainability, Ethical sourcing",Sometimes,501-800,<400,Combo deals,No,NA,3,Maybe,Yes,2,4
+32,Female,Delhi,Homemaker,50001-80000,<1,"Talabat, Uber Eats",3,5,3,Yes,No preference,Yes,"Sustainability, Fresh food, Fast delivery",Rarely,250-500,<400,Combo deals,No,NA,2,Yes,Yes,3,5
+39,Male,Chennai,Employed - Full Time,50001-80000,<1,Talabat,3,4,1,No,Gluten-free,No,"Fast delivery, Ethical sourcing, Fresh food",Rarely,250-500,400-600,Free delivery,Yes,High Cost,4,No,Yes,4,3
+26,Female,Kolkata,Retired,50001-80000,3-5,"Swiggy, Talabat",1,5,3,Yes,Other,No,"Fast delivery, Ethical sourcing, Sustainability",Sometimes,250-500,400-600,Loyalty points,No,NA,3,Yes,Yes,4,2
+23,Male,Delhi,Student,>120000,<1,"Others, Zomato, Talabat",3,5,5,Yes,Vegan,Yes,"Fresh food, Ethical sourcing, Combo offers",Sometimes,>1200,400-600,Loyalty points,No,NA,1,Yes,No,2,4
+21,Female,Pune,Self-employed,50001-80000,1-2,"Talabat, Swiggy, Zomato",4,2,5,Yes,Vegetarian,Yes,"Discounts, Ethical sourcing, Combo offers",Sometimes,250-500,601-800,Loyalty points,No,NA,5,Maybe,Yes,5,2
+37,Male,Delhi,Retired,20000-50000,1-2,"Swiggy, Zomato",2,5,2,Yes,No preference,No,"Ethical sourcing, Combo offers, Fresh food",Rarely,250-500,601-800,Loyalty points,No,NA,5,Yes,Yes,5,4
+33,Female,Hyderabad,Employed - Part Time,20000-50000,<1,"Talabat, Deliveroo",4,3,4,Yes,Keto,Yes,"Combo offers, Fresh food, Sustainability",Sometimes,801-1200,<400,Loyalty points,Yes,High Cost,3,Yes,No,3,3
+29,Male,Chennai,Currently Unemployed,50001-80000,<1,"Zomato, Deliveroo",5,5,4,Yes,Vegetarian,Yes,"Combo offers, Fresh food, Fast delivery",Sometimes,<250,801-1000,Cashback,No,NA,3,Yes,Yes,3,2
+31,Male,Bangalore,Student,50001-80000,1-2,"Uber Eats, Swiggy",4,5,3,Yes,Vegetarian,Yes,"Sustainability, Discounts, Fast delivery",Often,501-800,<400,Cashback,No,NA,4,No,No,5,4
+24,Male,Bangalore,Retired,50001-80000,1-2,"Talabat, Deliveroo, Others",2,5,3,Yes,Vegan,No,"Sustainability, Combo offers, Fast delivery",Sometimes,<250,400-600,Cashback,No,NA,4,Yes,No,3,4
+42,Male,Chennai,Currently Unemployed,50001-80000,<1,"Others, Deliveroo, Swiggy",3,3,4,No,No preference,Yes,"Fast delivery, Discounts, Ethical sourcing",Rarely,501-800,601-800,Combo deals,Yes,High Cost,5,Yes,No,3,3
+30,Female,Hyderabad,Student,<20000,3-5,"Deliveroo, Zomato",4,4,3,No,No preference,No,"Fast delivery, Discounts, Fresh food",Rarely,<250,601-800,Cashback,Yes,Other,4,Maybe,Yes,4,1
+30,Prefer not to say,Mumbai,Homemaker,20000-50000,3-5,"Swiggy, Zomato, Deliveroo",3,5,2,Yes,No preference,Yes,"Fresh food, Combo offers, Sustainability",Sometimes,801-1200,400-600,Loyalty points,Yes,Poor Customer Service,4,Yes,Yes,2,4
+33,Male,Delhi,Retired,20000-50000,1-2,"Others, Swiggy",3,4,4,Yes,No preference,Yes,"Ethical sourcing, Discounts, Combo offers",Sometimes,250-500,400-600,Loyalty points,No,NA,5,Yes,Yes,4,5
+32,Male,Hyderabad,Homemaker,<20000,3-5,Zomato,4,4,5,No,Keto,No,"Fast delivery, Combo offers, Ethical sourcing",Often,250-500,400-600,Combo deals,No,NA,4,Yes,Yes,3,5
+31,Female,Pune,Retired,<20000,1-2,"Zomato, Swiggy, Deliveroo",4,4,4,No,Gluten-free,Yes,"Ethical sourcing, Discounts, Fast delivery",Sometimes,<250,<400,Combo deals,No,NA,2,Yes,No,3,2
+26,Female,Kolkata,Homemaker,50001-80000,1-2,"Deliveroo, Swiggy",4,4,4,Yes,Vegetarian,Yes,"Fresh food, Ethical sourcing, Fast delivery",Sometimes,250-500,<400,Free delivery,No,NA,4,No,Yes,1,4
+32,Female,Chennai,Currently Unemployed,50001-80000,3-5,Uber Eats,3,5,3,Yes,Vegetarian,Yes,"Fresh food, Sustainability, Fast delivery",Sometimes,501-800,400-600,Combo deals,No,NA,2,No,Yes,3,3
+39,Male,Delhi,Self-employed,20000-50000,3-5,"Deliveroo, Others, Talabat",5,4,2,No,Vegetarian,Yes,"Discounts, Fresh food, Combo offers",Sometimes,250-500,400-600,Free delivery,Yes,Poor Customer Service,1,Maybe,Yes,3,4
+36,Male,Bangalore,Retired,20000-50000,3-5,Swiggy,3,5,4,No,No preference,Yes,"Sustainability, Fast delivery, Combo offers",Rarely,250-500,601-800,Cashback,No,NA,5,Yes,No,3,5
+37,Female,Kolkata,Retired,20000-50000,<1,"Swiggy, Uber Eats",2,4,3,Yes,No preference,Yes,"Combo offers, Ethical sourcing, Sustainability",Rarely,250-500,<400,Loyalty points,No,NA,3,Yes,Yes,4,4
+27,Male,Mumbai,Homemaker,20000-50000,<1,Talabat,4,4,5,Yes,Gluten-free,Yes,"Discounts, Ethical sourcing, Combo offers",Sometimes,250-500,601-800,Free delivery,Yes,High Cost,1,Yes,Yes,2,4
+25,Female,Pune,Student,50001-80000,3-5,"Others, Deliveroo, Zomato",4,2,2,No,No preference,Yes,"Sustainability, Discounts, Combo offers",Rarely,<250,<400,Free delivery,Yes,Poor Food Quality,5,Yes,Yes,2,3
+29,Male,Bangalore,Retired,50001-80000,1-2,"Swiggy, Talabat, Uber Eats",5,4,3,No,Vegetarian,Yes,"Combo offers, Ethical sourcing, Sustainability",Rarely,<250,801-1000,Free delivery,No,NA,4,Yes,No,3,5
+30,Female,Chennai,Homemaker,50001-80000,1-2,"Talabat, Swiggy",4,4,3,No,No preference,Yes,"Discounts, Sustainability, Fresh food",Rarely,501-800,400-600,Combo deals,Yes,Poor Customer Service,3,Yes,Yes,3,4
+35,Male,Delhi,Employed - Full Time,50001-80000,3-5,"Swiggy, Others",5,5,5,No,No preference,Yes,"Ethical sourcing, Combo offers, Fresh food",Rarely,>1200,400-600,Combo deals,No,NA,3,Yes,Yes,2,4
+21,Female,Chennai,Homemaker,50001-80000,3-5,"Others, Talabat, Uber Eats",5,4,2,Yes,Keto,Yes,"Fresh food, Sustainability, Fast delivery",Rarely,250-500,801-1000,Combo deals,No,NA,3,No,Yes,1,4
+37,Female,Kolkata,Currently Unemployed,<20000,3-5,"Talabat, Others, Swiggy",4,4,1,No,Vegetarian,Yes,"Fresh food, Sustainability, Ethical sourcing",Sometimes,501-800,400-600,Free delivery,Yes,Poor Food Quality,3,Yes,Yes,5,3
+29,Female,Delhi,Self-employed,20000-50000,1-2,"Talabat, Others, Swiggy",4,4,2,Yes,No preference,Yes,"Discounts, Combo offers, Sustainability",Sometimes,<250,<400,Cashback,Yes,High Cost,5,Yes,No,1,5
+27,Male,Hyderabad,Employed - Full Time,<20000,3-5,"Others, Zomato",4,4,4,No,No preference,Yes,"Ethical sourcing, Fast delivery, Fresh food",Sometimes,250-500,400-600,Loyalty points,No,NA,3,Yes,No,4,1
+24,Female,Mumbai,Currently Unemployed,>120000,<1,Talabat,5,5,2,Yes,No preference,Yes,"Combo offers, Discounts, Fresh food",Sometimes,250-500,<400,Combo deals,No,NA,4,Yes,Yes,3,4
+21,Female,Hyderabad,Currently Unemployed,<20000,<1,Uber Eats,4,5,2,No,No preference,Yes,"Discounts, Combo offers, Fast delivery",Often,250-500,400-600,Cashback,No,NA,2,No,Yes,4,4
+34,Female,Hyderabad,Currently Unemployed,20000-50000,1-2,"Uber Eats, Deliveroo, Zomato",2,2,2,Yes,Other,Yes,"Fast delivery, Sustainability, Discounts",Rarely,250-500,400-600,Combo deals,Yes,Limited Food Choices,5,Yes,Yes,2,2
+30,Female,Chennai,Student,80001-120000,<1,"Deliveroo, Others, Zomato",4,2,4,Yes,Vegetarian,No,"Sustainability, Fresh food, Fast delivery",Sometimes,801-1200,801-1000,Combo deals,No,NA,4,Yes,No,4,3
+23,Female,Kolkata,Currently Unemployed,80001-120000,1-2,Swiggy,3,5,1,Yes,Vegan,No,"Sustainability, Combo offers, Discounts",Rarely,801-1200,400-600,Free delivery,No,NA,5,Yes,Yes,2,4
+23,Female,Mumbai,Student,50001-80000,1-2,"Others, Swiggy, Uber Eats",3,4,3,Yes,Vegetarian,Yes,"Sustainability, Ethical sourcing, Combo offers",Sometimes,<250,<400,Free delivery,No,NA,4,Yes,No,3,3
+28,Male,Delhi,Currently Unemployed,<20000,1-2,"Swiggy, Deliveroo, Talabat",3,5,3,No,Vegetarian,No,"Fresh food, Combo offers, Discounts",Often,250-500,601-800,Combo deals,No,NA,5,Maybe,No,2,3
+38,Female,Delhi,Employed - Part Time,<20000,<1,Uber Eats,4,3,4,No,Gluten-free,Yes,"Sustainability, Fast delivery, Ethical sourcing",Sometimes,>1200,400-600,Loyalty points,Yes,Poor Customer Service,5,Maybe,No,4,2
+28,Female,Pune,Employed - Full Time,20000-50000,1-2,"Others, Uber Eats",5,5,4,Yes,No preference,Yes,"Sustainability, Fresh food, Ethical sourcing",Sometimes,250-500,400-600,Combo deals,No,NA,5,Yes,No,4,5
+22,Male,Bangalore,Employed - Part Time,<20000,1-2,"Deliveroo, Zomato, Uber Eats",3,5,3,Yes,No preference,Yes,"Sustainability, Ethical sourcing, Fast delivery",Sometimes,501-800,400-600,Loyalty points,Yes,Poor Customer Service,2,No,Yes,3,5
+28,Male,Pune,Currently Unemployed,<20000,1-2,"Swiggy, Zomato, Uber Eats",2,5,5,No,Vegetarian,Yes,"Combo offers, Fast delivery, Fresh food",Sometimes,250-500,400-600,Cashback,No,NA,1,Yes,No,3,5
+28,Male,Pune,Employed - Full Time,20000-50000,3-5,"Others, Uber Eats, Zomato",3,1,5,No,No preference,Yes,"Ethical sourcing, Fresh food, Fast delivery",Rarely,250-500,400-600,Combo deals,Yes,Poor Food Quality,3,Yes,No,4,4
+18,Female,Delhi,Employed - Full Time,80001-120000,3-5,"Zomato, Talabat",4,4,3,No,Vegan,Yes,"Ethical sourcing, Combo offers, Discounts",Sometimes,<250,400-600,Loyalty points,No,NA,2,Yes,Yes,4,4
+29,Female,Chennai,Retired,20000-50000,1-2,Swiggy,3,4,4,No,Vegetarian,Yes,"Combo offers, Fresh food, Discounts",Sometimes,801-1200,<400,Cashback,Yes,Other,5,Maybe,No,3,3
+28,Female,Hyderabad,Self-employed,50001-80000,3-5,"Others, Deliveroo",3,4,4,No,No preference,Yes,"Ethical sourcing, Fresh food, Fast delivery",Rarely,801-1200,>1000,Cashback,No,NA,4,Yes,No,5,3
+33,Female,Kolkata,Employed - Part Time,50001-80000,<1,"Uber Eats, Others",3,4,5,Yes,No preference,Yes,"Ethical sourcing, Combo offers, Discounts",Rarely,250-500,601-800,Free delivery,No,NA,4,Maybe,No,3,5
+39,Male,Hyderabad,Self-employed,20000-50000,1-2,Talabat,4,2,3,No,Keto,Yes,"Ethical sourcing, Sustainability, Combo offers",Often,501-800,400-600,Cashback,No,NA,3,Yes,Yes,2,5
+35,Male,Hyderabad,Employed - Full Time,50001-80000,3-5,Deliveroo,3,5,3,Yes,Vegan,Yes,"Fast delivery, Discounts, Sustainability",Rarely,250-500,601-800,Free delivery,No,NA,3,Yes,Yes,2,5
+28,Male,Mumbai,Student,20000-50000,1-2,Deliveroo,4,5,3,No,No preference,No,"Combo offers, Fresh food, Discounts",Rarely,<250,400-600,Cashback,No,NA,3,Maybe,Yes,4,4
+24,Male,Delhi,Employed - Full Time,<20000,>5,"Uber Eats, Deliveroo",2,4,5,No,Vegan,Yes,"Fresh food, Combo offers, Discounts",Sometimes,501-800,<400,Cashback,Yes,High Cost,4,Maybe,No,3,5
+42,Male,Kolkata,Self-employed,50001-80000,1-2,"Talabat, Others",4,2,2,Yes,Vegetarian,No,"Combo offers, Discounts, Fast delivery",Rarely,250-500,<400,Loyalty points,Yes,Poor Food Quality,5,Maybe,No,2,5
+30,Male,Chennai,Employed - Part Time,<20000,3-5,Zomato,3,5,2,Yes,No preference,Yes,"Discounts, Sustainability, Fast delivery",Sometimes,250-500,<400,Loyalty points,No,NA,3,Maybe,Yes,2,3
+30,Female,Mumbai,Currently Unemployed,>120000,1-2,Deliveroo,4,4,3,Yes,Vegetarian,Yes,"Combo offers, Fresh food, Discounts",Sometimes,250-500,601-800,Free delivery,Yes,Delayed Delivery,5,Yes,Yes,3,3
+29,Female,Bangalore,Retired,20000-50000,1-2,"Zomato, Deliveroo",3,5,2,Yes,Vegetarian,Yes,"Combo offers, Discounts, Fresh food",Sometimes,>1200,400-600,Combo deals,Yes,Poor Food Quality,4,Yes,No,2,4
+30,Prefer not to say,Chennai,Retired,50001-80000,1-2,"Zomato, Swiggy, Uber Eats",4,4,4,Yes,Keto,Yes,"Sustainability, Discounts, Ethical sourcing",Rarely,801-1200,400-600,Loyalty points,Yes,Limited Food Choices,5,Yes,Yes,1,3
+29,Female,Pune,Retired,20000-50000,3-5,Uber Eats,5,3,2,No,Other,Yes,"Fresh food, Discounts, Sustainability",Sometimes,501-800,<400,Cashback,No,NA,3,Yes,Yes,5,5
+27,Female,Chennai,Currently Unemployed,<20000,1-2,"Deliveroo, Zomato, Swiggy",5,4,3,Yes,Other,Yes,"Combo offers, Ethical sourcing, Fresh food",Often,<250,400-600,Free delivery,No,NA,4,Maybe,No,3,3
+27,Male,Chennai,Retired,<20000,3-5,"Uber Eats, Others",4,4,5,Yes,Keto,No,"Combo offers, Ethical sourcing, Fresh food",Rarely,501-800,400-600,Free delivery,Yes,Poor Food Quality,2,Maybe,Yes,2,4
+29,Female,Hyderabad,Employed - Part Time,50001-80000,1-2,Talabat,4,5,3,No,Vegetarian,Yes,"Combo offers, Sustainability, Ethical sourcing",Rarely,250-500,601-800,Free delivery,Yes,Other,3,Maybe,Yes,4,4
+27,Female,Chennai,Currently Unemployed,80001-120000,<1,"Others, Swiggy",5,5,4,No,Vegetarian,Yes,"Fresh food, Fast delivery, Discounts",Often,>1200,>1000,Cashback,No,NA,4,Yes,No,4,4
+26,Male,Pune,Retired,80001-120000,1-2,"Deliveroo, Uber Eats",4,4,2,Yes,Vegetarian,Yes,"Fast delivery, Sustainability, Fresh food",Rarely,<250,400-600,Loyalty points,No,NA,5,No,Yes,3,3
+30,Male,Pune,Currently Unemployed,20000-50000,1-2,"Uber Eats, Talabat",3,5,2,No,Gluten-free,No,"Ethical sourcing, Fast delivery, Fresh food",Rarely,250-500,400-600,Combo deals,No,NA,3,Maybe,No,2,5
+28,Female,Delhi,Self-employed,50001-80000,3-5,"Uber Eats, Zomato",5,4,4,Yes,No preference,Yes,"Fresh food, Combo offers, Ethical sourcing",Rarely,250-500,400-600,Free delivery,No,NA,3,Yes,Yes,4,3
+37,Male,Chennai,Employed - Part Time,50001-80000,1-2,Uber Eats,3,5,4,Yes,Keto,Yes,"Fresh food, Discounts, Sustainability",Rarely,501-800,601-800,Cashback,Yes,Poor Customer Service,4,Yes,Yes,3,5
+18,Female,Hyderabad,Homemaker,50001-80000,1-2,"Uber Eats, Swiggy, Talabat",3,5,3,Yes,Keto,Yes,"Ethical sourcing, Fresh food, Combo offers",Rarely,501-800,<400,Loyalty points,Yes,Delayed Delivery,4,Maybe,Yes,3,5
+35,Female,Chennai,Student,20000-50000,1-2,"Deliveroo, Uber Eats",3,3,5,Yes,Vegetarian,No,"Combo offers, Fresh food, Fast delivery",Sometimes,250-500,400-600,Loyalty points,Yes,Poor Food Quality,4,No,Yes,3,2
+36,Male,Bangalore,Retired,50001-80000,1-2,Deliveroo,3,4,5,Yes,Keto,Yes,"Ethical sourcing, Discounts, Combo offers",Sometimes,250-500,601-800,Combo deals,No,NA,5,Maybe,Yes,4,5
+19,Male,Bangalore,Student,80001-120000,3-5,Zomato,4,4,5,No,Vegetarian,Yes,"Fresh food, Sustainability, Ethical sourcing",Rarely,501-800,<400,Free delivery,No,NA,4,Yes,Yes,3,4
+28,Male,Hyderabad,Currently Unemployed,20000-50000,<1,"Others, Deliveroo, Talabat",3,5,3,No,Gluten-free,Yes,"Ethical sourcing, Sustainability, Fast delivery",Often,<250,400-600,Cashback,Yes,Limited Food Choices,5,Yes,Yes,5,4
+28,Male,Delhi,Student,80001-120000,1-2,"Talabat, Others",2,5,2,Yes,No preference,Yes,"Ethical sourcing, Fast delivery, Fresh food",Sometimes,501-800,400-600,Loyalty points,No,NA,5,Yes,Yes,3,4
+22,Male,Delhi,Employed - Part Time,50001-80000,>5,Swiggy,2,5,4,Yes,No preference,No,"Fresh food, Combo offers, Ethical sourcing",Often,801-1200,<400,Cashback,No,NA,5,Yes,Yes,4,4
+26,Female,Pune,Employed - Part Time,20000-50000,3-5,"Uber Eats, Swiggy, Others",4,5,4,Yes,Keto,Yes,"Ethical sourcing, Fresh food, Fast delivery",Often,<250,400-600,Loyalty points,No,NA,4,No,Yes,3,2
+24,Male,Pune,Employed - Full Time,<20000,1-2,Uber Eats,4,4,2,No,No preference,Yes,"Fresh food, Fast delivery, Ethical sourcing",Sometimes,<250,400-600,Free delivery,No,NA,2,Yes,Yes,3,5
+38,Female,Mumbai,Retired,20000-50000,1-2,Talabat,3,3,4,No,Vegetarian,No,"Sustainability, Fast delivery, Combo offers",Often,250-500,400-600,Free delivery,No,NA,3,Maybe,Yes,3,4
+34,Male,Hyderabad,Employed - Full Time,50001-80000,1-2,Swiggy,1,5,1,Yes,Vegan,No,"Fresh food, Ethical sourcing, Sustainability",Sometimes,<250,<400,Combo deals,No,NA,5,Maybe,Yes,1,2
+36,Female,Chennai,Student,80001-120000,1-2,Uber Eats,2,3,3,Yes,No preference,Yes,"Discounts, Fresh food, Fast delivery",Often,250-500,801-1000,Loyalty points,No,NA,3,Yes,Yes,2,4
+33,Male,Kolkata,Homemaker,<20000,3-5,"Deliveroo, Talabat, Others",5,5,3,Yes,Vegetarian,Yes,"Fresh food, Discounts, Fast delivery",Rarely,501-800,<400,Cashback,No,NA,4,Yes,No,4,4
+24,Male,Hyderabad,Employed - Full Time,80001-120000,1-2,"Talabat, Deliveroo, Zomato",4,4,4,Yes,No preference,No,"Sustainability, Fast delivery, Fresh food",Rarely,250-500,601-800,Loyalty points,No,NA,5,No,Yes,4,4
+27,Female,Mumbai,Employed - Full Time,80001-120000,1-2,Swiggy,4,4,3,Yes,No preference,Yes,"Discounts, Fresh food, Sustainability",Sometimes,<250,<400,Cashback,No,NA,4,Maybe,Yes,2,2
+32,Female,Pune,Employed - Part Time,20000-50000,<1,"Talabat, Swiggy",1,2,4,Yes,No preference,No,"Discounts, Fast delivery, Combo offers",Sometimes,501-800,400-600,Combo deals,No,NA,4,Yes,No,3,4
+23,Male,Hyderabad,Homemaker,80001-120000,1-2,"Deliveroo, Others",4,5,4,Yes,Other,No,"Fast delivery, Ethical sourcing, Discounts",Often,501-800,<400,Loyalty points,No,NA,2,Yes,Yes,2,2
+33,Female,Hyderabad,Currently Unemployed,>120000,<1,"Swiggy, Deliveroo",4,3,4,Yes,Vegan,Yes,"Fresh food, Sustainability, Combo offers",Often,801-1200,<400,Free delivery,No,NA,4,No,Yes,4,4
+28,Male,Pune,Student,50001-80000,<1,Others,3,5,5,Yes,Other,No,"Ethical sourcing, Sustainability, Fresh food",Rarely,<250,<400,Cashback,Yes,Poor Customer Service,3,No,Yes,2,5
+28,Female,Mumbai,Employed - Full Time,50001-80000,1-2,"Swiggy, Zomato",2,4,4,Yes,No preference,Yes,"Combo offers, Discounts, Sustainability",Often,501-800,400-600,Free delivery,No,NA,5,Yes,Yes,4,1
+33,Male,Pune,Homemaker,>120000,<1,Talabat,3,5,5,No,No preference,Yes,"Combo offers, Sustainability, Discounts",Rarely,801-1200,400-600,Combo deals,No,NA,5,Maybe,Yes,3,3
+32,Male,Delhi,Retired,50001-80000,<1,"Zomato, Talabat",5,5,1,No,Vegan,Yes,"Combo offers, Discounts, Sustainability",Rarely,250-500,<400,Combo deals,No,NA,5,Maybe,Yes,3,5
+28,Female,Chennai,Homemaker,20000-50000,1-2,"Zomato, Uber Eats, Others",5,3,3,No,No preference,No,"Sustainability, Fast delivery, Combo offers",Sometimes,250-500,>1000,Cashback,No,NA,4,Yes,No,2,1
+35,Female,Pune,Student,80001-120000,<1,"Talabat, Deliveroo, Swiggy",4,5,2,No,Vegetarian,Yes,"Discounts, Ethical sourcing, Combo offers",Rarely,<250,400-600,Loyalty points,No,NA,2,No,Yes,3,1
+24,Male,Mumbai,Homemaker,50001-80000,<1,Swiggy,4,3,3,Yes,No preference,Yes,"Combo offers, Fast delivery, Ethical sourcing",Sometimes,801-1200,400-600,Free delivery,Yes,Poor Food Quality,3,Yes,Yes,4,4
+33,Female,Bangalore,Homemaker,50001-80000,1-2,"Talabat, Deliveroo",2,4,4,Yes,Vegan,No,"Fresh food, Sustainability, Ethical sourcing",Sometimes,250-500,<400,Free delivery,No,NA,3,Yes,Yes,4,5
+32,Female,Delhi,Homemaker,20000-50000,<1,"Uber Eats, Talabat",4,3,1,No,No preference,Yes,"Discounts, Sustainability, Combo offers",Rarely,801-1200,400-600,Cashback,No,NA,4,Yes,Yes,4,5
+28,Male,Bangalore,Retired,50001-80000,1-2,"Talabat, Swiggy",4,5,3,Yes,Keto,Yes,"Discounts, Ethical sourcing, Combo offers",Sometimes,501-800,601-800,Cashback,Yes,Delayed Delivery,4,Yes,Yes,4,5
+31,Female,Kolkata,Employed - Full Time,<20000,<1,Uber Eats,3,5,4,Yes,Vegetarian,No,"Combo offers, Ethical sourcing, Sustainability",Sometimes,250-500,400-600,Cashback,No,NA,4,Maybe,No,2,4
+23,Male,Pune,Student,80001-120000,3-5,"Swiggy, Others",5,5,4,Yes,Vegetarian,Yes,"Discounts, Fresh food, Sustainability",Rarely,250-500,400-600,Combo deals,Yes,Delayed Delivery,4,No,No,1,5
+34,Female,Delhi,Retired,20000-50000,3-5,Others,3,5,3,Yes,Keto,No,"Fast delivery, Discounts, Sustainability",Rarely,<250,<400,Combo deals,No,NA,5,Yes,No,4,1
+29,Female,Chennai,Homemaker,<20000,3-5,"Swiggy, Uber Eats, Talabat",3,5,4,Yes,Vegetarian,No,"Discounts, Sustainability, Fresh food",Often,250-500,601-800,Free delivery,Yes,Poor Food Quality,3,Yes,Yes,4,3
+27,Female,Pune,Homemaker,20000-50000,1-2,Deliveroo,4,1,2,Yes,Keto,Yes,"Fresh food, Sustainability, Ethical sourcing",Often,501-800,<400,Loyalty points,No,NA,4,No,No,4,3
+35,Male,Chennai,Employed - Full Time,<20000,3-5,"Others, Talabat, Swiggy",4,5,3,No,No preference,Yes,"Combo offers, Discounts, Ethical sourcing",Rarely,501-800,400-600,Cashback,Yes,Other,3,Yes,Yes,3,3
+26,Male,Hyderabad,Student,50001-80000,1-2,"Talabat, Zomato, Swiggy",4,3,4,Yes,No preference,Yes,"Ethical sourcing, Discounts, Combo offers",Rarely,250-500,<400,Combo deals,No,NA,4,Yes,Yes,3,3
+22,Male,Bangalore,Employed - Part Time,80001-120000,<1,"Uber Eats, Deliveroo, Zomato",2,5,4,No,No preference,Yes,"Fast delivery, Ethical sourcing, Fresh food",Often,501-800,400-600,Loyalty points,Yes,Other,3,No,Yes,2,4
+22,Male,Delhi,Retired,80001-120000,1-2,"Talabat, Deliveroo, Zomato",5,5,3,Yes,Vegan,Yes,"Sustainability, Combo offers, Fast delivery",Sometimes,250-500,<400,Cashback,No,NA,4,Maybe,No,4,4
+33,Male,Chennai,Employed - Full Time,<20000,3-5,"Deliveroo, Others",4,5,5,No,Vegetarian,No,"Fast delivery, Fresh food, Sustainability",Rarely,250-500,801-1000,Loyalty points,No,NA,3,Yes,Yes,5,3
+23,Female,Mumbai,Student,<20000,1-2,Deliveroo,4,5,3,Yes,Vegetarian,Yes,"Combo offers, Discounts, Fast delivery",Sometimes,250-500,601-800,Cashback,Yes,High Cost,1,No,Yes,3,4
+38,Male,Chennai,Retired,80001-120000,<1,"Swiggy, Talabat",5,4,3,Yes,No preference,Yes,"Sustainability, Ethical sourcing, Fresh food",Sometimes,250-500,400-600,Loyalty points,No,NA,5,Yes,No,3,4
+19,Male,Mumbai,Homemaker,80001-120000,3-5,"Deliveroo, Swiggy, Others",4,5,1,Yes,No preference,Yes,"Fresh food, Sustainability, Ethical sourcing",Sometimes,>1200,<400,Free delivery,Yes,Limited Food Choices,2,No,Yes,2,3
+38,Female,Pune,Student,20000-50000,3-5,Uber Eats,2,3,4,Yes,Vegetarian,Yes,"Sustainability, Fast delivery, Ethical sourcing",Rarely,501-800,400-600,Cashback,No,NA,4,No,Yes,1,3
+31,Male,Delhi,Student,20000-50000,<1,"Uber Eats, Deliveroo",4,5,4,Yes,Vegan,Yes,"Sustainability, Fast delivery, Fresh food",Sometimes,250-500,400-600,Cashback,No,NA,4,Maybe,Yes,3,3
+29,Female,Chennai,Currently Unemployed,20000-50000,1-2,"Swiggy, Talabat",2,5,2,Yes,No preference,Yes,"Fast delivery, Discounts, Sustainability",Rarely,250-500,400-600,Free delivery,No,NA,4,No,Yes,5,2
+27,Male,Kolkata,Student,80001-120000,<1,"Others, Uber Eats",1,5,3,Yes,No preference,Yes,"Combo offers, Fast delivery, Fresh food",Often,<250,<400,Cashback,No,NA,5,Yes,Yes,4,5
+31,Female,Chennai,Employed - Part Time,50001-80000,3-5,"Uber Eats, Deliveroo, Talabat",3,5,4,Yes,No preference,Yes,"Combo offers, Discounts, Fresh food",Sometimes,250-500,>1000,Cashback,No,NA,4,Yes,Yes,4,1
+29,Male,Kolkata,Student,20000-50000,1-2,Uber Eats,5,3,3,No,No preference,No,"Combo offers, Fast delivery, Discounts",Sometimes,501-800,400-600,Combo deals,Yes,Poor Customer Service,3,Yes,Yes,3,3
+35,Male,Delhi,Employed - Part Time,20000-50000,1-2,"Deliveroo, Talabat, Others",3,4,2,No,Keto,No,"Sustainability, Fresh food, Ethical sourcing",Sometimes,801-1200,801-1000,Free delivery,No,NA,2,No,No,3,2
+30,Female,Chennai,Homemaker,80001-120000,3-5,Uber Eats,4,5,4,Yes,Vegetarian,Yes,"Sustainability, Discounts, Fast delivery",Sometimes,501-800,<400,Combo deals,Yes,Other,5,Maybe,No,5,5
+30,Male,Mumbai,Employed - Part Time,<20000,1-2,"Deliveroo, Others, Talabat",3,4,2,Yes,Keto,Yes,"Discounts, Sustainability, Fresh food",Often,250-500,<400,Free delivery,No,NA,4,No,No,3,1
+28,Female,Chennai,Retired,20000-50000,1-2,"Uber Eats, Swiggy, Deliveroo",4,4,5,No,Keto,Yes,"Fresh food, Ethical sourcing, Discounts",Rarely,250-500,<400,Loyalty points,No,NA,5,Maybe,Yes,5,4
+29,Male,Bangalore,Homemaker,50001-80000,1-2,Talabat,4,5,2,Yes,Keto,Yes,"Sustainability, Discounts, Ethical sourcing",Often,<250,601-800,Free delivery,Yes,Other,4,Yes,Yes,4,1
+31,Male,Pune,Homemaker,<20000,1-2,"Swiggy, Zomato",4,5,4,Yes,Gluten-free,Yes,"Discounts, Fast delivery, Fresh food",Rarely,<250,400-600,Free delivery,Yes,Limited Food Choices,5,Yes,Yes,3,5
+21,Female,Hyderabad,Employed - Part Time,<20000,1-2,"Talabat, Zomato, Swiggy",3,5,3,Yes,Vegetarian,Yes,"Combo offers, Sustainability, Discounts",Rarely,250-500,601-800,Combo deals,Yes,Poor Customer Service,5,Yes,No,3,5
+23,Male,Mumbai,Employed - Full Time,80001-120000,<1,"Swiggy, Deliveroo, Zomato",4,4,5,Yes,Vegetarian,No,"Ethical sourcing, Fast delivery, Discounts",Sometimes,250-500,601-800,Cashback,No,NA,5,Yes,No,3,4
+33,Female,Bangalore,Self-employed,80001-120000,1-2,"Uber Eats, Swiggy, Others",5,5,2,Yes,Keto,Yes,"Fresh food, Ethical sourcing, Fast delivery",Sometimes,250-500,601-800,Free delivery,No,NA,4,Yes,No,2,5
+30,Other,Kolkata,Student,80001-120000,<1,Talabat,4,4,4,Yes,Vegetarian,No,"Discounts, Combo offers, Ethical sourcing",Often,501-800,601-800,Cashback,Yes,Delayed Delivery,4,Maybe,Yes,3,4
+29,Female,Pune,Currently Unemployed,80001-120000,1-2,Zomato,4,5,4,Yes,Keto,Yes,"Fresh food, Discounts, Combo offers",Sometimes,501-800,601-800,Free delivery,No,NA,4,Yes,Yes,4,5
+30,Female,Delhi,Self-employed,50001-80000,3-5,Zomato,5,3,3,Yes,No preference,Yes,"Combo offers, Fast delivery, Ethical sourcing",Sometimes,250-500,601-800,Combo deals,Yes,Poor Food Quality,4,No,No,4,5
+31,Male,Mumbai,Student,80001-120000,>5,"Zomato, Deliveroo",1,5,3,No,No preference,No,"Ethical sourcing, Combo offers, Sustainability",Often,501-800,400-600,Free delivery,No,NA,2,Maybe,Yes,2,3
+27,Male,Hyderabad,Student,20000-50000,1-2,"Swiggy, Talabat",4,4,4,Yes,Keto,Yes,"Discounts, Combo offers, Fast delivery",Rarely,250-500,601-800,Loyalty points,No,NA,5,Yes,Yes,3,4
+26,Male,Pune,Homemaker,50001-80000,1-2,"Swiggy, Deliveroo, Others",5,4,5,Yes,Gluten-free,Yes,"Ethical sourcing, Sustainability, Fast delivery",Often,250-500,801-1000,Free delivery,No,NA,2,Maybe,No,3,5
+30,Female,Kolkata,Student,>120000,1-2,"Talabat, Zomato",2,5,1,Yes,Vegan,Yes,"Combo offers, Fast delivery, Discounts",Sometimes,501-800,400-600,Free delivery,No,NA,1,Yes,Yes,3,3
+25,Prefer not to say,Hyderabad,Currently Unemployed,20000-50000,3-5,"Talabat, Others, Swiggy",4,5,1,Yes,No preference,Yes,"Sustainability, Fresh food, Ethical sourcing",Rarely,250-500,801-1000,Cashback,No,NA,4,Yes,Yes,3,5
+32,Male,Delhi,Student,20000-50000,<1,"Swiggy, Uber Eats, Others",3,3,4,Yes,Keto,Yes,"Sustainability, Discounts, Combo offers",Rarely,801-1200,<400,Cashback,Yes,Poor Food Quality,2,Yes,Yes,4,4
+21,Female,Delhi,Employed - Part Time,20000-50000,>5,"Others, Deliveroo",4,5,2,Yes,Keto,Yes,"Ethical sourcing, Discounts, Fast delivery",Sometimes,<250,400-600,Loyalty points,No,NA,5,Yes,Yes,3,4
+35,Male,Kolkata,Self-employed,<20000,1-2,"Talabat, Others",4,4,5,Yes,No preference,Yes,"Fresh food, Combo offers, Discounts",Rarely,250-500,<400,Free delivery,No,NA,5,Maybe,Yes,2,4
+32,Female,Mumbai,Employed - Part Time,<20000,>5,"Deliveroo, Zomato, Uber Eats",3,5,4,Yes,Keto,Yes,"Fast delivery, Ethical sourcing, Fresh food",Rarely,250-500,<400,Cashback,No,NA,5,Maybe,Yes,3,5
+31,Male,Kolkata,Currently Unemployed,80001-120000,3-5,"Swiggy, Talabat, Deliveroo",4,5,4,Yes,Vegan,Yes,"Fast delivery, Ethical sourcing, Sustainability",Rarely,501-800,601-800,Free delivery,Yes,Limited Food Choices,5,Yes,No,3,4
+34,Other,Chennai,Student,>120000,3-5,"Uber Eats, Zomato, Others",3,4,2,Yes,Vegetarian,Yes,"Fast delivery, Fresh food, Sustainability",Rarely,501-800,801-1000,Combo deals,No,NA,4,Yes,Yes,2,1
+38,Female,Delhi,Retired,20000-50000,1-2,"Talabat, Zomato",3,5,2,No,Keto,Yes,"Sustainability, Discounts, Combo offers",Sometimes,501-800,601-800,Combo deals,No,NA,4,Yes,Yes,3,4
+35,Male,Pune,Currently Unemployed,<20000,<1,"Uber Eats, Deliveroo",3,4,4,Yes,Keto,Yes,"Fresh food, Discounts, Sustainability",Often,501-800,>1000,Loyalty points,No,NA,4,No,Yes,3,5
+20,Male,Chennai,Homemaker,<20000,1-2,"Swiggy, Uber Eats, Others",5,3,5,Yes,No preference,Yes,"Sustainability, Ethical sourcing, Fast delivery",Rarely,250-500,<400,Combo deals,Yes,Other,3,Yes,Yes,4,4
+23,Male,Bangalore,Employed - Part Time,80001-120000,1-2,"Deliveroo, Zomato",1,5,5,Yes,Gluten-free,Yes,"Discounts, Combo offers, Sustainability",Sometimes,250-500,<400,Cashback,No,NA,3,No,Yes,4,3
+26,Male,Hyderabad,Employed - Part Time,20000-50000,<1,"Talabat, Zomato",5,5,2,Yes,No preference,Yes,"Combo offers, Ethical sourcing, Sustainability",Rarely,501-800,400-600,Cashback,Yes,Delayed Delivery,5,Maybe,No,4,3
+30,Male,Chennai,Employed - Full Time,20000-50000,1-2,"Zomato, Deliveroo",4,4,2,No,Keto,Yes,"Ethical sourcing, Fast delivery, Fresh food",Sometimes,250-500,601-800,Loyalty points,Yes,Poor Customer Service,3,Yes,Yes,3,5
+32,Female,Hyderabad,Student,20000-50000,1-2,Deliveroo,3,4,1,Yes,Keto,Yes,"Sustainability, Fresh food, Ethical sourcing",Often,>1200,<400,Free delivery,No,NA,3,Maybe,Yes,1,1
+26,Female,Kolkata,Homemaker,20000-50000,1-2,"Zomato, Talabat",4,4,5,Yes,Keto,Yes,"Fast delivery, Combo offers, Sustainability",Sometimes,<250,>1000,Cashback,Yes,Other,5,Yes,No,3,4
+30,Female,Chennai,Retired,20000-50000,1-2,"Deliveroo, Uber Eats",4,5,3,Yes,Keto,Yes,"Fresh food, Discounts, Fast delivery",Often,250-500,400-600,Combo deals,Yes,High Cost,3,Maybe,Yes,4,3
+26,Male,Kolkata,Employed - Part Time,80001-120000,<1,"Talabat, Uber Eats, Deliveroo",4,3,1,Yes,Gluten-free,Yes,"Ethical sourcing, Sustainability, Fresh food",Sometimes,250-500,>1000,Cashback,No,NA,3,Yes,Yes,3,3
+26,Female,Bangalore,Employed - Part Time,50001-80000,>5,Zomato,2,4,2,Yes,Vegetarian,Yes,"Fast delivery, Ethical sourcing, Combo offers",Sometimes,801-1200,400-600,Loyalty points,Yes,Poor Customer Service,1,Yes,Yes,3,3
+22,Female,Delhi,Homemaker,50001-80000,<1,Deliveroo,3,4,3,Yes,No preference,Yes,"Discounts, Fresh food, Sustainability",Sometimes,801-1200,400-600,Combo deals,No,NA,5,Maybe,Yes,2,3
+25,Male,Bangalore,Currently Unemployed,20000-50000,1-2,Others,3,4,5,Yes,Vegetarian,Yes,"Sustainability, Ethical sourcing, Combo offers",Often,250-500,601-800,Combo deals,No,NA,4,Maybe,Yes,5,5
+23,Female,Delhi,Currently Unemployed,50001-80000,1-2,Talabat,1,4,3,No,Vegetarian,Yes,"Fast delivery, Fresh food, Sustainability",Often,<250,601-800,Combo deals,No,NA,5,Maybe,Yes,5,3
+25,Female,Kolkata,Student,50001-80000,3-5,Uber Eats,3,3,2,Yes,Vegan,Yes,"Sustainability, Fresh food, Discounts",Sometimes,250-500,<400,Loyalty points,Yes,High Cost,3,Yes,Yes,2,3
+35,Male,Delhi,Employed - Full Time,<20000,<1,"Others, Swiggy, Zomato",2,3,3,Yes,Vegan,No,"Combo offers, Discounts, Fast delivery",Often,250-500,801-1000,Loyalty points,Yes,Other,5,Maybe,No,4,4
+25,Male,Hyderabad,Employed - Part Time,50001-80000,1-2,"Uber Eats, Talabat, Others",3,4,3,No,Keto,Yes,"Combo offers, Discounts, Ethical sourcing",Rarely,>1200,801-1000,Free delivery,No,NA,4,Yes,Yes,1,5
+43,Female,Pune,Employed - Full Time,20000-50000,1-2,Deliveroo,2,5,1,No,Vegetarian,Yes,"Combo offers, Sustainability, Fast delivery",Often,250-500,<400,Free delivery,No,NA,4,Yes,Yes,3,4
+32,Male,Bangalore,Currently Unemployed,80001-120000,<1,Uber Eats,2,3,2,Yes,Vegan,No,"Ethical sourcing, Fresh food, Discounts",Rarely,250-500,<400,Free delivery,No,NA,4,Yes,Yes,2,2
+30,Female,Chennai,Currently Unemployed,20000-50000,1-2,"Uber Eats, Zomato, Talabat",3,5,4,Yes,Gluten-free,Yes,"Fresh food, Combo offers, Discounts",Rarely,250-500,400-600,Loyalty points,Yes,Limited Food Choices,4,Maybe,Yes,2,1
+25,Female,Bangalore,Self-employed,>120000,3-5,Deliveroo,5,5,2,No,No preference,Yes,"Combo offers, Fresh food, Ethical sourcing",Rarely,250-500,400-600,Combo deals,No,NA,4,No,Yes,1,4
+33,Female,Hyderabad,Retired,<20000,>5,"Talabat, Others",1,5,2,Yes,Vegan,Yes,"Fresh food, Discounts, Combo offers",Often,501-800,601-800,Combo deals,Yes,High Cost,4,Yes,Yes,5,5
+27,Male,Delhi,Student,50001-80000,<1,"Zomato, Swiggy, Deliveroo",4,5,3,Yes,Keto,Yes,"Fast delivery, Combo offers, Fresh food",Often,<250,<400,Cashback,No,NA,3,Yes,No,4,3
+30,Male,Hyderabad,Self-employed,50001-80000,<1,Swiggy,2,4,4,No,No preference,Yes,"Fresh food, Fast delivery, Discounts",Often,250-500,400-600,Free delivery,No,NA,4,Yes,No,1,3
+42,Female,Mumbai,Retired,50001-80000,1-2,"Others, Swiggy",5,4,4,Yes,Other,Yes,"Sustainability, Discounts, Ethical sourcing",Often,>1200,400-600,Combo deals,Yes,High Cost,4,Yes,Yes,3,4
+29,Female,Mumbai,Self-employed,20000-50000,1-2,"Deliveroo, Others, Talabat",2,4,4,Yes,No preference,No,"Fast delivery, Combo offers, Ethical sourcing",Sometimes,<250,<400,Combo deals,No,NA,4,Yes,No,2,4
+35,Male,Chennai,Self-employed,20000-50000,<1,"Talabat, Others",5,4,4,Yes,Vegetarian,Yes,"Sustainability, Combo offers, Ethical sourcing",Often,501-800,400-600,Combo deals,Yes,Poor Food Quality,4,No,Yes,2,4
+26,Female,Hyderabad,Student,50001-80000,<1,"Zomato, Swiggy",4,5,4,Yes,No preference,Yes,"Fresh food, Ethical sourcing, Combo offers",Often,250-500,<400,Combo deals,No,NA,5,No,Yes,4,2
+29,Female,Kolkata,Student,20000-50000,>5,Deliveroo,1,5,1,No,No preference,Yes,"Discounts, Combo offers, Fast delivery",Sometimes,250-500,<400,Loyalty points,No,NA,5,Maybe,No,2,3
+38,Male,Chennai,Homemaker,20000-50000,3-5,"Others, Talabat, Uber Eats",5,5,5,Yes,Vegetarian,No,"Sustainability, Ethical sourcing, Fast delivery",Rarely,<250,400-600,Free delivery,Yes,Poor Customer Service,4,Yes,No,3,3
+26,Male,Kolkata,Employed - Full Time,50001-80000,<1,"Others, Talabat",4,3,2,No,No preference,No,"Combo offers, Sustainability, Fast delivery",Sometimes,250-500,>1000,Combo deals,No,NA,5,Yes,Yes,3,3
+39,Female,Chennai,Employed - Full Time,50001-80000,1-2,"Zomato, Uber Eats",3,5,3,Yes,Keto,No,"Discounts, Ethical sourcing, Fresh food",Often,250-500,<400,Combo deals,No,NA,1,Yes,Yes,2,5
+33,Male,Mumbai,Homemaker,20000-50000,1-2,"Others, Deliveroo, Swiggy",4,4,4,Yes,Other,Yes,"Fast delivery, Sustainability, Fresh food",Often,250-500,400-600,Combo deals,No,NA,5,No,Yes,3,1
+27,Male,Chennai,Homemaker,20000-50000,<1,"Others, Deliveroo, Swiggy",5,4,3,Yes,No preference,Yes,"Combo offers, Discounts, Sustainability",Often,250-500,400-600,Combo deals,Yes,Poor Food Quality,4,Yes,Yes,5,4
+33,Male,Mumbai,Currently Unemployed,20000-50000,1-2,"Others, Uber Eats, Talabat",4,4,5,No,No preference,Yes,"Ethical sourcing, Fresh food, Combo offers",Often,250-500,400-600,Cashback,No,NA,3,Maybe,No,4,4
+34,Male,Delhi,Retired,50001-80000,1-2,Swiggy,3,5,3,No,No preference,Yes,"Combo offers, Ethical sourcing, Discounts",Often,501-800,400-600,Combo deals,Yes,Other,2,No,Yes,2,3
+33,Female,Kolkata,Self-employed,50001-80000,3-5,"Deliveroo, Talabat, Swiggy",4,4,5,Yes,Keto,No,"Fresh food, Ethical sourcing, Sustainability",Sometimes,801-1200,601-800,Combo deals,No,NA,2,Yes,Yes,4,5
+22,Female,Hyderabad,Homemaker,80001-120000,3-5,"Others, Zomato",4,5,4,Yes,Gluten-free,No,"Fresh food, Fast delivery, Combo offers",Sometimes,<250,<400,Combo deals,No,NA,1,Yes,Yes,5,4
+26,Male,Chennai,Employed - Part Time,>120000,1-2,Deliveroo,5,5,5,Yes,No preference,Yes,"Discounts, Sustainability, Fresh food",Rarely,250-500,>1000,Cashback,Yes,Limited Food Choices,3,Maybe,Yes,2,5
+28,Female,Mumbai,Employed - Full Time,20000-50000,1-2,"Talabat, Uber Eats, Swiggy",4,5,5,No,No preference,Yes,"Fresh food, Discounts, Ethical sourcing",Sometimes,501-800,<400,Loyalty points,Yes,Poor Customer Service,1,Maybe,No,3,3
+29,Female,Bangalore,Homemaker,<20000,1-2,"Swiggy, Uber Eats",3,3,5,Yes,No preference,Yes,"Combo offers, Sustainability, Ethical sourcing",Sometimes,501-800,801-1000,Cashback,No,NA,5,Yes,No,2,2
+33,Female,Kolkata,Employed - Part Time,<20000,1-2,"Uber Eats, Deliveroo",5,5,4,Yes,No preference,No,"Combo offers, Discounts, Ethical sourcing",Often,<250,801-1000,Combo deals,No,NA,3,Yes,Yes,3,2
+30,Male,Chennai,Employed - Part Time,20000-50000,1-2,"Talabat, Uber Eats, Others",2,5,3,Yes,Other,Yes,"Combo offers, Fresh food, Sustainability",Sometimes,250-500,400-600,Loyalty points,No,NA,4,No,Yes,4,3
+23,Male,Pune,Employed - Part Time,80001-120000,<1,Talabat,3,3,2,Yes,No preference,Yes,"Fast delivery, Combo offers, Discounts",Rarely,250-500,<400,Combo deals,Yes,Poor Food Quality,5,No,Yes,2,4
+31,Prefer not to say,Delhi,Currently Unemployed,50001-80000,<1,"Deliveroo, Zomato, Talabat",4,3,4,Yes,Gluten-free,Yes,"Ethical sourcing, Fast delivery, Discounts",Rarely,<250,400-600,Loyalty points,No,NA,2,Yes,Yes,1,5
+33,Female,Delhi,Currently Unemployed,20000-50000,1-2,"Talabat, Others, Swiggy",4,3,5,Yes,Vegetarian,Yes,"Discounts, Sustainability, Combo offers",Sometimes,801-1200,400-600,Combo deals,Yes,Limited Food Choices,5,Yes,Yes,3,3
+32,Male,Bangalore,Employed - Part Time,20000-50000,3-5,"Zomato, Swiggy",1,2,4,No,No preference,No,"Sustainability, Combo offers, Fresh food",Sometimes,501-800,801-1000,Combo deals,No,NA,4,Yes,Yes,3,5
+35,Male,Mumbai,Retired,50001-80000,<1,Deliveroo,4,5,5,Yes,Vegetarian,Yes,"Ethical sourcing, Discounts, Fresh food",Rarely,501-800,400-600,Loyalty points,No,NA,3,Maybe,Yes,3,4
+34,Male,Chennai,Currently Unemployed,50001-80000,1-2,"Zomato, Deliveroo, Swiggy",3,5,4,Yes,Vegetarian,Yes,"Ethical sourcing, Sustainability, Fresh food",Rarely,250-500,400-600,Loyalty points,No,NA,2,Yes,Yes,4,4
+32,Female,Kolkata,Self-employed,20000-50000,1-2,"Others, Deliveroo, Talabat",3,4,2,Yes,Vegetarian,Yes,"Discounts, Fast delivery, Combo offers",Sometimes,<250,601-800,Combo deals,Yes,Poor Customer Service,2,Maybe,No,1,3
+29,Female,Mumbai,Employed - Part Time,>120000,1-2,Others,5,5,2,Yes,No preference,Yes,"Combo offers, Ethical sourcing, Sustainability",Rarely,801-1200,>1000,Cashback,No,NA,3,No,Yes,3,3
+21,Female,Delhi,Self-employed,50001-80000,<1,"Swiggy, Talabat",3,5,3,No,No preference,Yes,"Sustainability, Fast delivery, Fresh food",Rarely,<250,400-600,Cashback,No,NA,2,Yes,No,2,5
+32,Male,Mumbai,Self-employed,<20000,>5,Swiggy,1,4,2,Yes,No preference,Yes,"Discounts, Combo offers, Sustainability",Rarely,250-500,801-1000,Cashback,No,NA,3,No,Yes,5,2
+31,Female,Delhi,Employed - Part Time,80001-120000,3-5,"Talabat, Deliveroo, Others",3,5,4,Yes,Keto,Yes,"Sustainability, Fast delivery, Fresh food",Sometimes,250-500,400-600,Cashback,Yes,Delayed Delivery,2,Yes,No,3,5
+31,Female,Mumbai,Employed - Full Time,<20000,1-2,"Others, Swiggy",5,5,5,Yes,No preference,No,"Ethical sourcing, Discounts, Fast delivery",Sometimes,250-500,601-800,Loyalty points,No,NA,4,No,Yes,2,4
+23,Male,Bangalore,Retired,80001-120000,1-2,"Uber Eats, Talabat, Swiggy",2,5,4,Yes,No preference,Yes,"Combo offers, Fresh food, Ethical sourcing",Rarely,250-500,601-800,Loyalty points,No,NA,2,No,No,1,5
+24,Female,Hyderabad,Employed - Part Time,>120000,<1,Swiggy,3,4,3,Yes,Keto,Yes,"Fresh food, Ethical sourcing, Sustainability",Often,250-500,601-800,Cashback,Yes,High Cost,5,Yes,Yes,2,4
+35,Other,Bangalore,Employed - Part Time,50001-80000,1-2,"Deliveroo, Zomato, Uber Eats",4,5,1,Yes,Vegetarian,Yes,"Discounts, Fresh food, Ethical sourcing",Rarely,801-1200,400-600,Free delivery,No,NA,3,Yes,No,2,3
+29,Male,Bangalore,Currently Unemployed,50001-80000,3-5,"Talabat, Others, Swiggy",4,3,3,Yes,Vegetarian,Yes,"Ethical sourcing, Sustainability, Fresh food",Rarely,501-800,400-600,Free delivery,Yes,Poor Customer Service,5,Maybe,No,3,4
+33,Female,Hyderabad,Employed - Part Time,20000-50000,<1,"Deliveroo, Others",1,5,3,No,No preference,Yes,"Combo offers, Discounts, Ethical sourcing",Rarely,<250,400-600,Free delivery,Yes,Limited Food Choices,3,Yes,Yes,4,1
+30,Male,Hyderabad,Employed - Full Time,80001-120000,1-2,Zomato,4,4,3,Yes,No preference,No,"Fresh food, Fast delivery, Ethical sourcing",Rarely,501-800,400-600,Combo deals,Yes,Delayed Delivery,5,Yes,Yes,3,4
+30,Female,Chennai,Currently Unemployed,50001-80000,1-2,Others,3,5,2,Yes,Keto,Yes,"Discounts, Combo offers, Fresh food",Rarely,250-500,400-600,Cashback,No,NA,3,Yes,No,3,2
+34,Female,Kolkata,Student,50001-80000,1-2,"Deliveroo, Swiggy",5,4,3,No,Other,Yes,"Combo offers, Sustainability, Fast delivery",Rarely,250-500,601-800,Combo deals,No,NA,4,Maybe,No,4,4
+27,Female,Kolkata,Student,80001-120000,3-5,Uber Eats,3,3,3,Yes,Vegan,Yes,"Discounts, Fast delivery, Sustainability",Sometimes,501-800,400-600,Loyalty points,No,NA,1,No,No,3,2
+30,Female,Chennai,Self-employed,>120000,<1,"Others, Swiggy",3,5,5,Yes,Vegetarian,Yes,"Sustainability, Fresh food, Ethical sourcing",Sometimes,250-500,<400,Loyalty points,Yes,Poor Customer Service,4,No,No,1,5
+27,Male,Bangalore,Retired,80001-120000,3-5,Others,3,3,2,Yes,Keto,Yes,"Fresh food, Combo offers, Fast delivery",Sometimes,250-500,601-800,Free delivery,No,NA,2,Yes,No,2,4
+27,Female,Bangalore,Self-employed,20000-50000,1-2,"Swiggy, Zomato, Uber Eats",3,5,1,Yes,Vegan,Yes,"Fast delivery, Ethical sourcing, Discounts",Sometimes,501-800,801-1000,Free delivery,No,NA,4,Yes,Yes,4,5
+28,Female,Delhi,Employed - Full Time,>120000,3-5,"Zomato, Others, Uber Eats",4,5,1,Yes,Vegetarian,Yes,"Sustainability, Ethical sourcing, Combo offers",Rarely,801-1200,400-600,Loyalty points,Yes,Other,2,Yes,Yes,4,1
+31,Male,Delhi,Homemaker,50001-80000,1-2,"Talabat, Swiggy, Zomato",3,5,3,Yes,Vegetarian,Yes,"Fresh food, Sustainability, Fast delivery",Often,250-500,<400,Free delivery,Yes,Delayed Delivery,4,Yes,Yes,1,4
+27,Female,Kolkata,Retired,80001-120000,1-2,"Zomato, Swiggy",3,2,4,No,Gluten-free,Yes,"Discounts, Fast delivery, Fresh food",Rarely,<250,801-1000,Free delivery,No,NA,2,No,Yes,2,3
+36,Female,Chennai,Student,50001-80000,3-5,"Swiggy, Others",4,5,4,Yes,Vegetarian,Yes,"Sustainability, Ethical sourcing, Discounts",Sometimes,250-500,801-1000,Loyalty points,No,NA,3,No,Yes,4,4
+25,Male,Pune,Self-employed,20000-50000,1-2,"Uber Eats, Talabat, Swiggy",4,5,3,Yes,No preference,Yes,"Sustainability, Fresh food, Ethical sourcing",Rarely,250-500,<400,Combo deals,No,NA,4,Yes,Yes,3,5
+29,Female,Pune,Student,20000-50000,1-2,"Deliveroo, Swiggy, Others",3,5,4,Yes,Gluten-free,Yes,"Ethical sourcing, Fresh food, Combo offers",Often,250-500,<400,Free delivery,No,NA,5,No,Yes,4,5
+27,Female,Chennai,Employed - Full Time,50001-80000,1-2,Zomato,3,3,3,Yes,Vegetarian,Yes,"Sustainability, Discounts, Ethical sourcing",Sometimes,250-500,400-600,Combo deals,Yes,Limited Food Choices,4,Yes,Yes,2,3
+37,Male,Delhi,Employed - Full Time,50001-80000,3-5,"Swiggy, Uber Eats, Zomato",3,4,4,Yes,No preference,No,"Fresh food, Ethical sourcing, Combo offers",Rarely,501-800,601-800,Free delivery,No,NA,5,Yes,Yes,5,5
+30,Prefer not to say,Kolkata,Homemaker,20000-50000,1-2,"Uber Eats, Swiggy",1,5,1,Yes,Vegan,Yes,"Discounts, Combo offers, Ethical sourcing",Sometimes,<250,<400,Cashback,No,NA,4,Maybe,Yes,4,4
+35,Male,Kolkata,Homemaker,50001-80000,3-5,"Swiggy, Others, Zomato",2,3,3,Yes,No preference,Yes,"Combo offers, Fresh food, Discounts",Rarely,250-500,400-600,Combo deals,Yes,Poor Customer Service,4,No,Yes,2,5
+22,Male,Delhi,Currently Unemployed,20000-50000,1-2,Zomato,4,4,4,No,No preference,Yes,"Ethical sourcing, Discounts, Sustainability",Sometimes,250-500,400-600,Combo deals,Yes,Other,2,No,Yes,3,4
+31,Male,Pune,Retired,80001-120000,1-2,"Talabat, Others",5,4,4,Yes,Vegetarian,No,"Sustainability, Combo offers, Fast delivery",Sometimes,250-500,801-1000,Free delivery,No,NA,2,Yes,No,2,5
+34,Female,Mumbai,Employed - Full Time,20000-50000,3-5,"Zomato, Swiggy",3,5,4,No,No preference,No,"Combo offers, Discounts, Sustainability",Rarely,>1200,400-600,Combo deals,No,NA,5,Yes,Yes,3,5
+30,Female,Mumbai,Self-employed,<20000,1-2,Others,3,5,2,No,No preference,Yes,"Discounts, Fast delivery, Sustainability",Rarely,250-500,400-600,Cashback,No,NA,4,Yes,No,4,2
+35,Male,Delhi,Student,20000-50000,3-5,"Zomato, Talabat",2,5,2,Yes,No preference,Yes,"Combo offers, Sustainability, Fresh food",Rarely,801-1200,>1000,Loyalty points,No,NA,4,Maybe,Yes,3,3
+27,Male,Mumbai,Employed - Part Time,<20000,>5,Others,3,4,5,No,No preference,No,"Fresh food, Ethical sourcing, Discounts",Sometimes,801-1200,400-600,Cashback,Yes,Other,4,No,Yes,4,3
+37,Female,Hyderabad,Homemaker,20000-50000,1-2,Uber Eats,1,4,2,No,Vegetarian,Yes,"Ethical sourcing, Fresh food, Fast delivery",Rarely,501-800,400-600,Loyalty points,No,NA,4,Yes,Yes,2,4
+41,Male,Chennai,Employed - Part Time,<20000,<1,Deliveroo,5,5,2,Yes,No preference,Yes,"Sustainability, Fast delivery, Fresh food",Sometimes,<250,601-800,Cashback,No,NA,4,Maybe,Yes,4,5
+28,Female,Chennai,Self-employed,<20000,<1,"Swiggy, Talabat, Uber Eats",4,5,2,No,Vegetarian,No,"Discounts, Combo offers, Sustainability",Often,801-1200,400-600,Cashback,No,NA,4,Yes,Yes,3,5
+27,Female,Delhi,Homemaker,80001-120000,3-5,"Others, Zomato",5,5,3,Yes,Vegetarian,Yes,"Fast delivery, Discounts, Sustainability",Rarely,<250,601-800,Combo deals,No,NA,2,Maybe,Yes,4,4
+37,Female,Bangalore,Employed - Part Time,80001-120000,3-5,"Swiggy, Uber Eats",5,5,2,Yes,Vegetarian,Yes,"Discounts, Sustainability, Fresh food",Often,<250,<400,Cashback,No,NA,4,Yes,No,2,4
+37,Other,Pune,Retired,20000-50000,<1,Others,4,4,3,No,Vegetarian,No,"Fast delivery, Fresh food, Sustainability",Sometimes,250-500,<400,Free delivery,Yes,Delayed Delivery,4,Yes,No,3,2
+27,Male,Delhi,Self-employed,>120000,<1,"Talabat, Deliveroo",4,5,3,Yes,Gluten-free,Yes,"Sustainability, Discounts, Fresh food",Rarely,<250,801-1000,Free delivery,No,NA,5,Yes,No,3,3
+27,Prefer not to say,Mumbai,Student,<20000,<1,"Deliveroo, Others, Talabat",3,4,5,Yes,No preference,Yes,"Fresh food, Discounts, Combo offers",Sometimes,<250,400-600,Free delivery,No,NA,4,Yes,No,3,4
+28,Female,Pune,Retired,50001-80000,3-5,"Uber Eats, Zomato, Deliveroo",4,4,1,Yes,No preference,Yes,"Ethical sourcing, Fast delivery, Discounts",Sometimes,250-500,601-800,Free delivery,No,NA,4,Maybe,Yes,3,2
+23,Female,Bangalore,Self-employed,50001-80000,1-2,"Zomato, Deliveroo",5,5,3,No,Vegan,Yes,"Sustainability, Fast delivery, Fresh food",Sometimes,250-500,<400,Combo deals,No,NA,2,Maybe,Yes,3,3
+25,Male,Mumbai,Currently Unemployed,20000-50000,1-2,"Talabat, Zomato, Deliveroo",2,3,4,No,Other,Yes,"Discounts, Combo offers, Fresh food",Rarely,501-800,<400,Free delivery,No,NA,2,No,Yes,5,4
+24,Female,Kolkata,Homemaker,20000-50000,1-2,"Deliveroo, Talabat",5,3,4,Yes,No preference,Yes,"Discounts, Combo offers, Sustainability",Rarely,<250,601-800,Cashback,No,NA,5,Maybe,Yes,2,2
+26,Male,Hyderabad,Employed - Full Time,20000-50000,3-5,"Uber Eats, Zomato, Others",3,4,3,No,Vegan,Yes,"Fast delivery, Discounts, Sustainability",Sometimes,250-500,400-600,Free delivery,No,NA,5,Yes,No,4,3
+29,Male,Mumbai,Student,20000-50000,1-2,Uber Eats,5,4,4,Yes,Vegetarian,No,"Ethical sourcing, Sustainability, Fresh food",Sometimes,>1200,400-600,Combo deals,No,NA,3,Maybe,No,3,2
+31,Male,Hyderabad,Retired,50001-80000,1-2,Deliveroo,5,5,1,Yes,No preference,Yes,"Ethical sourcing, Fast delivery, Discounts",Sometimes,250-500,<400,Loyalty points,Yes,Poor Food Quality,4,Maybe,No,3,5
+37,Female,Pune,Retired,<20000,<1,"Talabat, Others, Zomato",4,3,4,Yes,No preference,No,"Combo offers, Fresh food, Sustainability",Rarely,501-800,400-600,Cashback,No,NA,2,Yes,No,3,3
+25,Female,Hyderabad,Employed - Part Time,20000-50000,1-2,"Zomato, Talabat, Others",4,3,3,No,No preference,No,"Sustainability, Discounts, Ethical sourcing",Often,>1200,601-800,Cashback,Yes,Delayed Delivery,5,Yes,Yes,4,5
+34,Female,Pune,Homemaker,20000-50000,3-5,"Talabat, Zomato, Deliveroo",4,3,2,Yes,No preference,Yes,"Discounts, Fast delivery, Sustainability",Often,<250,601-800,Combo deals,No,NA,2,Maybe,Yes,3,2
+28,Female,Pune,Employed - Full Time,20000-50000,>5,"Talabat, Swiggy, Deliveroo",5,2,5,Yes,Keto,Yes,"Ethical sourcing, Sustainability, Fresh food",Rarely,250-500,601-800,Loyalty points,No,NA,5,Yes,Yes,4,5
+29,Male,Pune,Self-employed,50001-80000,<1,Others,5,3,4,No,Vegan,No,"Discounts, Combo offers, Ethical sourcing",Rarely,801-1200,601-800,Free delivery,Yes,Poor Customer Service,4,Maybe,No,1,4
+33,Female,Pune,Employed - Full Time,<20000,<1,Talabat,4,5,2,No,No preference,Yes,"Combo offers, Fast delivery, Discounts",Often,801-1200,400-600,Loyalty points,Yes,Limited Food Choices,3,Yes,No,4,5
+24,Male,Pune,Homemaker,80001-120000,<1,"Talabat, Uber Eats",4,4,1,Yes,Vegan,Yes,"Discounts, Fresh food, Sustainability",Often,501-800,400-600,Cashback,Yes,Poor Customer Service,5,No,Yes,3,5
+31,Female,Mumbai,Homemaker,20000-50000,1-2,"Talabat, Uber Eats",4,5,2,Yes,No preference,Yes,"Combo offers, Fast delivery, Discounts",Sometimes,<250,601-800,Cashback,No,NA,5,No,Yes,3,4
+30,Female,Pune,Currently Unemployed,20000-50000,3-5,Talabat,5,5,4,No,No preference,No,"Fast delivery, Ethical sourcing, Combo offers",Often,801-1200,<400,Cashback,No,NA,3,Yes,Yes,3,5
+32,Female,Mumbai,Currently Unemployed,50001-80000,<1,"Zomato, Deliveroo",4,5,2,No,No preference,Yes,"Sustainability, Fresh food, Ethical sourcing",Sometimes,<250,<400,Loyalty points,No,NA,5,Yes,Yes,3,4
+31,Female,Pune,Employed - Full Time,<20000,1-2,Zomato,5,3,2,Yes,Other,Yes,"Ethical sourcing, Sustainability, Fast delivery",Rarely,250-500,801-1000,Free delivery,Yes,Poor Food Quality,5,Yes,No,3,4
+42,Male,Hyderabad,Self-employed,50001-80000,1-2,Others,4,3,1,No,Keto,Yes,"Combo offers, Fresh food, Discounts",Sometimes,250-500,<400,Cashback,No,NA,5,Yes,Yes,3,4
+26,Male,Kolkata,Employed - Full Time,50001-80000,<1,"Swiggy, Zomato, Deliveroo",2,5,4,No,No preference,No,"Fresh food, Combo offers, Sustainability",Sometimes,250-500,<400,Combo deals,No,NA,5,Maybe,Yes,3,5
+27,Female,Pune,Homemaker,20000-50000,1-2,"Swiggy, Zomato",3,5,4,No,No preference,Yes,"Sustainability, Discounts, Combo offers",Often,501-800,400-600,Free delivery,Yes,Delayed Delivery,4,Yes,Yes,3,5
+26,Male,Bangalore,Homemaker,<20000,1-2,"Swiggy, Zomato, Talabat",3,5,4,No,Other,Yes,"Fast delivery, Sustainability, Combo offers",Rarely,501-800,601-800,Cashback,No,NA,5,Maybe,No,3,3
+27,Male,Pune,Employed - Part Time,20000-50000,1-2,"Deliveroo, Swiggy",2,5,2,Yes,No preference,Yes,"Discounts, Fast delivery, Ethical sourcing",Sometimes,501-800,400-600,Free delivery,Yes,Poor Customer Service,5,Yes,Yes,2,4
+26,Female,Pune,Currently Unemployed,<20000,3-5,"Swiggy, Deliveroo, Uber Eats",2,5,5,Yes,Vegetarian,Yes,"Discounts, Combo offers, Fresh food",Sometimes,<250,400-600,Combo deals,No,NA,4,No,Yes,4,5
+35,Female,Hyderabad,Employed - Part Time,<20000,1-2,"Swiggy, Deliveroo",4,5,4,Yes,Other,Yes,"Discounts, Fast delivery, Fresh food",Rarely,250-500,>1000,Loyalty points,Yes,Limited Food Choices,4,Maybe,Yes,4,5
+37,Male,Chennai,Student,20000-50000,<1,"Deliveroo, Others",2,5,5,Yes,No preference,Yes,"Fast delivery, Combo offers, Sustainability",Rarely,501-800,601-800,Cashback,Yes,Poor Food Quality,3,Yes,Yes,2,5
+27,Male,Hyderabad,Homemaker,20000-50000,>5,Uber Eats,3,4,3,No,Vegan,Yes,"Ethical sourcing, Combo offers, Discounts",Often,250-500,601-800,Combo deals,No,NA,5,Maybe,Yes,2,3
+25,Female,Bangalore,Employed - Part Time,50001-80000,1-2,"Others, Swiggy, Uber Eats",4,5,3,No,No preference,No,"Fresh food, Discounts, Ethical sourcing",Sometimes,801-1200,<400,Cashback,No,NA,5,No,No,2,4
+32,Female,Chennai,Employed - Full Time,50001-80000,3-5,"Zomato, Swiggy, Others",5,5,4,Yes,No preference,Yes,"Sustainability, Discounts, Fresh food",Sometimes,501-800,<400,Cashback,Yes,High Cost,4,Yes,No,4,4
+27,Male,Delhi,Currently Unemployed,50001-80000,<1,Others,4,3,1,Yes,No preference,Yes,"Discounts, Combo offers, Sustainability",Often,501-800,400-600,Loyalty points,No,NA,4,Maybe,Yes,4,3
+33,Male,Delhi,Currently Unemployed,<20000,<1,"Swiggy, Others",5,5,3,Yes,Vegetarian,No,"Combo offers, Sustainability, Discounts",Rarely,<250,<400,Loyalty points,No,NA,2,Yes,Yes,1,4
+31,Male,Bangalore,Self-employed,20000-50000,<1,Uber Eats,4,5,4,Yes,No preference,Yes,"Fresh food, Ethical sourcing, Sustainability",Often,501-800,<400,Free delivery,Yes,Poor Customer Service,1,Yes,No,4,4
+22,Male,Hyderabad,Employed - Full Time,80001-120000,<1,Deliveroo,3,5,4,Yes,No preference,Yes,"Sustainability, Fresh food, Fast delivery",Sometimes,801-1200,<400,Combo deals,No,NA,4,No,Yes,1,3
+37,Male,Mumbai,Self-employed,50001-80000,1-2,Zomato,4,5,5,Yes,Gluten-free,No,"Combo offers, Fresh food, Discounts",Sometimes,250-500,400-600,Combo deals,No,NA,4,Maybe,Yes,2,3
+38,Female,Bangalore,Employed - Part Time,80001-120000,3-5,"Deliveroo, Swiggy, Others",4,4,4,Yes,Vegetarian,Yes,"Sustainability, Ethical sourcing, Combo offers",Sometimes,501-800,601-800,Loyalty points,No,NA,5,Maybe,Yes,5,2
+26,Female,Kolkata,Retired,20000-50000,1-2,"Others, Deliveroo",3,5,2,Yes,Vegetarian,Yes,"Sustainability, Fresh food, Discounts",Often,250-500,601-800,Cashback,Yes,Other,4,Yes,Yes,4,4
+28,Female,Chennai,Student,50001-80000,1-2,"Uber Eats, Talabat",1,5,1,Yes,No preference,Yes,"Discounts, Fast delivery, Combo offers",Rarely,250-500,<400,Free delivery,No,NA,5,Maybe,Yes,4,4
+31,Male,Chennai,Employed - Full Time,50001-80000,1-2,"Talabat, Others",4,5,3,No,No preference,Yes,"Fresh food, Ethical sourcing, Combo offers",Rarely,501-800,400-600,Loyalty points,No,NA,3,Maybe,No,3,3
+31,Female,Pune,Employed - Full Time,20000-50000,<1,"Deliveroo, Talabat",1,4,3,Yes,Vegetarian,Yes,"Discounts, Fresh food, Fast delivery",Rarely,501-800,<400,Free delivery,No,NA,5,Maybe,No,3,4
+33,Male,Delhi,Employed - Full Time,20000-50000,1-2,"Zomato, Others",4,4,2,Yes,Vegetarian,Yes,"Fast delivery, Fresh food, Combo offers",Rarely,801-1200,400-600,Free delivery,Yes,Other,3,Yes,Yes,4,2
+40,Other,Chennai,Self-employed,50001-80000,1-2,"Deliveroo, Talabat",3,5,2,Yes,Vegan,Yes,"Discounts, Combo offers, Fresh food",Sometimes,250-500,400-600,Combo deals,No,NA,4,No,No,4,5
+29,Female,Bangalore,Employed - Part Time,20000-50000,3-5,"Zomato, Uber Eats",4,3,4,Yes,No preference,Yes,"Fresh food, Sustainability, Ethical sourcing",Often,250-500,400-600,Free delivery,Yes,Limited Food Choices,4,Maybe,Yes,2,3
+26,Male,Chennai,Employed - Full Time,20000-50000,>5,"Others, Talabat, Deliveroo",4,4,4,No,Vegan,Yes,"Fresh food, Fast delivery, Sustainability",Often,501-800,801-1000,Combo deals,No,NA,4,Yes,Yes,3,5
+23,Female,Bangalore,Retired,50001-80000,1-2,"Talabat, Others",1,5,5,Yes,Vegan,No,"Fresh food, Sustainability, Combo offers",Rarely,<250,601-800,Cashback,No,NA,2,Maybe,Yes,4,4
+26,Male,Mumbai,Employed - Full Time,80001-120000,1-2,"Zomato, Swiggy",3,4,4,No,Vegan,No,"Fast delivery, Combo offers, Fresh food",Sometimes,250-500,400-600,Cashback,Yes,Limited Food Choices,2,Yes,Yes,5,5
+29,Female,Pune,Currently Unemployed,20000-50000,3-5,Swiggy,4,4,4,Yes,No preference,Yes,"Fast delivery, Sustainability, Discounts",Sometimes,<250,801-1000,Loyalty points,Yes,Poor Customer Service,5,Yes,No,4,3
+38,Male,Delhi,Student,20000-50000,3-5,Swiggy,5,3,4,Yes,Keto,No,"Discounts, Ethical sourcing, Combo offers",Rarely,<250,601-800,Cashback,No,NA,4,Maybe,No,4,3
+27,Male,Chennai,Currently Unemployed,20000-50000,1-2,Talabat,5,4,5,Yes,Vegetarian,Yes,"Combo offers, Fast delivery, Sustainability",Often,501-800,601-800,Combo deals,No,NA,5,Maybe,No,1,5
+31,Female,Bangalore,Currently Unemployed,50001-80000,3-5,"Uber Eats, Swiggy",4,5,4,No,No preference,Yes,"Fresh food, Ethical sourcing, Discounts",Often,501-800,400-600,Free delivery,Yes,Delayed Delivery,3,Yes,Yes,3,3
+29,Male,Hyderabad,Student,20000-50000,<1,Talabat,4,4,5,Yes,Vegetarian,Yes,"Fresh food, Sustainability, Ethical sourcing",Often,<250,400-600,Free delivery,No,NA,5,Yes,Yes,4,4
+35,Female,Delhi,Retired,>120000,3-5,"Zomato, Swiggy",3,1,5,No,Vegetarian,Yes,"Sustainability, Fresh food, Fast delivery",Rarely,250-500,601-800,Cashback,No,NA,3,Maybe,Yes,1,3
+42,Male,Mumbai,Employed - Part Time,20000-50000,<1,Others,3,5,5,Yes,No preference,No,"Discounts, Fast delivery, Ethical sourcing",Sometimes,<250,<400,Combo deals,No,NA,2,Maybe,No,4,4
+27,Female,Bangalore,Currently Unemployed,20000-50000,1-2,Talabat,3,5,3,Yes,Keto,Yes,"Fast delivery, Discounts, Combo offers",Rarely,250-500,601-800,Free delivery,No,NA,3,No,Yes,5,5
+27,Female,Kolkata,Employed - Part Time,50001-80000,3-5,Deliveroo,4,5,1,No,No preference,Yes,"Sustainability, Fast delivery, Fresh food",Rarely,<250,801-1000,Cashback,Yes,Poor Customer Service,5,No,Yes,2,5
+35,Female,Kolkata,Currently Unemployed,80001-120000,1-2,"Uber Eats, Talabat, Deliveroo",3,3,2,No,Vegan,Yes,"Fresh food, Sustainability, Combo offers",Sometimes,250-500,601-800,Combo deals,No,NA,4,Maybe,Yes,4,4
+33,Male,Pune,Homemaker,20000-50000,1-2,"Deliveroo, Others, Uber Eats",2,4,1,Yes,No preference,Yes,"Sustainability, Combo offers, Fresh food",Often,501-800,<400,Combo deals,Yes,Other,2,Yes,Yes,4,4
+39,Male,Pune,Student,20000-50000,1-2,Zomato,4,5,2,Yes,Keto,No,"Fresh food, Combo offers, Sustainability",Often,501-800,400-600,Free delivery,Yes,Poor Customer Service,3,Maybe,No,3,5
+32,Male,Mumbai,Currently Unemployed,>120000,>5,"Swiggy, Talabat, Deliveroo",4,4,2,Yes,No preference,No,"Fast delivery, Fresh food, Sustainability",Often,250-500,601-800,Loyalty points,Yes,Poor Food Quality,3,Yes,No,4,5
+28,Male,Mumbai,Homemaker,<20000,3-5,"Swiggy, Zomato, Deliveroo",3,5,3,Yes,Vegetarian,Yes,"Discounts, Combo offers, Fresh food",Often,501-800,>1000,Loyalty points,No,NA,4,No,No,2,1
+32,Female,Pune,Self-employed,80001-120000,3-5,Zomato,2,4,3,No,Keto,Yes,"Sustainability, Discounts, Combo offers",Rarely,801-1200,400-600,Combo deals,No,NA,3,Yes,No,4,4
+35,Female,Chennai,Homemaker,<20000,1-2,"Swiggy, Others, Uber Eats",3,4,4,Yes,No preference,Yes,"Combo offers, Ethical sourcing, Fast delivery",Sometimes,250-500,601-800,Combo deals,Yes,Other,5,Yes,Yes,3,3
+34,Female,Chennai,Employed - Full Time,50001-80000,3-5,"Others, Swiggy",3,5,2,Yes,Other,Yes,"Discounts, Sustainability, Combo offers",Rarely,250-500,801-1000,Cashback,No,NA,4,Maybe,Yes,4,5
+32,Female,Bangalore,Currently Unemployed,50001-80000,1-2,"Talabat, Others, Uber Eats",4,5,4,No,Vegan,Yes,"Combo offers, Discounts, Fresh food",Rarely,250-500,<400,Combo deals,No,NA,5,Maybe,Yes,3,2
+35,Female,Hyderabad,Homemaker,20000-50000,1-2,Uber Eats,3,5,4,No,No preference,Yes,"Fast delivery, Fresh food, Sustainability",Sometimes,250-500,601-800,Cashback,No,NA,4,No,No,2,4
+35,Female,Bangalore,Employed - Part Time,80001-120000,3-5,"Others, Deliveroo, Uber Eats",4,4,4,Yes,Vegetarian,No,"Combo offers, Discounts, Fast delivery",Sometimes,501-800,400-600,Cashback,No,NA,3,Maybe,Yes,3,4
+36,Male,Hyderabad,Self-employed,<20000,1-2,"Uber Eats, Swiggy",5,3,5,No,No preference,Yes,"Combo offers, Ethical sourcing, Fast delivery",Sometimes,501-800,400-600,Cashback,Yes,Limited Food Choices,5,Yes,Yes,2,5
+33,Female,Mumbai,Retired,20000-50000,<1,Uber Eats,3,5,2,Yes,Vegetarian,No,"Ethical sourcing, Fresh food, Fast delivery",Rarely,250-500,400-600,Combo deals,Yes,Limited Food Choices,4,Maybe,Yes,2,5
+29,Female,Delhi,Currently Unemployed,50001-80000,<1,Swiggy,5,5,2,Yes,No preference,Yes,"Sustainability, Discounts, Ethical sourcing",Rarely,501-800,601-800,Combo deals,No,NA,4,Yes,Yes,2,3
+30,Female,Bangalore,Employed - Full Time,20000-50000,<1,"Others, Zomato",3,3,3,No,Vegetarian,Yes,"Fresh food, Combo offers, Sustainability",Rarely,501-800,601-800,Cashback,No,NA,5,Yes,Yes,4,4
+36,Male,Bangalore,Retired,50001-80000,3-5,"Deliveroo, Talabat, Zomato",3,3,2,Yes,Vegetarian,No,"Combo offers, Ethical sourcing, Sustainability",Rarely,<250,400-600,Free delivery,Yes,Poor Customer Service,2,Yes,Yes,4,5
+25,Male,Hyderabad,Homemaker,<20000,1-2,"Uber Eats, Talabat, Zomato",3,3,4,Yes,Vegan,Yes,"Fast delivery, Ethical sourcing, Sustainability",Rarely,<250,801-1000,Combo deals,No,NA,4,No,No,5,4
+53,Male,Mumbai,Retired,<20000,3-5,"Talabat, Others, Zomato",2,5,3,Yes,Vegetarian,Yes,"Discounts, Combo offers, Fast delivery",Sometimes,801-1200,601-800,Loyalty points,No,NA,2,Maybe,Yes,4,4
+46,Female,Mumbai,Retired,<20000,1-2,"Zomato, Swiggy",2,5,3,No,No preference,Yes,"Fast delivery, Ethical sourcing, Combo offers",Often,801-1200,601-800,Free delivery,No,NA,2,No,Yes,4,5
+50,Female,Kolkata,Self-employed,20000-50000,1-2,"Zomato, Talabat, Others",3,5,2,Yes,Other,Yes,"Discounts, Fast delivery, Combo offers",Sometimes,501-800,400-600,Loyalty points,Yes,Other,1,Yes,No,1,3
+62,Male,Hyderabad,Retired,20000-50000,1-2,"Uber Eats, Others, Talabat",4,3,3,Yes,No preference,Yes,"Sustainability, Ethical sourcing, Fast delivery",Sometimes,801-1200,<400,Combo deals,No,NA,1,Yes,Yes,4,4
+51,Other,Mumbai,Retired,50001-80000,3-5,"Swiggy, Zomato, Deliveroo",5,5,4,Yes,Vegetarian,Yes,"Ethical sourcing, Fresh food, Combo offers",Rarely,250-500,400-600,Free delivery,No,NA,4,No,Yes,4,3
+50,Male,Pune,Currently Unemployed,80001-120000,1-2,"Talabat, Others",4,3,4,Yes,Keto,No,"Fast delivery, Sustainability, Fresh food",Often,250-500,801-1000,Combo deals,Yes,Other,5,Yes,Yes,2,4
+36,Male,Chennai,Self-employed,80001-120000,3-5,Zomato,2,5,2,Yes,No preference,No,"Fresh food, Discounts, Combo offers",Rarely,250-500,<400,Combo deals,Yes,Delayed Delivery,4,Yes,Yes,4,5
+57,Male,Kolkata,Employed - Full Time,20000-50000,1-2,"Swiggy, Deliveroo, Others",4,5,2,No,Other,Yes,"Fresh food, Combo offers, Ethical sourcing",Often,<250,>1000,Free delivery,No,NA,4,No,Yes,3,1
+56,Female,Pune,Homemaker,20000-50000,1-2,"Zomato, Uber Eats, Talabat",4,4,1,Yes,Keto,Yes,"Discounts, Fast delivery, Fresh food",Often,501-800,601-800,Combo deals,No,NA,4,Maybe,Yes,5,4
+65,Female,Delhi,Self-employed,20000-50000,1-2,"Swiggy, Zomato",5,4,1,Yes,No preference,No,"Sustainability, Combo offers, Fresh food",Often,>1200,601-800,Free delivery,Yes,Poor Customer Service,5,Yes,No,4,3
+46,Male,Bangalore,Self-employed,20000-50000,3-5,"Swiggy, Talabat",5,3,5,Yes,Other,Yes,"Fresh food, Ethical sourcing, Sustainability",Rarely,501-800,601-800,Combo deals,Yes,Limited Food Choices,5,Yes,Yes,5,3
+52,Female,Kolkata,Student,50001-80000,3-5,"Swiggy, Talabat, Uber Eats",5,3,1,Yes,No preference,Yes,"Combo offers, Ethical sourcing, Discounts",Sometimes,250-500,400-600,Cashback,Yes,High Cost,5,Maybe,Yes,2,5
+52,Male,Delhi,Self-employed,<20000,<1,"Uber Eats, Deliveroo",3,5,4,No,Vegetarian,Yes,"Fast delivery, Sustainability, Ethical sourcing",Rarely,250-500,601-800,Loyalty points,Yes,Delayed Delivery,5,Maybe,Yes,1,4
+65,Female,Bangalore,Student,20000-50000,1-2,"Zomato, Talabat, Deliveroo",4,5,5,Yes,Vegan,No,"Combo offers, Fresh food, Discounts",Rarely,<250,400-600,Cashback,Yes,Other,3,Maybe,No,5,2
+49,Female,Chennai,Homemaker,80001-120000,1-2,Talabat,3,5,1,Yes,Keto,Yes,"Ethical sourcing, Fast delivery, Combo offers",Rarely,250-500,601-800,Combo deals,No,NA,4,Yes,No,1,4
+52,Female,Mumbai,Retired,20000-50000,3-5,"Deliveroo, Swiggy",5,5,3,Yes,Gluten-free,Yes,"Combo offers, Discounts, Fresh food",Often,501-800,601-800,Combo deals,No,NA,4,Yes,Yes,3,4
+56,Male,Pune,Currently Unemployed,20000-50000,<1,"Talabat, Uber Eats",3,5,5,Yes,Vegetarian,Yes,"Ethical sourcing, Combo offers, Fresh food",Often,250-500,601-800,Combo deals,No,NA,4,Maybe,Yes,3,2
+51,Other,Hyderabad,Currently Unemployed,<20000,3-5,"Swiggy, Talabat",1,2,4,Yes,Vegetarian,No,"Ethical sourcing, Fresh food, Fast delivery",Rarely,801-1200,601-800,Cashback,No,NA,4,Yes,No,4,5
+45,Female,Pune,Homemaker,20000-50000,>5,"Deliveroo, Swiggy, Uber Eats",2,3,3,No,No preference,Yes,"Sustainability, Fast delivery, Fresh food",Sometimes,801-1200,<400,Combo deals,Yes,Other,2,No,Yes,2,4
+51,Male,Chennai,Homemaker,80001-120000,<1,"Talabat, Deliveroo",4,5,4,Yes,Keto,Yes,"Discounts, Ethical sourcing, Fast delivery",Often,<250,<400,Free delivery,No,NA,2,Yes,Yes,1,5
+60,Female,Delhi,Employed - Part Time,20000-50000,3-5,Swiggy,3,3,4,No,Vegetarian,Yes,"Fresh food, Discounts, Sustainability",Sometimes,<250,601-800,Loyalty points,Yes,Poor Food Quality,5,No,Yes,3,3
+39,Male,Hyderabad,Retired,20000-50000,<1,"Deliveroo, Uber Eats, Others",3,5,3,Yes,No preference,Yes,"Fresh food, Discounts, Combo offers",Rarely,501-800,400-600,Combo deals,Yes,Delayed Delivery,4,Maybe,Yes,3,3
+51,Female,Mumbai,Homemaker,<20000,<1,Others,5,3,5,Yes,No preference,No,"Ethical sourcing, Discounts, Sustainability",Sometimes,250-500,400-600,Combo deals,Yes,Poor Customer Service,3,Yes,Yes,3,2
+42,Male,Chennai,Self-employed,20000-50000,<1,"Swiggy, Zomato",5,5,3,Yes,No preference,No,"Discounts, Fresh food, Sustainability",Sometimes,501-800,400-600,Loyalty points,No,NA,3,Maybe,Yes,4,2
+61,Female,Hyderabad,Currently Unemployed,<20000,<1,Swiggy,3,5,3,No,Vegetarian,Yes,"Discounts, Fast delivery, Fresh food",Sometimes,250-500,<400,Loyalty points,Yes,Limited Food Choices,4,Yes,Yes,4,5
+34,Female,Chennai,Employed - Full Time,80001-120000,3-5,"Zomato, Others, Deliveroo",3,4,5,Yes,No preference,Yes,"Sustainability, Fresh food, Discounts",Sometimes,250-500,<400,Loyalty points,No,NA,4,Maybe,Yes,4,2
+44,Male,Chennai,Currently Unemployed,80001-120000,<1,"Others, Swiggy, Zomato",5,4,4,Yes,No preference,Yes,"Discounts, Fresh food, Fast delivery",Sometimes,250-500,601-800,Cashback,Yes,High Cost,4,Yes,Yes,2,2
+53,Male,Mumbai,Student,50001-80000,1-2,Talabat,5,5,3,Yes,Vegan,Yes,"Fresh food, Sustainability, Combo offers",Rarely,250-500,400-600,Cashback,No,NA,2,Yes,Yes,4,5
+65,Male,Kolkata,Currently Unemployed,20000-50000,<1,"Deliveroo, Talabat, Others",4,4,1,No,No preference,Yes,"Combo offers, Sustainability, Ethical sourcing",Rarely,801-1200,400-600,Combo deals,No,NA,2,Yes,No,5,4
+49,Male,Bangalore,Employed - Part Time,80001-120000,1-2,"Swiggy, Uber Eats",4,3,4,Yes,Vegetarian,No,"Combo offers, Ethical sourcing, Discounts",Rarely,<250,801-1000,Loyalty points,Yes,Other,4,Maybe,Yes,3,2
+44,Male,Hyderabad,Retired,50001-80000,<1,"Uber Eats, Zomato",3,5,4,Yes,Vegetarian,No,"Discounts, Sustainability, Combo offers",Sometimes,801-1200,<400,Combo deals,Yes,Poor Customer Service,5,Maybe,Yes,2,5
+65,Female,Mumbai,Homemaker,20000-50000,1-2,Deliveroo,5,3,4,No,Keto,Yes,"Ethical sourcing, Discounts, Combo offers",Rarely,501-800,400-600,Combo deals,No,NA,1,Yes,Yes,5,2
+35,Male,Chennai,Retired,50001-80000,<1,Swiggy,4,5,5,No,Vegetarian,Yes,"Discounts, Ethical sourcing, Combo offers",Often,501-800,601-800,Combo deals,No,NA,3,No,Yes,3,5
+28,Male,Mumbai,Homemaker,<20000,3-5,Swiggy,4,5,5,Yes,Vegetarian,Yes,"Sustainability, Ethical sourcing, Fast delivery",Sometimes,<250,601-800,Cashback,Yes,Poor Food Quality,5,Maybe,Yes,4,1
+54,Female,Kolkata,Currently Unemployed,<20000,3-5,"Swiggy, Talabat, Zomato",2,3,3,Yes,No preference,Yes,"Fast delivery, Sustainability, Fresh food",Sometimes,501-800,400-600,Loyalty points,Yes,High Cost,5,Maybe,Yes,2,4
+44,Male,Bangalore,Employed - Full Time,50001-80000,<1,"Swiggy, Others",5,5,1,Yes,Vegetarian,Yes,"Fresh food, Sustainability, Fast delivery",Often,250-500,>1000,Combo deals,No,NA,3,No,Yes,4,4
+39,Female,Pune,Employed - Full Time,20000-50000,3-5,"Deliveroo, Zomato, Swiggy",4,5,3,Yes,Other,Yes,"Fast delivery, Ethical sourcing, Discounts",Often,250-500,801-1000,Cashback,No,NA,5,Maybe,Yes,5,3
+57,Female,Hyderabad,Employed - Part Time,50001-80000,<1,"Swiggy, Uber Eats",3,4,4,No,No preference,Yes,"Ethical sourcing, Fast delivery, Combo offers",Often,501-800,<400,Free delivery,No,NA,5,No,No,3,4
+52,Female,Bangalore,Student,20000-50000,<1,"Uber Eats, Zomato, Talabat",4,4,4,Yes,Vegetarian,Yes,"Fast delivery, Ethical sourcing, Discounts",Sometimes,250-500,<400,Free delivery,Yes,Other,5,Yes,No,2,4
+44,Female,Delhi,Currently Unemployed,80001-120000,<1,"Uber Eats, Talabat, Zomato",4,4,3,No,Vegetarian,Yes,"Fresh food, Discounts, Sustainability",Rarely,801-1200,601-800,Combo deals,No,NA,5,Yes,No,2,5
+37,Female,Hyderabad,Homemaker,>120000,1-2,Deliveroo,4,4,3,Yes,No preference,Yes,"Discounts, Ethical sourcing, Fresh food",Often,250-500,400-600,Combo deals,Yes,Delayed Delivery,5,Maybe,Yes,2,5
+58,Male,Bangalore,Currently Unemployed,80001-120000,1-2,Others,4,3,3,Yes,No preference,Yes,"Discounts, Fresh food, Ethical sourcing",Often,501-800,<400,Loyalty points,No,NA,3,Yes,Yes,3,4
+56,Male,Chennai,Employed - Part Time,20000-50000,3-5,"Zomato, Swiggy",4,4,3,Yes,Vegan,No,"Ethical sourcing, Fresh food, Sustainability",Often,<250,601-800,Loyalty points,No,NA,4,Yes,No,4,4
+49,Male,Hyderabad,Self-employed,20000-50000,1-2,Uber Eats,5,4,3,No,Vegetarian,Yes,"Sustainability, Ethical sourcing, Fast delivery",Sometimes,501-800,400-600,Combo deals,Yes,Limited Food Choices,4,Maybe,Yes,2,4
+65,Female,Hyderabad,Self-employed,20000-50000,3-5,"Others, Talabat",2,5,2,Yes,No preference,No,"Fresh food, Discounts, Ethical sourcing",Sometimes,801-1200,400-600,Cashback,No,NA,4,Yes,No,2,4
+39,Male,Mumbai,Employed - Part Time,<20000,<1,"Swiggy, Talabat, Deliveroo",2,5,3,Yes,Vegan,Yes,"Ethical sourcing, Discounts, Combo offers",Rarely,250-500,<400,Combo deals,No,NA,4,Maybe,Yes,3,4
+34,Female,Chennai,Homemaker,<20000,3-5,Uber Eats,3,5,3,Yes,No preference,Yes,"Fast delivery, Combo offers, Ethical sourcing",Sometimes,250-500,601-800,Loyalty points,No,NA,5,Maybe,Yes,3,4
+43,Prefer not to say,Delhi,Retired,50001-80000,<1,Swiggy,4,5,4,No,No preference,Yes,"Ethical sourcing, Fast delivery, Sustainability",Rarely,501-800,400-600,Loyalty points,Yes,High Cost,5,Maybe,Yes,3,4
+49,Female,Pune,Employed - Part Time,50001-80000,<1,"Uber Eats, Others, Talabat",4,5,1,No,Keto,Yes,"Fast delivery, Fresh food, Discounts",Rarely,<250,<400,Cashback,Yes,Delayed Delivery,3,Yes,Yes,4,5
+52,Female,Kolkata,Homemaker,>120000,<1,Uber Eats,5,5,4,Yes,Vegetarian,Yes,"Combo offers, Fresh food, Fast delivery",Sometimes,250-500,400-600,Combo deals,Yes,Other,3,Yes,Yes,4,4
+47,Male,Bangalore,Employed - Full Time,20000-50000,<1,Uber Eats,4,5,4,Yes,Vegan,Yes,"Combo offers, Fast delivery, Fresh food",Sometimes,250-500,400-600,Loyalty points,Yes,Poor Customer Service,4,Maybe,Yes,2,3
+53,Female,Mumbai,Employed - Part Time,20000-50000,1-2,Talabat,4,4,4,No,No preference,Yes,"Fresh food, Combo offers, Discounts",Rarely,801-1200,801-1000,Combo deals,No,NA,2,Yes,Yes,3,4
+37,Female,Bangalore,Homemaker,<20000,3-5,Swiggy,5,5,4,No,Vegetarian,Yes,"Fast delivery, Ethical sourcing, Fresh food",Often,801-1200,801-1000,Loyalty points,No,NA,4,No,Yes,3,5
+64,Male,Delhi,Employed - Part Time,80001-120000,<1,Uber Eats,3,2,3,Yes,Vegetarian,Yes,"Ethical sourcing, Fast delivery, Sustainability",Often,501-800,400-600,Free delivery,Yes,Delayed Delivery,2,Maybe,Yes,1,5
+49,Male,Delhi,Employed - Part Time,50001-80000,3-5,"Others, Zomato",5,4,3,Yes,No preference,No,"Ethical sourcing, Fresh food, Discounts",Sometimes,501-800,601-800,Free delivery,Yes,Limited Food Choices,4,Yes,Yes,3,5
+61,Female,Hyderabad,Retired,80001-120000,1-2,Deliveroo,3,5,5,Yes,Vegetarian,Yes,"Ethical sourcing, Sustainability, Combo offers",Sometimes,501-800,601-800,Free delivery,Yes,Delayed Delivery,4,Maybe,Yes,4,5
+53,Female,Kolkata,Retired,80001-120000,3-5,"Others, Uber Eats, Swiggy",4,3,4,Yes,Keto,Yes,"Fresh food, Combo offers, Fast delivery",Often,250-500,601-800,Loyalty points,No,NA,2,No,Yes,1,3
+54,Female,Delhi,Homemaker,50001-80000,<1,"Deliveroo, Swiggy, Zomato",4,3,5,No,No preference,Yes,"Fast delivery, Fresh food, Combo offers",Rarely,250-500,400-600,Cashback,No,NA,3,Yes,Yes,1,4
+55,Female,Bangalore,Homemaker,20000-50000,1-2,Talabat,4,5,4,Yes,Keto,No,"Combo offers, Fast delivery, Discounts",Sometimes,250-500,<400,Free delivery,No,NA,3,Yes,Yes,4,5
+54,Female,Chennai,Student,20000-50000,3-5,Uber Eats,2,5,2,Yes,No preference,Yes,"Discounts, Combo offers, Ethical sourcing",Rarely,801-1200,601-800,Loyalty points,No,NA,4,Yes,No,4,3
+56,Female,Chennai,Employed - Part Time,50001-80000,1-2,"Talabat, Others, Swiggy",3,5,1,Yes,No preference,Yes,"Ethical sourcing, Fast delivery, Combo offers",Rarely,501-800,<400,Combo deals,No,NA,5,Yes,Yes,3,4
+63,Male,Hyderabad,Self-employed,20000-50000,1-2,Talabat,4,5,4,No,Vegetarian,Yes,"Fresh food, Ethical sourcing, Discounts",Sometimes,250-500,<400,Free delivery,No,NA,4,Maybe,No,4,5
+51,Male,Pune,Employed - Part Time,20000-50000,<1,"Deliveroo, Swiggy",5,3,3,Yes,Vegetarian,Yes,"Discounts, Fresh food, Fast delivery",Sometimes,501-800,400-600,Cashback,Yes,Poor Food Quality,4,Yes,No,5,5
+57,Male,Bangalore,Employed - Part Time,80001-120000,1-2,"Others, Swiggy",3,2,3,Yes,Keto,Yes,"Combo offers, Discounts, Sustainability",Rarely,250-500,>1000,Cashback,No,NA,4,Yes,Yes,2,5
+49,Female,Bangalore,Homemaker,>120000,1-2,"Swiggy, Zomato, Uber Eats",5,5,4,Yes,No preference,Yes,"Discounts, Combo offers, Ethical sourcing",Rarely,501-800,<400,Cashback,Yes,Other,1,Maybe,Yes,2,5
+64,Female,Delhi,Employed - Part Time,50001-80000,3-5,"Others, Deliveroo",3,4,3,Yes,Vegetarian,No,"Ethical sourcing, Discounts, Combo offers",Sometimes,250-500,400-600,Combo deals,Yes,Delayed Delivery,5,No,Yes,2,3
+43,Female,Kolkata,Currently Unemployed,50001-80000,<1,"Others, Deliveroo",4,5,3,Yes,Other,No,"Combo offers, Discounts, Ethical sourcing",Sometimes,250-500,400-600,Combo deals,No,NA,1,Yes,Yes,4,5
+65,Male,Bangalore,Employed - Part Time,50001-80000,1-2,"Swiggy, Zomato, Deliveroo",4,3,4,No,No preference,Yes,"Combo offers, Ethical sourcing, Fast delivery",Sometimes,501-800,801-1000,Cashback,Yes,Poor Food Quality,5,Maybe,No,3,2
+49,Female,Mumbai,Currently Unemployed,20000-50000,1-2,"Zomato, Deliveroo",4,4,4,Yes,Vegetarian,No,"Combo offers, Ethical sourcing, Discounts",Rarely,501-800,400-600,Cashback,No,NA,4,Yes,No,5,4
+35,Female,Pune,Retired,<20000,1-2,"Deliveroo, Talabat",5,5,3,Yes,No preference,Yes,"Combo offers, Fast delivery, Sustainability",Sometimes,250-500,<400,Cashback,No,NA,4,Maybe,Yes,4,3
+51,Female,Delhi,Self-employed,50001-80000,1-2,"Zomato, Deliveroo, Talabat",4,5,4,Yes,Vegetarian,No,"Combo offers, Sustainability, Discounts",Rarely,250-500,400-600,Combo deals,Yes,High Cost,5,Maybe,Yes,3,3
+43,Female,Mumbai,Homemaker,50001-80000,3-5,"Uber Eats, Zomato",4,5,5,Yes,No preference,Yes,"Sustainability, Combo offers, Fast delivery",Rarely,501-800,400-600,Combo deals,Yes,Other,5,Maybe,No,2,5
+58,Male,Hyderabad,Employed - Part Time,<20000,1-2,Deliveroo,1,4,3,Yes,No preference,Yes,"Discounts, Fresh food, Sustainability",Sometimes,501-800,<400,Loyalty points,No,NA,5,Maybe,No,3,3
+43,Female,Chennai,Currently Unemployed,80001-120000,3-5,Talabat,3,4,1,Yes,Vegan,No,"Fresh food, Combo offers, Discounts",Sometimes,801-1200,<400,Free delivery,Yes,Other,4,No,Yes,2,4
+45,Male,Hyderabad,Currently Unemployed,<20000,<1,"Deliveroo, Talabat",3,3,1,Yes,Vegetarian,No,"Combo offers, Discounts, Fast delivery",Rarely,250-500,601-800,Combo deals,Yes,High Cost,3,Maybe,Yes,5,3
+31,Male,Chennai,Retired,20000-50000,<1,Others,4,3,3,Yes,No preference,Yes,"Fresh food, Combo offers, Fast delivery",Rarely,>1200,400-600,Cashback,No,NA,5,Maybe,Yes,3,2
+45,Female,Hyderabad,Currently Unemployed,50001-80000,1-2,"Others, Zomato",3,4,3,No,No preference,No,"Fast delivery, Sustainability, Ethical sourcing",Sometimes,501-800,601-800,Free delivery,No,NA,1,Yes,Yes,2,3
+25,Female,Bangalore,Employed - Full Time,20000-50000,<1,"Uber Eats, Deliveroo, Others",3,4,5,Yes,Other,Yes,"Sustainability, Fast delivery, Ethical sourcing",Rarely,501-800,<400,Combo deals,Yes,Delayed Delivery,5,Yes,No,3,4
+34,Female,Mumbai,Student,<20000,<1,Talabat,3,5,4,Yes,Vegan,No,"Ethical sourcing, Fast delivery, Discounts",Rarely,501-800,400-600,Free delivery,Yes,Other,5,Maybe,No,2,3
+57,Female,Chennai,Self-employed,20000-50000,<1,Others,2,4,4,Yes,Vegetarian,Yes,"Discounts, Fast delivery, Ethical sourcing",Sometimes,250-500,400-600,Loyalty points,No,NA,5,No,No,3,3
+57,Female,Delhi,Retired,50001-80000,3-5,"Swiggy, Others, Talabat",3,5,5,No,Vegetarian,Yes,"Sustainability, Fresh food, Fast delivery",Rarely,<250,<400,Combo deals,Yes,High Cost,5,Maybe,Yes,1,4
+54,Female,Mumbai,Retired,20000-50000,<1,"Zomato, Talabat, Others",5,5,5,Yes,No preference,Yes,"Discounts, Fast delivery, Ethical sourcing",Rarely,501-800,400-600,Cashback,Yes,High Cost,2,No,No,3,2
+40,Female,Delhi,Employed - Part Time,50001-80000,3-5,Swiggy,4,4,3,No,Vegetarian,Yes,"Combo offers, Discounts, Sustainability",Often,250-500,<400,Cashback,No,NA,4,No,Yes,3,4
+49,Male,Mumbai,Employed - Full Time,50001-80000,<1,Uber Eats,4,3,2,Yes,Vegetarian,Yes,"Fresh food, Combo offers, Sustainability",Sometimes,501-800,601-800,Loyalty points,Yes,Delayed Delivery,2,Yes,Yes,3,5
+49,Male,Mumbai,Employed - Part Time,<20000,3-5,"Zomato, Uber Eats",4,3,4,No,No preference,Yes,"Ethical sourcing, Discounts, Fast delivery",Sometimes,250-500,400-600,Loyalty points,No,NA,2,Yes,Yes,4,4
+38,Male,Hyderabad,Employed - Part Time,>120000,3-5,"Swiggy, Zomato, Uber Eats",3,5,3,Yes,Gluten-free,Yes,"Combo offers, Ethical sourcing, Discounts",Sometimes,250-500,400-600,Loyalty points,No,NA,4,No,Yes,1,4
+65,Male,Chennai,Homemaker,<20000,<1,Deliveroo,5,4,3,Yes,Vegetarian,No,"Combo offers, Discounts, Ethical sourcing",Sometimes,250-500,<400,Loyalty points,Yes,Limited Food Choices,2,No,Yes,3,4
+58,Male,Chennai,Homemaker,>120000,3-5,"Talabat, Others",2,3,4,Yes,Keto,Yes,"Fast delivery, Fresh food, Combo offers",Often,501-800,400-600,Loyalty points,Yes,Other,5,No,Yes,3,5
+47,Male,Kolkata,Homemaker,50001-80000,1-2,"Swiggy, Talabat",3,5,5,Yes,No preference,Yes,"Fast delivery, Discounts, Sustainability",Sometimes,250-500,400-600,Combo deals,No,NA,5,Maybe,Yes,3,5
+50,Male,Mumbai,Employed - Full Time,>120000,3-5,"Talabat, Zomato",4,3,3,No,Vegetarian,Yes,"Sustainability, Ethical sourcing, Discounts",Rarely,501-800,400-600,Combo deals,No,NA,4,No,No,5,5
+52,Other,Bangalore,Employed - Part Time,<20000,1-2,"Deliveroo, Swiggy",2,5,4,Yes,Vegetarian,Yes,"Fast delivery, Combo offers, Sustainability",Sometimes,250-500,<400,Free delivery,Yes,Poor Food Quality,3,Maybe,Yes,2,2
+29,Male,Bangalore,Student,20000-50000,1-2,"Swiggy, Deliveroo",4,5,3,No,Vegetarian,Yes,"Discounts, Fast delivery, Combo offers",Sometimes,501-800,<400,Loyalty points,Yes,Delayed Delivery,5,Yes,Yes,4,5
+47,Female,Delhi,Self-employed,20000-50000,3-5,"Deliveroo, Others",3,5,4,Yes,No preference,Yes,"Sustainability, Combo offers, Discounts",Sometimes,<250,400-600,Cashback,No,NA,5,No,Yes,3,5
+43,Male,Delhi,Homemaker,<20000,1-2,Uber Eats,4,3,1,Yes,No preference,Yes,"Fast delivery, Combo offers, Ethical sourcing",Sometimes,250-500,400-600,Cashback,Yes,Poor Customer Service,5,Yes,No,3,5
+39,Female,Hyderabad,Homemaker,50001-80000,<1,"Deliveroo, Swiggy, Zomato",4,5,5,Yes,Vegetarian,Yes,"Sustainability, Fast delivery, Discounts",Often,501-800,<400,Loyalty points,No,NA,4,Yes,Yes,4,4
+47,Male,Mumbai,Retired,20000-50000,3-5,"Talabat, Uber Eats",3,5,1,Yes,Vegetarian,Yes,"Sustainability, Combo offers, Fresh food",Sometimes,250-500,400-600,Loyalty points,Yes,High Cost,5,Yes,Yes,2,5
+65,Male,Delhi,Employed - Part Time,50001-80000,1-2,"Talabat, Uber Eats",4,4,4,No,No preference,Yes,"Fast delivery, Sustainability, Combo offers",Rarely,250-500,400-600,Loyalty points,Yes,Other,3,Yes,No,4,3
+56,Female,Delhi,Employed - Part Time,<20000,1-2,"Swiggy, Others",3,3,1,Yes,Other,No,"Sustainability, Combo offers, Discounts",Rarely,801-1200,400-600,Loyalty points,No,NA,5,Yes,Yes,1,5
+44,Male,Pune,Employed - Full Time,20000-50000,<1,"Talabat, Deliveroo",4,4,3,Yes,No preference,Yes,"Sustainability, Ethical sourcing, Discounts",Sometimes,250-500,400-600,Loyalty points,Yes,Limited Food Choices,5,Yes,Yes,3,3
+55,Male,Mumbai,Employed - Full Time,50001-80000,1-2,Deliveroo,2,5,3,No,Other,No,"Ethical sourcing, Discounts, Sustainability",Rarely,250-500,400-600,Cashback,Yes,Delayed Delivery,5,Yes,No,4,5
