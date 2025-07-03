@@ -1,0 +1,9 @@
+requirements = '''streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+mlxtend'''
+with open(os.path.join(repo_name, 'requirements.txt'), 'w') as req_file:
+    req_file.write(requirements)
