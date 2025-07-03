@@ -1,41 +1,18 @@
 import streamlit as st
 import pandas as pd
 
-# App Title
-st.title("🍽️ TasteMate Food Delivery Dashboard")
+st.set_page_config(page_title="TasteMate Dashboard", layout="centered")
 
-# Load dataset
-@st.cache_data
-def load_data():
-    data = pd.read_csv("foodapp_survey_synthetic.csv")
-    return data
+st.title("🍽️ TasteMate Streamlit App")
+st.write("🚀 Your Streamlit deployment is working!")
 
-df = load_data()
+# Try loading your CSV (only if it exists)
+try:
+    df = pd.read_csv("foodapp_survey_synthetic.csv")
+    st.success(" Data loaded successfully!")
+    st.dataframe(df.head())
+except FileNotFoundError:
+    st.warning('foodapp_survey_synthetic.csv' not found in repo.")
 
-# Sidebar navigation
-st.sidebar.title("Navigation")
-tabs = st.sidebar.radio("Choose Tab", ["Data Visualization", "Classification", "Clustering", "Association Rule Mining", "Regression"])
-
-# Tabs content
-if tabs == "Data Visualization":
-    st.header("📊 Descriptive Insights")
-    st.write(df.head())
-
-elif tabs == "Classification":
-    st.header("📌 Classification Analysis")
-    st.write("Classification analysis will be shown here.")
-
-elif tabs == "Clustering":
-    st.header("📍 Clustering Analysis")
-    st.write("Clustering insights will be shown here.")
-
-elif tabs == "Association Rule Mining":
-    st.header("🔗 Association Rule Mining")
-    st.write("Association rule mining insights will be shown here.")
-
-elif tabs == "Regression":
-    st.header("📈 Regression Analysis")
-    st.write("Regression analysis will be shown here.")
-
-df = pd.read_csv("foodapp_survey_synthetic.csv")
-
+st.markdown("---")
+st.caption("© 2025 TasteMate Cloud Kitchen • Powered by Streamlit")
